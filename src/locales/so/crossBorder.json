@@ -1,0 +1,121 @@
+{
+    "banner": {
+      "title": "Hay’adaha",
+      "subtitle": "Ogow Waajibaadkaaga"
+    },
+    "intro": {
+      "title": "Gudbinta Xogta Dalalka Kale"
+    },
+    "section1": {
+      "title": "Fahanka Gudbinta Xogta Dalalka Kale",
+      "desc": "Gudbinta xogta dalalka kale waxay tilmaamaysaa wareejinta xogta shaqsiga ah waddan kale. Iyadoo caalamku isku xirnaanayo, gudbinta noocan ahi waa arrin caadi ah, waxaana sabab u ah howlaha ganacsi ee caalamiga ah, adeegyada daruuraha (cloud), iyo iskaashi caalami ah. Si kastaba ha ahaatee, gudbinta xogta waddamo kale waxay la timaadaa caqabado sharci iyo amni oo u baahan in si taxaddar leh loo maareeyo."
+    },
+    "section2": {
+      "title": "Ahmiyadda Gudbinta Xogta Dalalka Kale",
+      "desc": "Gudbinta xogta dalalka kale waxay u sahlaysaa hay’adaha in ay:",
+      "item1": {
+        "title": "Kordhiyaan Wax-soo-saarka:",
+        "desc": "Is-dhaafsiga xogta ee xafiisyada iyo kooxaha caalamiga ah wuxuu hagaajiyaa wax wada shaqaynta."
+      },
+      "item2": {
+        "title": "Galaan Suuqyada Caalamiga ah:",
+        "desc": "Ganacsiyadu waxay gaari karaan macaamiisha caalamka oo waxay adeeg siin karaan gobollo kala duwan."
+      },
+      "item3": {
+        "title": "Ka Faa’iidaystaan Aqoonta Caalamiga ah:",
+        "desc": "Hay’aduhu waxay adeegsan karaan xirfadlayaal iyo la-hawlgalayaal adduunka dacaladiisa jooga."
+      },
+      "item4": {
+        "title": "Adeegsadaan Adeegyada Daruuraha:",
+        "desc": "Bixiyeyaasha adeegyada daruuraha waxay si caalami ah u shaqeeyaan, taasoo keenta in xogta loo gudbiyo waddamo kala duwan si loo helo adeeg degdeg ah iyo kaydinta xogta."
+      }
+    },
+    "section3": {
+      "title": "Qaab-dhismeedka Sharci iyo Xeer-dejineed",
+      "desc": "Gudbinta xogta waddamo kale waxaa lagu maamulaa sharciyo kala duwan iyadoo lagu salaynayo ilaalinta xogta. Xeerarkani waxay kala duwan yihiin waddanba waddanka kale, taasoo adkaynaysa u hoggaansanaanta.",
+      "item1": {
+        "title": "U Hoggaansanaanta Sharciga:",
+        "desc": "Waddan kastaa wuxuu leeyahay sharciyo ilaalinta xogta u gaar ah (tusaale, GDPR)."
+      },
+      "item2": {
+        "title": "Go’aamada Ku Filnaanta:",
+        "desc": "Waddamada qaarkood waxaa loo arkaa inay bixiyaan heer ku filan oo ilaalinta xogta ah, taasoo fududaynaysa gudbinta xogta."
+      },
+      "item3": {
+        "title": "Qodobbada Heshiisyada Heerka ah (SCCs):",
+        "desc": "Kuwani waa qodobo heshiisyo horay loo oggolaaday si loogu gudbiyo xogta EU-ga dibaddiisa."
+      },
+      "item4": {
+        "title": "Xeerarka Gudaha Shirkadaha (BCRs):",
+        "desc": "Kuwani waa siyaasado gudaha shirkadaha caalamiga ah oo hubinaya ilaalinta xogta marka ay gudbineyso gudaha shirkadda."
+      }
+    },
+    "section4": {
+      "title": "Arrimaha Muhiimka ah ee La Xiriira Gudbinta Xogta Dalalka Kale",
+      "desc": "Hay’adaha waa in ay tixgeliyaan arrimo dhowr ah si ay u fuliyaan gudbinta xogta si waafaqsan sharciyada:",
+      "item1": {
+        "title": "U Hoggaansanaanta Sharciga:",
+        "desc": "La soco oo u hoggaansanow sharciyada waddanka laga soo dirayo iyo midka la dirayo."
+      },
+      "item2": {
+        "title": "Yaraynta Xogta:",
+        "desc": "Kaliya gudbi xogta muhiimka u ah ujeedada la rabo in la gaaro."
+      },
+      "item3": {
+        "title": "Tallaabooyinka Amniga:",
+        "desc": "Adeegso amni adag sida sirta xogta iyo hababka gudbinta amniga leh."
+      },
+      "item4": {
+        "title": "Xuquuqda Shaqsiga Xogtiisa La Haysto:",
+        "desc": "Hubi in dadka xuquuqdooda la dhowrayo si kastaba ha ahaatee meesha xogtooda loo gudbiyo."
+      },
+      "item5": {
+        "title": "Heshiisyada Saddexaad:",
+        "desc": "Heshiisyo cad oo lala galo adeeg-bixiyeyaasha dhinaca saddexaad ee ku lug leh xog-gudbinta."
+      }
+    },
+    "section5": {
+      "title": "Caqabadaha iyo Khatarta",
+      "desc": "Gudbinta xogta caalamka waxay keentaa caqabado badan:",
+      "item1": {
+        "title": "Adkaanta U Hoggaansanaanta:",
+        "desc": "Sharciga waddanba waddanka kale ayaa kala duwan, taasoo keenta dhibaatooyin u hoggaansanaan."
+      },
+      "item2": {
+        "title": "Madax-bannaanida Xogta:",
+        "desc": "Waddamo badan ayaa leh sharciyo mamnuucaya in xogtooda waddan kale loo gudbiyo."
+      },
+      "item3": {
+        "title": "Khatarta Amni:",
+        "desc": "Xogta la gudbiyo waxaa halis ugu jirta in la jabsado ama aan si fiican loo ilaaliyo."
+      },
+      "item4": {
+        "title": "Sumcad Daro:",
+        "desc": "Haddii sharciyada la jabiyo, waxay keeni kartaa ganaaxyo, dacwooyin iyo kalsooni darrada macaamiisha."
+      }
+    },
+    "section6": {
+      "title": "Habraacyada Wanaagsan ee Gudbinta Xogta Dalalka Kale:",
+      "item1": {
+        "title": "Samee Qiimeynta Khatarta:",
+        "desc": "Qiimee khatarta gudbinta xogta caalamiga ah oo samee tallaabooyin ka hortag ah."
+      },
+      "item2": {
+        "title": "Adeegso Habraacyo La Oggolyahay:",
+        "desc": "Adeegso go’aamada ku filnaanta, SCCs, ama BCRs si sharci ahaan wax loo gudbiyo."
+      },
+      "item3": {
+        "title": "Kormeer Joogto ah:",
+        "desc": "Kormeer joogto ah ku samee habka xogta loo gudbiyo si loo hubiyo in lagu jiro wadadii saxda ahayd."
+      },
+      "item4": {
+        "title": "Tababar Shaqaale:",
+        "desc": "Shaqaalaha u tababar si ay u fahmaan sharciyada iyo amniga xogta."
+      },
+      "item5": {
+        "title": "La Soco Isbedelada Sharciyada:",
+        "desc": "Si joogto ah ula soco isbedelada sharciyada si aad ula jaanqaaddo."
+      }
+    }
+  }
+  

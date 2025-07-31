@@ -1,0 +1,113 @@
+{
+    "bannerTitle": "Hay'adaha",
+    "bannerSubtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Maamulka Elektarooniga ah iyo Ururinta Xogta Online-ka",
+    "mainParagraph": "Maamulka Elektarooniga ah waxa uu la xiriiraa adeegsiga tignoolajiyada casriga ah si loo bixiyo adeegyada dadweynaha, kor loogu qaado isgaarsiinta dowladda iyo muwaadiniinta, loo hagaajiyo hufnaanta, lana kordhiyo waxqabadka dowladda.",
+    "keyComponentsTitle": "Qaybaha Muhiimka ah ee Maamulka Elektarooniga:",
+    "keyComponentsParagraph": "Maamulka elektarooniga ah waxa uu beddelayaa habka ay dowladuhu ula dhaqmaan muwaadiniinta, iyaga oo adeegsanaya tignoolajiyada si loo helo hufnaan iyo isla xisaabtan.",
+    "digitalPublicServicesTitle": "Adeegyada Dadweynaha Dijitalka ah:",
+    "digitalPublicServices": [
+      {
+        "title": "E-Caafimaad",
+        "description": "Adeegyada caafimaadka ee dijitaalka ah sida telemedicine, diiwaannada caafimaadka elektarooniga, iyo bogagga xogta caafimaadka."
+      },
+      {
+        "title": "E-Waxbarasho",
+        "description": "Khayraadka waxbarashada online-ka ah, fasallada dijitaalka ah, iyo barnaamijyada e-learning."
+      },
+      {
+        "title": "E-Adeegyo",
+        "description": "Goobaha adeegyada dowladda ee internet-ka sida rukhsadaha, canshuuraha, iyo diiwaannada dadweynaha."
+      }
+    ],
+    "citizenEngagementTitle": "Ka-qaybgalka Muwaadiniinta:",
+    "citizenEngagement": [
+      {
+        "title": "E-Ka-qaybgal",
+        "description": "Qalabyo iyo madal online ah oo u suura geliya muwaadiniinta inay ka qayb qaataan go'aan qaadashada."
+      },
+      {
+        "title": "E-La-tashi",
+        "description": "Sahanada internet-ka iyo doodaha dadweynaha ee la xiriira siyaasadda."
+      }
+    ],
+    "transparencyTitle": "Hufnaan iyo Isla Xisaabtan:",
+    "transparency": [
+      {
+        "title": "Xog Furan",
+        "description": "Ololaha dawladda ee lagu bixinayo xogta dadweynaha si loo xoojiyo hufnaanta."
+      },
+      {
+        "title": "E-Kormeer",
+        "description": "Hababka dijitaalka ah ee lagu hubiyo waxqabadka dawladda si looga hortago musuqmaasuqa."
+      }
+    ],
+    "efficiencyTitle": "Hufnaan iyo Waxtar:",
+    "efficiency": [
+      {
+        "title": "E-Qandaraas",
+        "description": "Hababka qandaraasyada online-ka ah si loo fududeeyo wax iibsiga."
+      },
+      {
+        "title": "Habaynta Shaqada Dijitaalka ah",
+        "description": "Si otomaatig ah loo habeeyo hababka shaqo si loo yareeyo qaladaadka iyo kor loogu qaado waxqabadka."
+      }
+    ],
+    "securityTitle": "Amniga iyo Qarsoodiga:",
+    "security": [
+      {
+        "title": "Amniga Internet-ka",
+        "description": "Tallaabooyinka lagu difaacayo kaabayaasha dijitaalka ah iyo xogta muwaadiniinta."
+      },
+      {
+        "title": "Ilaalinta Xogta",
+        "description": "Xeerar lagu xaqiijinayo asturnaanta iyo amniga xogta."
+      }
+    ],
+    "benefitsTitle": "Faa'iidooyinka:",
+    "benefits": [
+      {
+        "title": "Helitaan",
+        "description": "Muwaadiniintu waxay heli karaan adeegyo wakhti kasta iyo meel kasta."
+      },
+      {
+        "title": "Waxtar",
+        "description": "Adeegyada otomaatiga ah waxay yareeyaan wakhtiga iyo kharashka."
+      },
+      {
+        "title": "Hufnaan",
+        "description": "Xog furan iyo kormeerka dijitaalka ah waxay xoojiyaan hufnaanta."
+      },
+      {
+        "title": "Ka-qaybgal",
+        "description": "Qalabka e-participation wuxuu kor u qaadaa ka qaybgalka muwaadiniinta."
+      },
+      {
+        "title": "Badbaadinta Kharashka",
+        "description": "Adeegyada dijitaalka ah waxay yareeyaan kharashaadka dowladeed."
+      }
+    ],
+    "onlineDataCollectionTitle": "Ururinta Xogta Online-ka",
+    "onlineDataCollectionParagraph": "Ururinta xogta online-ka waxay ku lug leedahay helista xogta isticmaalayaasha websaydhada, apps-ka mobilada, iyo baraha bulshada.",
+    "typesOfDataTitle": "Noocyada Xogta la Ururiyo:",
+    "onlineDataCollection": [
+      "Xogta Shaqsiga: Magacyada, iimaylada, xogta bixinta.",
+      "Xogta Dhaqanka: Bogagga la arkay, gujisyada, iyo wakhtiga fadhiga.",
+      "Xogta Macaamilka: Taariikhda iibsiga, faahfaahinta amarrada.",
+      "Xogta Cilmiga Dadweynaha: Da'da, jinsiga, goobta.",
+      "Xogta Farsamada: IP addresses, nooca browser-ka.",
+      "Xogta Doorbidida: Xiisaha iyo doorbidida isticmaalayaasha."
+    ],
+    "bestPracticesTitle": "Hababka Ugu Fiican:",
+    "bestPractices": [
+      "Hufnaan iyo Ogolaansho: U sheeg isticmaalayaasha hababka ururinta xogta.",
+      "Yaraynta Xogta: Ururi xogta loo baahan yahay oo kaliya.",
+      "Tallaabooyinka Amniga: Sugta xogta la ururiyay.",
+      "Xakameynta Isticmaalaha: Sii habab ay isticmaalayaashu ku maareeyaan xogtooda.",
+      "U-hoggaansanaanta: La soco xeerarka ilaalinta xogta.",
+      "Saxnaanta Xogta: Hubi xogta in ay cusboonaysantahay.",
+      "Anonymization: Ka ilaali xogta asturnaanta iyadoo la qarxinayo.",
+      "Siyaasadaha Qarsoodiga: Samee siyaasado cad oo la fahmi karo."
+    ]
+  }
+  

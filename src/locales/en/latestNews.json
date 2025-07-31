@@ -1,0 +1,54 @@
+{
+  "newsTitle": "Latest News",
+  "seeMore": "See More",
+  "posts": [
+    {
+      "id": "post-1",
+      "title": "The New General Manager of the Data Protection Authority.",
+      "summary": "Mr. Mohamed Nur Ali, officially assumed office today, with the handover conducted by the Deputy General Manager, Mr. Daud Abdi Hussein (Shigaye).",
+      "published": "05 Dec 2024",
+      "href": "https://www.facebook.com/share/p/14iRvKtRUB/",
+      "image": "/images/Covers/Third.jpg"
+    },
+    {
+      "id": "post-2",
+      "title": "The annual conference of the Communication and Technology Professionals Community (#SomNOG7)",
+      "summary": "Eng. Mohamed Nur Ali Olow, General Manager of the Data Protection Authority, delivered a key speech during the meeting.",
+      "published": "26 Dec 2024",
+      "href": "https://www.facebook.com/share/p/12Kxm1cYDfk/",
+      "image": "/images/News/SOMNOG.jpg"
+    },
+    {
+      "id": "post-3",
+      "title": "New DPA Director Eng. Maxamed Nuur Cali Welcomed, Tours Organization's Priorities",
+      "summary": "The Deputy Manager of the Data Protection Authority (DPA) welcomed the new General Manager, Eng. Mohamed Nur Ali, to the agency's headquarters.",
+      "published": "02 Dec 2024",
+      "href": "https://www.facebook.com/share/p/1GnfFFvyNr/",
+      "image": "/images/News/Dep.jpg"
+    },
+    {
+      "id": "post-4",
+      "title": "The Acting General Manager of the Data Protection Authority (DPA Somalia)",
+      "summary": "Mr. Da'ud Shigaye, participated in the 2nd Somali National Cybersecurity Forum held in Mogadishu.",
+      "published": "11 Nov 2024",
+      "href": "https://www.facebook.com/share/p/15QJCkrKc6/",
+      "image": "/images/News/SNCF.jpg"
+    },
+    {
+      "id": "post-5",
+      "title": "A delegation from the DPA Somalia",
+      "summary": "A delegation from the DPA Somalia, participated in the 3rd DP and Policy Framework Reform Workshop of the East African Community (EAC) held in Kigali, Rwanda.",
+      "published": "22 Oct 2024",
+      "href": "https://www.facebook.com/dpasomalia/posts/pfbid0gxbyCeC941Vo9fq3VES7SCLQFiQiPY7jaX2Zsz7meEr4xpoHh2v6xfa9xjHiHjprl",
+      "image": "/images/News/EAC.jpg"
+    },
+    {
+      "id": "post-6",
+      "title": "Dr. Vincent Olatunji, Head of Nigeria's Data Protection Authority",
+      "summary": "The Director of the Nigerian Data Protection Authority, Dr. Vincent Olatunji, welcomed a delegation from the Somali Data Protection Authority, accompanied by Somalia's Ambassador to Nigeria, Mr. Jamaal Maxamed Barrow, in Abuja.",
+      "published": "04 Sep 2024",
+      "href": "https://www.facebook.com/share/p/15u4JYQj1b/",
+      "image": "/images/News/Nigeria.jpg"
+    }
+  ]
+}

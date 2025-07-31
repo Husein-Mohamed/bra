@@ -1,0 +1,48 @@
+{
+    "banner": {
+      "title": "For Organizations",
+      "subtitle": "Know Your Obligations"
+    },
+    "section1": {
+      "title": "Banking: Data Security and Compliance",
+      "desc": "The banking and finance sector handles sensitive financial information that requires stringent protection measures."
+    },
+    "section2": {
+      "title": "Data Collection and Processing in Banking:",
+      "desc": "Customer Data: Personal information, account details, transaction history. Financial Transactions: Payment data, credit card information, loan applications. Operational Data: Employee records, internal financial data, audit logs."
+    },
+    "section3": {
+      "title": "Best Practices:",
+      "item1": {
+        "title": "Data Encryption:",
+        "desc": "Encrypt sensitive financial data during storage and transmission."
+      },
+      "item2": {
+        "title": "Access Control:",
+        "desc": "Implement strict access controls and authentication mechanisms."
+      },
+      "item3": {
+        "title": "Fraud Prevention:",
+        "desc": "Use advanced monitoring tools to detect and prevent fraud."
+      },
+      "item4": {
+        "title": "Compliance:",
+        "desc": "Ensure compliance with financial data protection regulations (e.g., AML, GDPR)."
+      },
+      "item5": {
+        "title": "Data Minimization:",
+        "desc": "Collect only necessary financial data and limit retention periods."
+      },
+      "item6": {
+        "title": "Customer Education:",
+        "desc": "Educate customers about data protection best practices."
+      }
+    },
+    "section4": {
+      "title": "Benefits:",
+      "benefit1": "Enhances data security and reduces the risk of data breaches.",
+      "benefit2": "Builds customer trust and confidence in financial institutions.",
+      "benefit3": "Ensures compliance with regulatory requirements."
+    }
+  }
+  

@@ -1,0 +1,30 @@
+{
+  "storageLimitation": {
+    "title": "Storage Limitation",
+    "description": "Don’t store personal data you do not need anymore."
+  },
+  "purposeLimitation": {
+    "title": "Purpose Limitation",
+    "description": "Personal data should be collected for a specific and lawful purpose."
+  },
+  "dataAccuracy": {
+    "title": "Data Accuracy",
+    "description": "Information should be accurate, up-to-date, and kept for a limited time, ensuring accuracy."
+  },
+  "lawfulness": {
+    "title": "Lawfulness",
+    "description": "Information should be processed legally and ethically while upholding justice."
+  },
+  "dataMinimization": {
+    "title": "Data Minimization",
+    "description": "Personal data should be minimal and be the exact amount of data that is needed."
+  },
+  "fairnessAccountability": {
+    "title": "Fairness and Accountability",
+    "description": "Process personal data with fairness and accountability, adhering to privacy principles."
+  },
+  "confidentialitySecurity": {
+    "title": "Confidentiality and Security",
+    "description": "Entities must safeguard individuals' data, uphold their rights, and implement measures for data integrity."
+  }
+}

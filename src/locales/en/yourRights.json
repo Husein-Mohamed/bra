@@ -1,0 +1,36 @@
+{
+    "yourDataYourRights": "Your Data, Your Rights",
+    "yourRightsTitle": "Your Rights",
+    "yourRightsDescription": "Find out more about your personal data rights.",
+    "features": {
+      "rightOfAccess": {
+        "title": "Right of Access",
+        "description": "Individuals have the right to know whether their personal data is being processed, where, and for what purpose. They can request a copy of their personal data."
+      },
+      "rightToRectification": {
+        "title": "Right to Rectification",
+        "description": "Individuals can have inaccurate personal data corrected and incomplete data completed."
+      },
+      "rightToObject": {
+        "title": "Right to Object",
+        "description": "Individuals have the right to object to the processing of their personal data for direct marketing, research, or in a few other contexts."
+      },
+      "rightToErasure": {
+        "title": "Right to Erasure (Right to be Forgotten)",
+        "description": "Under certain conditions, individuals can request the deletion of their personal data."
+      },
+      "rightToRestrictProcessing": {
+        "title": "Right to Restrict Processing",
+        "description": "Individuals have the right to block or suppress processing of their personal data under certain conditions."
+      },
+      "rightToDataPortability": {
+        "title": "Right to Data Portability",
+        "description": "Individuals can request and receive their personal data for their own purposes across different services."
+      },
+      "rightsInRelationToAutomatedDecisionMaking": {
+        "title": "Rights in Relation to Automated Decision Making and Profiling",
+        "description": "Individuals have the right not to be subject to a decision based solely on automated processing, including profiling, that produces legal effects concerning them or similarly significantly affects them. The Somalia data protection act granted this right."
+      }
+    }
+  }
+  

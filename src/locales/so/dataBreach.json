@@ -1,0 +1,83 @@
+{
+  "bannerTitle": "Ogaanshaha Xog Jabka",
+  "bannerSubtitle": "La Soco, Naftaada Badbaadi",
+  "title": "Fahanka Xog Jabka iyo Sida Loo Jawaabo",
+
+  "understanding": {
+    "heading": "Waa Maxay Xog Jab?",
+    "paragraphs": [
+      "Xog jabku waa marka xog xasaasi ah ama qarsoodi ah si aan oggolaansho lahayn loo helo ama loo faafiyo."
+    ],
+    "bullets": [
+      {
+        "label": "Helitaanka Aan La Oggolayn",
+        "desc": "Marka qof si sharci darro ah u helo xog."
+      },
+      {
+        "label": "Xog Faqday",
+        "desc": "Xog si kama' ah u fashilantay ama loo daadiyay."
+      }
+    ]
+  },
+
+  "types": {
+    "heading": "Noocyada Xog Jabka",
+    "paragraphs": [],
+    "bullets": [
+      {
+        "label": "Jabinta (Hacking)",
+        "desc": "Weeraro sharci darro ah oo la beegsanayo nuglaanta nidaamka."
+      },
+      {
+        "label": "Khiyaamo (Phishing)",
+        "desc": "Isku dayo khiyaano ah si loo helo xog xasaasi ah."
+      }
+    ]
+  },
+
+  "causes": {
+    "heading": "Sababaha Caadiga ah",
+    "paragraphs": [],
+    "bullets": [
+      {
+        "label": "Erey Sir Fudud",
+        "desc": "Erey sir fudud oo si sahal ah loo malayn karo."
+      },
+      {
+        "label": "Nidaam Aan La Cusbooneysiin",
+        "desc": "Nidaamyada aan la cusbooneysiin waxay ka dhigaan bartilmaameed fudud."
+      }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Sida Looga Hortago Xog Jabka",
+    "paragraphs": [],
+    "bullets": [
+      {
+        "label": "Isticmaal Erey Sir Adag",
+        "desc": "Samee ereyo sir adag oo marar badan cusboonaysii."
+      },
+      {
+        "label": "Adeegso Laba-Tallaabo Oggolaansho",
+        "desc": "Kordhi badbaadada xisaabtaada adigoo adeegsanaya laba-tallaabo oggolaansho."
+      }
+    ]
+  },
+
+  "impact": {
+    "heading": "Saameynta Xog Jabka",
+    "paragraphs": [
+      "Xog jabku wuxuu sababi karaa khasaare dhaqaale, sumcad xumo, iyo cawaaqib sharciyeed oo aad u weyn."
+    ],
+    "bullets": []
+  },
+
+  "response": {
+    "heading": "Sida Loo Jawaabo Xog Jab",
+    "paragraphs": [
+      "Hay’aduhu waa inay si degdeg ah u xakameeyaan jabinta, u wargeliyaan dadka ay khusayso, islamarkaana qaadaan tallaabooyin kahortag ah."
+    ],
+    "bullets": []
+  }
+}

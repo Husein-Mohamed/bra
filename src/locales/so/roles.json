@@ -1,0 +1,26 @@
+{
+  "dataSubject": {
+    "triggerTitle": "Xuquuqdaada Maaddaama Aad Maamusha Xogta",
+    "triggerSubtitle": "Tallaabooyinka Muhiimka ah ee Ilaalinta Xogta iyo Kalsoonida",
+    "modalTitle": "Xuquuqdaada Maaddaama Aad Maamusha Xogta",
+    "modalSubtitle": "Tallaabooyinka Muhiimka ah ee Ilaalinta Xogta iyo Kalsoonida",
+    "modalContent": "Magacaaga, Lambarkaaga Taleefanka, Email-kaaga, Kaarka Aqoonsiga ama Baasaboor-kaaga, Akoonkaaga Bangiga, Aqoonsigaaga, iyo wixii macluumaad ah ee qof aqoonsan kara.",
+    "buttonText": "Ogow Faahfaahinta Xuquuqdaada"
+  },
+  "dataController": {
+    "triggerTitle": "Mas’uuliyaddaada Maaddaama Aad Tilmaame Xogta",
+    "triggerSubtitle": "Faham Waajibaadka Sharciga ee Maareynta Xogta Shakhsiyeed",
+    "modalTitle": "Mas’uuliyaddaada Maaddaama Aad Tilmaame Xogta",
+    "modalSubtitle": "Faham Waajibaadka Sharciga ee Maareynta Xogta Shakhsiyeed",
+    "modalContent": "Maaddaama Tilmaame Xogta, waa inaad xaqiijisaa in dhammaan hawlaha farsamaynta xogta ay leeyihiin saldhig sharci ah. Sababaha sharciga ah waxaa ka mid ah oggolaanshaha mawduuca xogta, baahida fulinta heshiis, u hoggaansanaanta waajibaadka sharciga, ilaalinta danaha muhiimka ah, fulinta hawl dadweynaha u baahan, ama danaha sharciga ah ee tilmaamaha ama qof saddexaad.",
+    "buttonText": "Ogow Mas’uuliyaddaada"
+  },
+  "dataProcessor": {
+    "triggerTitle": "Doorkaaga Maaddaama Aad Qabato Xogta",
+    "triggerSubtitle": "Hagaha Waafaqsanaanta, Mas’uuliyadda, iyo Dhaqamada Ugu Wanaagsan",
+    "modalTitle": "Doorkaaga Maaddaama Aad Qabato Xogta",
+    "modalSubtitle": "Hagaha Waafaqsanaanta, Mas’uuliyadda, iyo Dhaqamada Ugu Wanaagsan",
+    "modalContent": "Maaddaama Qabato Xogta, waa inaad ka caawisaa Tilmaame Xogta xaqiijinta waajibaadkooda sharciga ilaalinta xogta. Tan waxaa ka mid ah ka jawaabidda codsiyada xuquuqda xog-qaadayaasha, ogeysiisyada xadgudubyada xogta, iyo sameynta Qiimeynta Saamaynta Ilaalinta Xogta.",
+    "buttonText": "Ogow Mas’uuliyaddaada"
+  }
+}

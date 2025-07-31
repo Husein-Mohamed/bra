@@ -1,0 +1,131 @@
+{
+  "badge": "What We Do",
+  "heading": "Explore Our Services",
+
+  "cards": [
+    {
+      "id": "registration-card",
+      "icon": "FileText",
+      "name": "Registration Form",
+      "description": "Used by data controllers & processors to register with the DPA.",
+      "href": "/services#registration",
+      "cta": "Read more"
+    },
+    {
+      "id": "complaint-card",
+      "icon": "AlertTriangle",
+      "name": "Complaint Form",
+      "description": "Lets individuals lodge complaints about misuse or mishandling of their personal data.",
+      "href": "/services#complaint",
+      "cta": "Read more"
+    },
+    {
+      "id": "breach-card",
+      "icon": "ClipboardList",
+      "name": "Data Breach Report",
+      "description": "Mandatory notice to the authority when a personal-data breach occurs.",
+      "href": "/services#breach",
+      "cta": "Read more"
+    },
+    {
+      "id": "dpo-card",
+      "icon": "ShieldCheck",
+      "name": "Data Protection Officer Form",
+      "description": "Application to be certified / recognised as a Data Protection Officer.",
+      "href": "/services#dpo",
+      "cta": "Read more"
+    }
+  ],
+
+  "forms": [
+    {
+      "id": "registration",
+      "icon": "FileText",
+      "name": "Registration Form",
+      "law": "Art. 12 – Data Protection Act 2024 (Somalia)",
+      "description": "Used by data controllers & processors to register their activities with the DPA.",
+      "docs": [
+        "Certificate of Incorporation",
+        "Company statutes",
+        "Description of data-processing purpose"
+      ],
+      "file": "/docs/forms/Data-Controller-Form-EN.pdf",
+      "downloadCta": "Download form"
+    },
+    {
+      "id": "complaint",
+      "icon": "AlertTriangle",
+      "name": "Complaint Form",
+      "law": "Art. 38 – Data Protection Act 2024 (Somalia)",
+      "description": "Lets individuals lodge complaints about misuse or mishandling of their personal data.",
+      "docs": [
+        "Copy of national ID / passport",
+        "Proof of relationship with controller"
+      ],
+      "file": "/docs/forms/Complaint-Form-EN.pdf",
+      "downloadCta": "Download form"
+    },
+    {
+      "id": "breach",
+      "icon": "ClipboardList",
+      "name": "Data Breach Report",
+      "law": "Art. 34 – Data Protection Act 2024 (Somalia)",
+      "description": "Mandatory notice to the authority when a personal-data breach occurs.",
+      "docs": [
+        "Incident summary",
+        "Mitigation steps taken",
+        "Number of data subjects affected"
+      ],
+      "file": "/docs/forms/Data-Breach-Report-EN.pdf",
+      "downloadCta": "Download form"
+    },
+    {
+      "id": "dpo",
+      "icon": "ShieldCheck",
+      "name": "Data Protection Officer Form",
+      "law": "Art. 19 – Data Protection Act 2024 (Somalia)",
+      "description": "Application to be certified / recognised as a Data Protection Officer.",
+      "docs": [
+        "Candidate CV",
+        "Proof of relevant training & experience",
+        "Company endorsement letter"
+      ],
+      "file": "/docs/forms/DPO-Registration-EN.pdf",
+      "downloadCta": "Download form"
+    }
+  ],
+
+  "items": "@@forms",                     
+
+  "requiredDocs": "Required Documentation:",
+  "uploadLabel": "Upload a completed form",
+  "cta": { "upload": "Upload" },
+
+  "awareness": {
+    "title": "Get Trained on Data Protection",
+    "lawRef": "Art. 45 – Data Protection Training Obligation",
+    "desc": "All data controllers must undergo certified training annually to stay compliant.",
+    "items": [
+      "Online self-paced courses",
+      "In-person workshops",
+      "Certification exams"
+    ],
+    "docs": [
+      "Proof of course completion",
+      "Exam certificate"
+    ],
+    "docsNote": "Keep these on file for audits.",
+    "email": "training@dpa.so",
+    "viewCalendar": "View training calendar",
+    "calendarHref": "/training-calendar"
+  },
+
+  "legal": {
+    "title": "Essential Legal References",
+    "purpose": "Download the following to understand your obligations under the Act.",
+    "links": [
+      { "label": "Full Data Protection Act (PDF)", "href": "/docs/DPA-Act-2024.pdf" },
+      { "label": "Regulation Guidelines",          "href": "/docs/Regulations.pdf" }
+    ]
+  }
+}

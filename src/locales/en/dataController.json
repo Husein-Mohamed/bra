@@ -1,0 +1,67 @@
+{
+    "dataControllerTitle": "Data Controller",
+    "dataControllerSubtitle": "Know Your Obligations",
+    "responsibilitiesTitle": "Responsibilities of a Data Controller:",
+    "keyDutiesTitle": "Key Duties",
+    "responsibilities": [
+      {
+        "title": "Defining Data Processing Activities",
+        "summary": "The Data Controller decides why and how personal data is processed. This includes specifying the types of data collected, the purposes for which it is used, and the methods of processing."
+      },
+      {
+        "title": "Ensuring Lawful Processing",
+        "summary": "The Data Controller must ensure that all data processing activities have a lawful basis. Common legal grounds include consent, necessity for contract performance, legal obligation, vital interest protection, public interest, or legitimate interests."
+      },
+      {
+        "title": "Obtaining Consent",
+        "summary": "When processing is based on consent, the Data Controller is responsible for obtaining and documenting the data subject's consent. This consent must be informed, freely given, and revocable at any time."
+      },
+      {
+        "title": "Transparency and Communication",
+        "summary": "The Data Controller must provide clear and transparent information to data subjects about how their data will be processed. This includes privacy notices that detail the identity of the controller, the purposes of processing, legal bases, and rights of data subjects."
+      },
+      {
+        "title": "Data Subject Rights",
+        "summary": "The Data Controller is obligated to uphold the rights of data subjects, including access to personal data, rectification of inaccurate data, erasure of data, restriction of processing, data portability, and objection to processing."
+      },
+      {
+        "title": "Data Security",
+        "summary": "Implementing appropriate measures to protect personal data from unauthorized access, accidental loss, or destruction is critical. This includes ensuring data integrity, confidentiality, and availability."
+      },
+      {
+        "title": "Record Keeping",
+        "summary": "The Data Controller must maintain records of data processing activities, including details of data categories, processing purposes, data recipients, transfers, and security measures."
+      },
+      {
+        "title": "Data Protection Impact Assessments (DPIAs)",
+        "summary": "When processing activities are likely to result in high risks to the rights and freedoms of individuals, the Data Controller must conduct a Data Protection Impact Assessment to identify and mitigate those risks."
+      },
+      {
+        "title": "Liaison with Data Protection Authorities",
+        "summary": "The Data Controller must cooperate with the Data Protection Authority (DPA) in Somalia, reporting data breaches and complying with any enforcement actions or guidelines."
+      },
+      {
+        "title": "Training and Awareness",
+        "summary": "Ensuring that employees and other relevant stakeholders are aware of data protection obligations and best practices is a key responsibility of the Data Controller."
+      }
+    ],
+    "keyDuties": [
+      {
+        "title": "Risk Assessment",
+        "summary": "Conduct a thorough risk assessment before handling data to identify potential threats and vulnerabilities."
+      },
+      {
+        "title": "Ensuring Lawful Processing",
+        "summary": "Establish data handling agreements that define the terms for processing data, including security measures."
+      },
+      {
+        "title": "Monitoring and Auditing",
+        "summary": "Regularly monitor and audit data handling processes to ensure compliance with protocols and detect breaches."
+      },
+      {
+        "title": "Incident Response",
+        "summary": "Develop an incident response plan to address data breaches promptly, including notifying affected data subjects and authorities."
+      }
+    ]
+  }
+  

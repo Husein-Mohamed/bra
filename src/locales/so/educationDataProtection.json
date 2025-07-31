@@ -1,0 +1,42 @@
+{
+    "bannerTitle": "Hay'adaha",
+    "bannerSubtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Ilaalinta Xogta iyo Asturnaanta",
+    "mainDescription": "Jaamacadaha iyo dugsiyada waxay maareeyaan xog badan oo ku saabsan ardayda, macallimiinta, iyo shaqaalaha. Ilaalinta xogtan waa mid muhiim ah.",
+    "collectionTitle": "Ururinta iyo Ka Shaqeynta Xogta Waxbarashada",
+    "collectionDescription": "Xogta Ardayda: Faahfaahinta shakhsiga, diiwaanada waxbarashada, macluumaadka caafimaadka.\nXogta Shaqaalaha: Diiwaannada shaqada, qiimeynta waxqabadka, xiriirka shaqsiyeed.\nBarnaamijyada Waxbarashada: Xogta kasoo baxda barnaamijyada waxbarashada ee internetka.",
+    "bestPracticesTitle": "Hababka ugu Fiican",
+    "bestPractices": [
+      {
+        "title": "Oggolaansho Cad",
+        "description": "Hel oggolaansho cad kahor ururinta xogta ardayda iyo waalidiinta."
+      },
+      {
+        "title": "Yaraynta Xogta",
+        "description": "Ururi xogta lagama maarmaanka ah ee loogu talagalay ujeedada waxbarasho."
+      },
+      {
+        "title": "Tallaabooyinka Amniga",
+        "description": "Hirgeli tallaabooyin adag oo lagu ilaaliyo xogta."
+      },
+      {
+        "title": "Xakameynta Gelitaanka",
+        "description": "Xaddid cidda heli karta xogta xasaasiga ah."
+      },
+      {
+        "title": "Hufnaan",
+        "description": "Si cad ugu sheeg ardayda iyo shaqaalaha sida xogtooda loo adeegsanayo."
+      },
+      {
+        "title": "Kormeer Joogto ah",
+        "description": "Samee kormeer joogto ah si loo hubiyo u hoggaansanaanta sharciga xogta."
+      }
+    ],
+    "benefitsTitle": "Faa'iidooyinka",
+    "benefits": [
+      "Waxay ilaalisaa asturnaanta ardayda iyo shaqaalaha.",
+      "Waxay dhistaa kalsoonida bulsho waxbarasho.",
+      "Waxay xaqiijisaa u hoggaansanaanta sharciyada xogta."
+    ]
+  }
+  

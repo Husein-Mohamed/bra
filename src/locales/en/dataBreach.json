@@ -1,0 +1,83 @@
+{
+  "bannerTitle": "Data Breach Awareness",
+  "bannerSubtitle": "Stay Informed, Stay Protected",
+  "title": "Understanding Data Breaches and How to Respond",
+
+  "understanding": {
+    "heading": "What is a Data Breach?",
+    "paragraphs": [
+      "A data breach occurs when sensitive, confidential, or protected data is accessed or disclosed without authorization."
+    ],
+    "bullets": [
+      {
+        "label": "Unauthorized Access",
+        "desc": "When an individual gains access to data without permission."
+      },
+      {
+        "label": "Data Leak",
+        "desc": "Inadvertent exposure of sensitive information."
+      }
+    ]
+  },
+
+  "types": {
+    "heading": "Types of Data Breaches",
+    "paragraphs": [],
+    "bullets": [
+      {
+        "label": "Hacking",
+        "desc": "Malicious attacks exploiting system vulnerabilities."
+      },
+      {
+        "label": "Phishing",
+        "desc": "Fraudulent attempts to obtain sensitive information."
+      }
+    ]
+  },
+
+  "causes": {
+    "heading": "Common Causes",
+    "paragraphs": [],
+    "bullets": [
+      {
+        "label": "Weak Passwords",
+        "desc": "Easily guessable passwords leading to security risks."
+      },
+      {
+        "label": "Unpatched Software",
+        "desc": "Failure to update software leaves systems vulnerable."
+      }
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to Prevent Data Breaches",
+    "paragraphs": [],
+    "bullets": [
+      {
+        "label": "Use Strong Passwords",
+        "desc": "Create complex passwords and update them regularly."
+      },
+      {
+        "label": "Enable Two-Factor Authentication",
+        "desc": "Add an extra layer of security to your accounts."
+      }
+    ]
+  },
+
+  "impact": {
+    "heading": "Impact of a Data Breach",
+    "paragraphs": [
+      "Data breaches can have severe financial, reputational, and legal consequences for organizations and individuals."
+    ],
+    "bullets": []
+  },
+
+  "response": {
+    "heading": "Responding to a Data Breach",
+    "paragraphs": [
+      "Organizations must act quickly to contain the breach, notify affected parties, and take steps to prevent future incidents."
+    ],
+    "bullets": []
+  }
+}

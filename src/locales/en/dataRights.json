@@ -1,0 +1,39 @@
+{
+    "bannerTitle": "For Organizations",
+    "bannerSubtitle": "Know Your Obligations",
+    "mainTitle": "Data Rights in E-Commerce & Self-Assessment Checklist",
+    "mainParagraph": "Data Rights in E-Commerce empower individuals to control how their data is collected, used, stored, and shared, ensuring a lawful basis for data collection, secure processing, purpose limitation, and protection during data transfers. The Self-Assessment Checklist helps organizations ensure compliance with data protection laws by listing categories of personal data, identifying data sources, documenting legal bases for processing, and defining retention periods.",
+    "dataRightsTitle": "Data Rights in E-Commerce",
+    "dataRightsParagraph": "Data rights empower individuals to control how their data is collected, used, stored, and shared.",
+    "keyAspectsTitle": "Key Aspects:",
+    "keyAspects": [
+      { "title": "Data Collection:", "description": "Ensure lawful basis for collecting data." },
+      { "title": "Data Processing:", "description": "Securely process data." },
+      { "title": "Purpose Limitation:", "description": "Use data only for specified purposes." },
+      { "title": "Data Subject Rights:", "description": "Uphold rights like access, rectification, and erasure." },
+      { "title": "Data Transfers:", "description": "Ensure protection for international transfers." },
+      { "title": "Data Breach Notification:", "description": "Report breaches to authorities and individuals." },
+      { "title": "Privacy Policies:", "description": "Provide clear information about data usage." }
+    ],
+    "challengesTitle": "Challenges:",
+    "challengesParagraph": "Complexity of requests, data accuracy, technical limitations, balancing interests.",
+    "bestPracticesTitle": "Best Practices:",
+    "bestPractices": [
+      "Develop a comprehensive privacy policy.",
+      "Invest in data management systems.",
+      "Train employees on data protection.",
+      "Monitor and improve practices."
+    ],
+    "selfAssessmentTitle": "Self-Assessment Checklist",
+    "selfAssessmentParagraph": "A self-assessment checklist helps organizations ensure compliance with data protection laws.",
+    "checklistTitle": "Checklist:",
+    "checklist": [
+      { "title": "Categories of Personal Data and Data Subjects:", "description": "List categories and elements of data." },
+      { "title": "Source of Personal Data:", "description": "Identify data sources." },
+      { "title": "Purposes for Data Processing:", "description": "List processing purposes." },
+      { "title": "Legal Basis for Processing:", "description": "Document legal bases for processing." },
+      { "title": "Special Categories of Personal Data:", "description": "Detail nature and legal basis." },
+      { "title": "Retention Period:", "description": "Define retention periods for each data category." }
+    ]
+  }
+  

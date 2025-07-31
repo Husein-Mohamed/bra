@@ -1,0 +1,42 @@
+{
+    "bannerTitle": "Hay'adaha",
+    "bannerSubtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Ilaalinta Xogta Isticmaalaha Shabakadaha",
+    "mainDescription": "Shirkadaha isgaarsiinta waxay maareeyaan xog aad u badan oo ay ka mid yihiin xogta shakhsiga ah iyo diiwaanada isgaarsiinta. Ilaalinta xogtan waa muhiim si loo ilaaliyo kalsoonida isticmaalayaasha iyo u hoggaansanaanta sharciga.",
+    "collectionTitle": "Ururinta iyo Ka Shaqeynta Xogta ee Isgaarsiinta",
+    "collectionDescription": "Xogta Isticmaalaha: Faahfaahinta shakhsiga, diiwaanada wicitaanka, farriimaha qoraalka ah, isticmaalka internetka.\nXogta Hawlgalka: Diiwaannada shabakadda, qaababka adeegyada, xogta biilasha.\nXogta Adeegga Macmiilka: Diiwaanka la macaamilka, tigidhada taageerada, jawaab celinta.",
+    "bestPracticesTitle": "Hababka ugu Fiican",
+    "bestPractices": [
+      {
+        "title": "Qarinta Xogta",
+        "description": "Qari xogta isticmaalaha si looga ilaaliyo gelitaanka aan la oggolayn."
+      },
+      {
+        "title": "Xakameynta Gelitaanka",
+        "description": "Adeegso habab xakameyn adag iyo aqoonsi si loo xaddido cidda geli karta xogta."
+      },
+      {
+        "title": "Oggolaanshaha Isticmaalaha",
+        "description": "Hel oggolaansho cad kahor ururinta iyo ka shaqeynta xogta."
+      },
+      {
+        "title": "Hufnaan",
+        "description": "Si cad u wargeli isticmaalayaasha sida xogtooda loo adeegsanayo iyo xuquuqdooda."
+      },
+      {
+        "title": "Yaraynta Xogta",
+        "description": "Ururi oo keliya xogta lagama maarmaanka u ah ujeedada la cayimay."
+      },
+      {
+        "title": "Maareynta Dhacdooyinka",
+        "description": "Horumari qorshe jawaab celin degdeg ah haddii ay dhacdo jabsasho xog."
+      }
+    ],
+    "benefitsTitle": "Faa'iidooyinka",
+    "benefits": [
+      "Waxay kor u qaadaa kalsoonida adeegyada isgaarsiinta.",
+      "Waxay ilaalisaa asturnaanta isticmaalaha iyo qarsoodiga isgaarsiinta.",
+      "Waxay xaqiijisaa u hoggaansanaanta xeerarka ilaalinta xogta isgaarsiinta."
+    ]
+  }
+  

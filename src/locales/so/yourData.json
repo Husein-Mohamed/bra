@@ -1,0 +1,25 @@
+{
+  "badge": "Xogtaada, Xuquuqdaada",
+  "heading": "Xuquuqdaada Hoos Iman Sharciga Soomaaliya",
+  "intro1": "Baro xuquuqdaada hoos timaada sharciga ilaalinta xogta ee Soomaaliya.",
+  "intro2": "Xeerka Ilaalinta Xogta (Sharciga No. 005/2023) waxa uu dammaanad qaadayaa xuquuq asaasi ah oo qof walba u leeyahay si uu u xakameeyo una ilaashado xogtiisa shaqsiyeed.",
+  "rights": [
+    { "icon": "Eye",        "label": "Xuquuqda Helitaanka Xogta" },
+    { "icon": "Edit2",      "label": "Xuquuqda Saxitaanka Xogta" },
+    { "icon": "Trash2",     "label": "Xuquuqda Tirtiridda (In la illoobo)" },
+    { "icon": "Slash",      "label": "Xuquuqda Diidmada" },
+    { "icon": "Lock",       "label": "Xuquuqda Xaddididda Farsamaynta" },
+    { "icon": "ArrowsRightLeft", "label": "Xuquuqda Gudbinta Xogta" },
+    { "icon": "Cpu",        "label": "Xuquuqda in aan lagu Go’aamin Qof‑si‑toos ah" },
+    { "icon": "AlertCircle","label": "Xuquuqda Gudbinta Cabasho" }
+  ],
+  "learnMore": "Wax badan ka ogow Xuquuqdaada",
+  "tipsHeading": "Talooyin Amniga Dijitaalka",
+  "tipsIntro": "Ilaalinta xogtaada waxay ka bilaabataa caadooyin caqli leh.",
+  "tips": [
+    { "icon": "KeyRound",    "label": "Adeegso erayo‑sir adag oo kala duwan" },
+    { "icon": "Share2Off",   "label": "Ha faafin xog badan baraha bulshada" },
+    { "icon": "CheckCircle2","label": "Hubi oggolaansho ka hor intaadan xog wadaagin" },
+    { "icon": "WifiOff",     "label": "Ka fogow Wi‑Fi dadweyne oo aan la hubin" }
+  ]
+}

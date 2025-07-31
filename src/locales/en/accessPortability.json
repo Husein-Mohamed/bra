@@ -1,0 +1,28 @@
+{
+    "banner": {
+      "title": "For Organizations",
+      "subtitle": "Know Your Obligations"
+    },
+    "section1": {
+      "title": "Access and Portability",
+      "desc": "Although similar, access and data portability are distinct rights. Understanding both helps prevent confusion about which is being exercised."
+    },
+    "section2": {
+      "title": "Responding to access and portability requests",
+      "desc": "Everyone has the right to request access to their personal data. When you receive such a request, you must:",
+      "step1": "Inform the person if their personal data is being processed.",
+      "step2": "Provide a copy of the personal data being processed, without undue delay and within one month.",
+      "step3": "Explain the processing purpose, categories of data, data recipients, and more."
+    },
+    "section3": {
+      "p1": "If a controller holds large amounts of data, they may ask the requester to clarify what they want to access.",
+      "p2": "‘Right to data portability’ means the data must be in a commonly used, machine-readable format.",
+      "p3": "Requests can be verbal or written. It's best to document them properly and confirm understanding.",
+      "p4": "Reaching the designated data contact person is preferred for timely responses but not mandatory."
+    },
+    "section4": {
+      "title": "Limitations on access or portability requests",
+      "desc": "Article 20(1) allows rejection of requests only if clearly unfounded or excessive. Controllers must justify with proof and still try to fulfill requests without violating others’ rights like privacy or trade secrets."
+    }
+  }
+  

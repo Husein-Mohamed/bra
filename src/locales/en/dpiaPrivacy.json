@@ -1,0 +1,41 @@
+{
+    "bannerTitle": "For Organizations",
+    "bannerSubtitle": "Know Your Obligations",
+    "mainTitle": "Data Protection Impact Assessment (DPIA) & Privacy by Design and Default",
+    "mainDescription": "Data Rights in E-Commerce empower individuals to control how their data is collected, used, stored, and shared...",
+    "dpiaTitle": "Data Protection Impact Assessment (DPIA)",
+    "dpiaDescription": "DPIAs evaluate the potential impact of data processing activities on personal data protection.",
+    "requirementsTitle": "Requirements:",
+    "requirements": [
+      { "title": "Prior to Processing:", "summary": "Conduct DPIAs before high-risk processing." },
+      { "title": "Report Submission:", "summary": "Submit the DPIA report to the Data Protection Authority." },
+      { "title": "Consultation with the Authority:", "summary": "Consult the Authority if high risk remains." },
+      { "title": "Data Subject Rights:", "summary": "Uphold rights like access, rectification, and erasure." },
+      { "title": "Data Transfers:", "summary": "Ensure protection for international transfers." },
+      { "title": "Data Breach Notification:", "summary": "Report breaches to authorities and individuals." },
+      { "title": "Privacy Policies:", "summary": "Provide clear information about data usage." }
+    ],
+    "challengesTitle": "Challenges:",
+    "challenges": [
+      "Complexity of requests, data accuracy, technical limitations, balancing interests."
+    ],
+    "bestPracticesTitle": "Best Practices:",
+    "bestPractices": [
+      "Develop a comprehensive privacy policy.",
+      "Invest in data management systems.",
+      "Train employees on data protection.",
+      "Monitor and improve practices."
+    ],
+    "selfAssessmentTitle": "Self-Assessment Checklist",
+    "selfAssessmentDescription": "A self-assessment checklist helps organizations ensure compliance with data protection laws.",
+    "checklistTitle": "Checklist:",
+    "checklist": [
+      { "title": "Categories of Personal Data and Data Subjects:", "summary": "List categories and elements of data." },
+      { "title": "Source of Personal Data:", "summary": "Identify data sources." },
+      { "title": "Purposes for Data Processing:", "summary": "List processing purposes." },
+      { "title": "Legal Basis for Processing:", "summary": "Document legal bases for processing." },
+      { "title": "Special Categories of Personal Data:", "summary": "Detail nature and legal basis." },
+      { "title": "Retention Period:", "summary": "Define retention periods for each data category." }
+    ]
+  }
+  

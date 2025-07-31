@@ -1,0 +1,30 @@
+{
+  "badge": "Nagu saabsan Hay’adda",
+  "heading": {
+    "line1": "Ilaalinta Xogta",
+    "line2": "Hay’adda Soomaaliya"
+  },
+  "items": [
+    {
+      "title": "Himilada",
+      "subtitle": "Himiladeena",
+      "content": "Hay’adda Ilaalinta Xogta (DPA) waxay u heellan tahay dhiirrigelinta dhaqan xisaabtan iyo kalsooni annagoo hubinayna in dhammaan ganacsiyada, hay’adaha gaarka loo leeyahay, iyo hay’adaha dowladda ay xogta shaqsiyeed u maamulaan si masuuliyad leh, hufan, oo waafaqsan heerarka sharciga iyo anshaxa. Himiladeennu sidoo kale waxay awood siineysaa shakhsiyaadka xuquuqdooda xogta iyada oo la horumarinayo hal-abuurka ilaalinta asturnaanta."
+    },
+    {
+      "title": "Muuqaalka",
+      "subtitle": "Himiladeena Mustaqbalka",
+      "content": "In aan noqono ilaaliyaha lagu kalsoon yahay ee asturnaanta xogta, annagoo hubinayna hufnaanta, daacadnimada, iyo amniga macluumaadka shaqsiyeed ee Soomaalida dunida dijitaalka ah ee sii kordheysa."
+    },
+    {
+      "title": "Qiyamka",
+      "subtitle": "Qiyamkeena Aasaasiga ah",
+      "content": [
+        "Hufnaan iyo Xisaabtan",
+        "Hal-abuurnimo iyo La-qabsasho",
+        "Daacadnimo iyo Qarsoodi",
+        "Anshaxa Maareynta Xogta"
+      ]
+    }
+  ],
+  "description": "Hay’adda Ilaalinta Xogta ee Soomaaliya (DPA) waa hay’ad madax-bannaan oo heer qaran ah, mas’uul ka ah ilaalinta asturnaanta xogta shaqsiyeed iyo kormeerka in dhammaan ururradu u hoggaansamaan Xeerka Ilaalinta Xogta Dadweynaha (Lr.005 ee la ansixiyay Maarso 2023). Doorka DPA waa fulinta Xeerka Ilaalinta Xogta iyo bixinta adeegyo ka caawiya ilaalinta xogta, sida wacyigelin, diiwaangelin, tababaro, iyo dejinta xeerar ku saabsan kaydinta iyo farsamaynta xogta. Dhammaan muwaadiniintu waxay xaq u leeyihiin asturnaanta xogtooda, taasoo ah xaq aasaasi ah. Hay’adda Ilaalinta Xogta waxaa Dowladda Federaalka Soomaaliya siisay masuuliyadda ilaalinta xaqaas, waxayna mas’uul ka tahay hubinta waafaqsanaanta Xeerka Ilaalinta Xogta. Xeerku waxa uu muwaadiniinta siinayaa xorriyad ay ku go’aansadaan sida xogtooda loo farsameeyo, loo isticmaalo, iyo cidda lala wadaago."
+}

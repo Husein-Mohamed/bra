@@ -1,0 +1,47 @@
+{
+    "pageTitle": "Ururada",
+    "pageSubtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Suuqgeynta Tooska ah: Ogolaanshaha, Ka-noqoshada & Ururinta Xogta",
+    "mainIntro": "Marka xakameeyaha xogta uu ku lug leeyahay hababka...",
+    "optIn": {
+      "title": "Habaynta Ogolaanshaha",
+      "points": [
+        { "title": "Ogolaansho Cad", "description": "Qofku waa inuu si toos ah u oggolaadaa..." },
+        { "title": "Xog Cad", "description": "Bixi xog cad oo ku saabsan noocyada xiriirka..." },
+        { "title": "Ficil Cad", "description": "Ogolaanshaha waa in lagu bixiyaa ficil muuqda." }
+      ]
+    },
+    "optOut": {
+      "title": "Habaynta Ka-noqoshada",
+      "points": [
+        { "title": "Hab Sahlan", "description": "Bixi hab fudud sida xiriiriye joojinta isdiiwaangelinta..." },
+        { "title": "Fulin Degdeg ah", "description": "Hubi in codsiyada ka-noqoshada si dhakhso ah loo fuliyo." },
+        { "title": "Xaqiijin", "description": "Dir fariin xaqiijin ah oo muujineysa in la helo codsiga." },
+        { "title": "Ixtiraam Doorashooyinka", "description": "Hubi in doorashada qofka la ixtiraamo dhammaan kanaalada." }
+      ]
+    },
+    "onlineData": {
+      "title": "Ururinta Xogta Onleenka",
+      "intro": "Ururinta xogta onleenka ah waxaa laga helaa degellada...",
+      "typesTitle": "Noocyada Xogta",
+      "types": [
+        { "title": "Xogta Shakhsiyeed", "description": "Magacyo, cinwaano email, faahfaahinta lacag bixinta." },
+        { "title": "Xogta Dabeecadda", "description": "Booqashooyinka bogga, gujinta, waqtiga fadhiisiga." },
+        { "title": "Xogta Macaamilka", "description": "Taariikhda iibsiga, faahfaahinta dalabka." },
+        { "title": "Xogta Dadka", "description": "Da'da, jinsiga, goobta." },
+        { "title": "Xogta Farsamada", "description": "Cinwaannada IP, noocyada biraawsarka." },
+        { "title": "Xogta Doorashada", "description": "Danaha iyo doorbidyada." }
+      ],
+      "bestPracticesTitle": "Habraacyada Ugu Fiican",
+      "bestPractices": [
+        { "title": "Caddeyn iyo Ogolaansho", "description": "U sheeg isticmaaleyaasha hababka ururinta xogta..." },
+        { "title": "Xadididda Xogta", "description": "Ururi oo keliya xogta loo baahanyahay." },
+        { "title": "Amniga", "description": "Samee tallaabooyin adag oo lagu sugo xogta." },
+        { "title": "Xakamaynta Isticmaalaha", "description": "Bixi hababka dadka u oggolaanaya inay xakameeyaan xogtooda." },
+        { "title": "U-hogaansanaanta", "description": "Hubi u-hogaansanaanta sharciga ilaalinta xogta." },
+        { "title": "Saxnaanta Xogta", "description": "Sii xog sax ah oo cusub." },
+        { "title": "Magac-la’aanta", "description": "Ilaali asturnaanta adiga oo qarinaya aqoonsiga." },
+        { "title": "Siyaasadaha Asturnaanta", "description": "Horumari siyaasado cad oo asturnaanta ah." }
+      ]
+    }
+  }

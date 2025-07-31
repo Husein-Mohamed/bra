@@ -1,0 +1,52 @@
+{
+  "heroTitle": "Laws & Policies",
+  "heroSubtitle": "Legal clarity and access to Somalia's data protection framework.",
+  "keyLegal": "Key Legal Instruments & Downloads",
+  "internationalStandards": "International Standards",
+  "internationalStandardsDesc": "Somalia's framework is aligned with GDPR, AU Convention on Cybersecurity & Data Protection, and global best practices.",
+  "formsFooter": "For operational forms and templates, please visit the Resources & Forms section.",
+  "docs": [
+    {
+      "title": "The Data Protection Act (Law No: 003/2023)",
+      "desc": "Defines legal cases for processing, citizen rights, DPA powers, and registration requirements",
+        "enPdf": "/docs/laws_policies/somalia_data_protection_act_en.pdf",
+  "soPdf": "/docs/laws_policies/somalia_data_protection_act_so.pdf"
+    },
+    {
+      "title": "DPA Procedures",
+      "desc": "Steps for compliance checks and regulatory processes",
+      "enPdf": "/docs/laws_policies/dpa_procedures_en.pdf",
+      "soPdf": "/docs/laws_policies/dpa_procedures_so.pdf"
+    },
+    {
+      "title": "DPA Authority Regulations",
+      "desc": "Internal rules on DPA governance, responsibilities, and oversight functions.",
+      "enPdf": "/docs/Laws & Policies/DPA Authority Regulations (English).pdf",
+      "soPdf": "/docs/Laws & Policies/DPA Authority Regulations (Somali).pdf"
+    },
+    {
+      "title": "ADR Procedure",
+      "desc": "Non-litigation mechanism for dispute resolution",
+      "enPdf": "/docs/Laws & Policies/ADR Procedure (English).pdf",
+      "soPdf": "/docs/Laws & Policies/ADR Procedure (Somali).pdf"
+    },
+    {
+      "title": "Official Circulars & Notices",
+      "desc": "Updates on expectations, timelines and duties",
+      "enPdf": "/docs/Laws & Policies/Official Circulars (English).pdf",
+      "soPdf": "/docs/Laws & Policies/Official Circulars (Somali).pdf"
+    },
+    {
+      "title": "Cross-Border Guidelines",
+      "desc": "International data transfer legal principles",
+      "enPdf": "/docs/Laws & Policies/Cross-Border Guidelines (English).pdf",
+      "soPdf": "/docs/Laws & Policies/Cross-Border Guidelines (Somali).pdf"
+    },
+    {
+      "title": "Sectoral Guidelines",
+      "desc": "Practical advice for health, finance, education, telecom, NGOs",
+      "enPdf": "/docs/Laws & Policies/Sectoral Guidelines (English).pdf",
+      "soPdf": "/docs/Laws & Policies/Sectoral Guidelines (Somali).pdf"
+    }
+  ]
+}

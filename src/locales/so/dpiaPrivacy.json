@@ -1,0 +1,41 @@
+{
+    "bannerTitle": "Shirkadaha",
+    "bannerSubtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Qiimeynta Saameynta Ilaalinta Xogta (DPIA) & Qarsoodiga Habka Naqshadeynta",
+    "mainDescription": "Xuquuqda Xogta ee E-Commerce waxay awood siisaa shaqsiyaadka inay xakameeyaan sida xogtooda loo ururiyo, loo adeegsado, loo kaydiyo, loona wadaago...",
+    "dpiaTitle": "Qiimeynta Saameynta Ilaalinta Xogta (DPIA)",
+    "dpiaDescription": "DPIAs waxay qiimeeyaan saamaynta suurtagalka ah ee hawlaha habaynta xogta shakhsiga ah.",
+    "requirementsTitle": "Shuruudaha:",
+    "requirements": [
+      { "title": "Kahor Habaynta:", "summary": "Samee DPIA kahor inta aan la bilaabin habayn khatar sare leh." },
+      { "title": "Soo Gudbinta Warbixinta:", "summary": "Gudbi warbixinta DPIA ee Hay'adda Ilaalinta Xogta." },
+      { "title": "La-tashi La Leh Hay'adda:", "summary": "La-tali haddii ay jirto khatar sare oo aan laga baajin karin." },
+      { "title": "Xuquuqda Dadka Xogtooda La Hayo:", "summary": "Ilaali xuquuqaha helitaanka, sixitaanka, iyo tir-tirka." },
+      { "title": "Gudbinta Xogta:", "summary": "Hubi ilaalinta marka xogta loo wareejinayo dibadda." },
+      { "title": "Ogeysiinta Jebinta Xogta:", "summary": "Soo sheego jebinta xogta hay'adaha iyo dadka ay saamayso." },
+      { "title": "Xeerarka Qarsoodiga:", "summary": "Bixi faahfaahin cad oo ku saabsan isticmaalka xogta." }
+    ],
+    "challengesTitle": "Caqabadaha:",
+    "challenges": [
+      "Adagida codsiyada, saxnaanta xogta, xaddidaadaha farsamada, isku dheelitirka danaha."
+    ],
+    "bestPracticesTitle": "Hababka Ugu Wanaagsan:",
+    "bestPractices": [
+      "Samee siyaasado qarsoodi oo dhameystiran.",
+      "Maalgeli nidaamyada maaraynta xogta.",
+      "Tababar shaqaalaha ku saabsan ilaalinta xogta.",
+      "La soco oo horumari habraacyada."
+    ],
+    "selfAssessmentTitle": "Liiska Is-Qiimeynta",
+    "selfAssessmentDescription": "Liiska is-qiimeynta wuxuu caawiyaa ururada inay hubiyaan u hoggaansanaanta xeerarka ilaalinta xogta.",
+    "checklistTitle": "Liiska:",
+    "checklist": [
+      { "title": "Noocyada Xogta Shakhsiyeed iyo Dadka Xogtooda Laga Hayo:", "summary": "Liis garee qaybaha iyo waxyaabaha xogta." },
+      { "title": "Isha Xogta Shakhsiyeed:", "summary": "Aqoonsi isha xogta." },
+      { "title": "Ujeeddooyinka Habaynta Xogta:", "summary": "Liis garee ujeeddooyinka habaynta." },
+      { "title": "Asalka Sharciga ah ee Habaynta:", "summary": "Qor asalka sharci ee habaynta." },
+      { "title": "Noocyada Gaarka ah ee Xogta Shakhsiyeed:", "summary": "Faahfaahin dabeecadda iyo asalka sharciyeed." },
+      { "title": "Muddada Kaydinta:", "summary": "Ku qeex muddada kaydinta xog kasta." }
+    ]
+  }
+  

@@ -1,0 +1,39 @@
+{
+    "bannerTitle": "Shirkadaha",
+    "bannerSubtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Xuquuqda Xogta ee E-Ganacsiga & Hubinta Iskiis-u-Qabashada",
+    "mainParagraph": "Xuquuqda Xogta ee E-Ganacsiga waxay awood siisaa shaqsiyaadka inay xakameeyaan sida xogtooda loo ururiyo, loo isticmaalo, loo kaydiyo, loona wadaago. Waxay xaqiijineysaa sharciyad sax ah, amni habboon, xadeynta ujeedada, iyo ilaalinta marka xogta la wareejinayo. Liiska Iskiis-u-Qabashada wuxuu caawiyaa ururada inay hubiyaan u hoggaansanaanta sharciga xogta.",
+    "dataRightsTitle": "Xuquuqda Xogta ee E-Ganacsiga",
+    "dataRightsParagraph": "Xuquuqda xogta waxay awood siisaa dadka inay maareeyaan xogtooda.",
+    "keyAspectsTitle": "Qodobbada Muhiimka ah:",
+    "keyAspects": [
+      { "title": "Ururinta Xogta:", "description": "Xaqiiji sal sharciyeed ururinta xogta." },
+      { "title": "Habaynta Xogta:", "description": "Si ammaan ah u habee xogta." },
+      { "title": "Xaddidaadda Ujeeddada:", "description": "Xogta u isticmaal ujeedadii loo ururiyey oo kaliya." },
+      { "title": "Xuquuqda Shaqsiyaadka:", "description": "U ilaali xuquuqaha sida galitaan, sixid, iyo tirid." },
+      { "title": "Wareejinta Xogta:", "description": "Ilaali xogta marka la wareejinayo caalami ahaan." },
+      { "title": "Ogeysiinta Jebinta Xogta:", "description": "Wargeli jebinta xogta hay'adaha iyo dadka saamaynta leh." },
+      { "title": "Siyaasadaha Qarsoodiga:", "description": "Sii macluumaad cad oo ku saabsan isticmaalka xogta." }
+    ],
+    "challengesTitle": "Caafimaadka:",
+    "challengesParagraph": "Soo saarista codsiyo adag, saxnaanta xogta, xaddidaadaha farsamada, isu dheelitirka danaha.",
+    "bestPracticesTitle": "Hababka Ugu Wanaagsan:",
+    "bestPractices": [
+      "Horumari siyaasad qarsoodi dhamaystiran.",
+      "Maalgeli nidaamyada maaraynta xogta.",
+      "Shaqaalaha ku tababaro ilaalinta xogta.",
+      "La soco oo hagaaji hababka jira."
+    ],
+    "selfAssessmentTitle": "Liiska Iskiis-u-Qabashada",
+    "selfAssessmentParagraph": "Liiska hubinta iskiis-u-qabashada wuxuu caawiyaa ururada inay hubiyaan u hoggaansanaanta xeerarka xogta.",
+    "checklistTitle": "Liiska Hubinta:",
+    "checklist": [
+      { "title": "Qaybaha Xogta Shaqsiyeed iyo Shaqsiyaadka:", "description": "Ku tax qaybaha xogta." },
+      { "title": "Isha Xogta Shaqsiyeed:", "description": "Aqoonsado ilaha xogta." },
+      { "title": "Ujeeddooyinka Habaynta Xogta:", "description": "Ku tax ujeeddooyinka habaynta." },
+      { "title": "Saldhigga Sharci ee Habaynta:", "description": "Diiwaangeli saldhig sharciyeedka." },
+      { "title": "Qaybaha Gaarka ah ee Xogta Shaqsiyeed:", "description": "Sharax nooca xogta gaarka ah iyo saldhigeeda sharci." },
+      { "title": "Muddada Kaydinta:", "description": "Soo bandhig muddada kaydinta xogta." }
+    ]
+  }
+  

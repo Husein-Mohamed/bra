@@ -1,0 +1,42 @@
+{
+    "bannerTitle": "Ururada",
+    "bannerSubtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Ururinta iyo Ka Shaqeynta Xogta Caafimaadka",
+    "mainParagraph": "Diiwaanka Bukaanka: Xogta shaqsiga ah, taariikhda caafimaadka, faahfaahinta daaweynta. Xogta Howlgalka: Jadwalka shaqaalaha, diiwaanada maaliyadeed, cabbirada howlgalka. Adeegyada Caafimaadka Dijitaalka ah: Telemedicine, diiwaanada caafimaadka elektarooniga ah (EHRs), apps caafimaad.",
+    
+    "bestPracticesTitle": "Hababka Ugu Wanaagsan:",
+    "bestPractices": [
+      {
+        "title": "Ogolaanshaha Bukaanka:",
+        "description": "Hel ogolaansho cad ka hor ururinta iyo ka shaqeynta xogta."
+      },
+      {
+        "title": "Sirta:",
+        "description": "Hubi in macluumaadka bukaanku ahaado mid qarsoodi ah oo kaliya lagu helo shaqaalaha loo oggolaaday."
+      },
+      {
+        "title": "Amniga Xogta:",
+        "description": "Isticmaal siraynta iyo xakameynta gelitaanka si loo ilaaliyo xogta."
+      },
+      {
+        "title": "U hoggaansanaanta:",
+        "description": "La soco sharciyada ilaalinta xogta caafimaadka (tusaale, GDPR, HIPAA)."
+      },
+      {
+        "title": "Jawaabta Dhacdada:",
+        "description": "Samee oo hirgeli qorshe wax-ka-qabashada jebinta xogta."
+      },
+      {
+        "title": "Xuquuqda Bukaanka:",
+        "description": "Wargeli bukaanka xuquuqdooda xogeed, oo ay ka mid yihiin helitaan iyo sixitaan."
+      }
+    ],
+    
+    "benefitsTitle": "Faa'iidooyinka:",
+    "benefits": [
+      "Waxay ilaalisaa qarsoodiga iyo sirta bukaanka.",
+      "Waxay xoojisaa kalsoonida u dhexeysa bukaanka iyo bixiyeyaasha adeegyada caafimaadka.",
+      "Waxay xaqiijisaa u hoggaansanaanta sharciyada ilaalinta xogta caafimaadka."
+    ]
+  }
+  

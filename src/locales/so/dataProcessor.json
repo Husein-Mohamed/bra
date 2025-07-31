@@ -1,0 +1,26 @@
+{
+  "pageTitle": "Qabaha Xogta",
+  "intro": "Qabaha xogta waa qof kasta (shakhsi ama sharci) ama hay’ad dawladeed, wakaalad, ama hay’ad kale oo farsameeya xogta shakhsiyeed magaca iyo tilmaamaha kantaroolaha xogta. Qabayaasha xogta ma laha awooda ay ku go’aamiyaan ujeedada iyo habka farsamaynta xogta shakhsiyeed.",
+  "responsibilitiesSection": {
+    "title": "Waajibaadka Qabayaasha Xogta",
+    "intro": "Qabayaasha xogta waxay leeyihiin waajibaadyo gaar ah si loo hubiyo ilaalinta xogta shakhsiyeed. Kuwaas waxaa ka mid ah:"
+  },
+  "responsibilitiesList": [
+    {
+      "heading": "Farsameynta Xogta Waafaqsan Tilmaamaha",
+      "body": "Kaliya xogta shakhsiyeed ee waafaqsan tilmaamaha qoraal ahaan loo siiyey kantaroolaha xogta. Wax isbedel kasta oo ka baxsan tilmaamahaan wuxuu u baahan yahay ogolaansho cad oo ka timaadda kantaroolaha xogta."
+    },
+    {
+      "heading": "Dhisidda Tallaabooyin Amni oo Ku Habboon",
+      "body": "Dhis tallaabooyin farsamo iyo kuwo hay’adnimo si loo hubiyo heer amni oo ku habboon khatarta. Tani waxay ka mid tahay ilaalinta xogta ka dhanka ah farsameyn aan sharci ahayn, lumid aan ula kac ahayn, ama burbur."
+    },
+    {
+      "heading": "Diiwaangelinta Hawlaha Farsamaynta",
+      "body": "Qabayaasha xogta waa inay diiwaangeliyaan dhammaan noocyada hawlaha farsameynta ee ay ku sameeyaan magaca kantaroolaha xogta. Diiwaankan waa inuu ka koobnaadaa ujeedada farsameynta, qaybaha shakhsiyaadka xogta laga aruuriyey, iyo wixii wareejin ah xogta dibadda."
+    },
+    {
+      "heading": "Caawinta Kantaroolaha Xogta",
+      "body": "Qabayaasha xogta waa inay ka caawiyaan kantaroolayaasha xogta inay u hoggaansamaan shuruucda ilaalinta xogta. Tan waxaa ka mid ah ka jawaabista codsiyada xuquuqda shakhsiyaadka, ogeysiinta xadgudubyada xogta, iyo samaynta qiimaynta saameynta ilaalinta xogta."
+    }
+  ]
+}

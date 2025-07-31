@@ -1,0 +1,59 @@
+{
+  "badge": "Your Data, Your Rights",
+  "heading": "Understand and Control Your Personal Data",
+  "intro1": "Learn your rights under Somalia’s Data Protection Act.",
+  "intro2": "The Data Protection Act (No. 005/2023) guarantees everyone key rights to access, correct, or delete their data.",
+
+  "rights": [
+    { "icon": "Eye",        "label": "Right of Access" },
+    { "icon": "Edit2",      "label": "Right of Rectification" },
+    { "icon": "Trash2",     "label": "Right to Erasure" },
+    { "icon": "Slash",      "label": "Right to Object" },
+    { "icon": "Lock",       "label": "Right to Restrict Processing" },
+    { "icon": "ArrowsRightLeft", "label": "Right to Data Portability" },
+    { "icon": "Cpu",        "label": "Right Not to Be Subject to Automated Decisions" },
+    { "icon": "AlertCircle","label": "Right to Lodge a Complaint" }
+  ],
+  "learnMore": "Discover all your data rights",
+
+  "tipsHeading": "Digital Safety Tips",
+  "tipsIntro": "Protecting your data starts with smart habits.",
+  "tips": [
+    { "icon": "KeyRound",    "label": "Use strong, unique passwords" },
+    { "icon": "Share2Off",   "label": "Share only what’s necessary online" },
+    { "icon": "CheckCircle2","label": "Always check consent before you share data" },
+    { "icon": "WifiOff",     "label": "Avoid untrusted public Wi‑Fi" }
+  ],
+
+  "actions": {
+    "badge": "Take Action",
+    "heading": "Manage Your Data Rights Instantly",
+    "items": [
+      {
+        "icon": "file-text",
+        "label": "File a Complaint",
+        "desc": "Report a concern if you believe your data rights have been violated.",
+        "link": "/complaints"
+      },
+      {
+        "icon": "user-plus",
+        "label": "Register as a Data Controller",
+        "desc": "Begin your legal registration with the DPA as an entity handling data.",
+        "link": "/register-data-controller"
+      },
+      {
+        "icon": "alert-triangle",
+        "label": "Report a Data Breach",
+        "desc": "Notify the authority about a potential or actual breach of personal data.",
+        "link": "/report-breach"
+      },
+      {
+        "icon": "mail",
+        "label": "Request Access or Correction",
+        "desc": "Ask to see, correct, or delete your data under the law.",
+        "link": "/request-access"
+      }
+    ],
+    "cta": "Go"
+  }
+}

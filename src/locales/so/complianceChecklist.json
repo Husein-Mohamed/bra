@@ -1,0 +1,47 @@
+{
+    "bannerTitle": "Hay'adaha",
+    "bannerSubtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Liiska Hubinta Waafaqsanaanta & Maaraynta Khatarta",
+    "mainDescription": "Liiskan wuxuu hubinayaa in hay’aduhu u hoggaansamaan sharciga dhowrista xogta oo ay si hufan u ilaaliyaan xogta gaarka ah. Waxaa ku jira siyaasado dhowris xogeed, diiwaan gelin xogta, iyo saldhig sharciyeed cad. Tallaabooyinka muhiimka ah waxaa ka mid ah helitaanka ogolaansho cad, xaqiijinta xuquuqda muwaadiniinta, iyo hirgelinta amniga.",
+    "checklistTitle": "Liiska Hubinta Dhowrista Xogta",
+    "checklistSubtitle": "U hoggaansanaanta sharciga dhowrista xogta waa lama huraan si loo ilaaliyo xogta gaarka ah.",
+    "checklistHeader": "Liiska:",
+    "checklist": [
+      { "title": "Siyaasadda Dhowrista Xogta:", "desc": "Samee oo shaac oo la wadaag siyaasadda." },
+      { "title": "Diiwaanka Xogta:", "desc": "Ogow xogta gaarka ah ee aad ururiso." },
+      { "title": "Saldhigga Sharciyeed:", "desc": "Ku salee hawlahaaga sharci iyo caddeyn la raaci karo." },
+      { "title": "Maamulka Ogolaanshaha:", "desc": "Hel ogolaansho muuqda oo caddeyn ah." },
+      { "title": "Xuquuqda Muwaadiniinta:", "desc": "Samee habraacyo helitaan, saxid, tirtirid." },
+      { "title": "Tallaabooyinka Amniga:", "desc": "Hirgeli amniga farsamada iyo hay’adaha." },
+      { "title": "Maareynta Qandaraasyada:", "desc": "La soco adeeg bixiyeyaasha saddexaad." },
+      { "title": "Qiimeynta Saameynta Dhowrista Xogta:", "desc": "Samee baaritaan ku saabsan hawlaha khatarta sare leh." },
+      { "title": "Kormeer iyo Dib-u-eegis Joogto ah:", "desc": "Kormeero si joogto ah u samee si aad u hagaajiso." },
+      { "title": "Tababarka Shaqaalaha:", "desc": "Shaqaalaha sii tababar joogto ah." }
+    ],
+    "riskManagementTitle": "Maaraynta Khatarta",
+    "riskManagementDescription": "Maaraynta khatarta waa aqoonsiga, qiimeynta, iyo xakamaynta khataraha ku wajahan xogta ururka.",
+    "componentsTitle": "Qaybaha:",
+    "components": [
+      { "title": "Aqoonsiga Khatarta:", "desc": "Aqoonso khataraha suurtagalka ah." },
+      { "title": "Qiimeynta Khatarta:", "desc": "Falanqee oo kala hormari khataraha." },
+      { "title": "Yaraynta Khatarta:", "desc": "Samee qorshe yarayn iyo fulin." },
+      { "title": "La socodka iyo Dib-u-eegista:", "desc": "Si joogto ah u la soco oo cusbooneysii qorshaha." },
+      { "title": "Tababarka Shaqaalaha:", "desc": "Shaqaalaha sii wacyigelin iyo tababar joogto ah." }
+    ],
+    "stepsTitle": "Tallaabooyinka:",
+    "steps": [
+      { "title": "Samee Qiimeynta Khatarta:", "desc": "Mar kasta cusbooneysii qiimeynta." },
+      { "title": "Qorshe Maareyn Khatarta:", "desc": "Samee siyaasado iyo jawaab celin qorsheysan." }
+    ],
+    "importanceTitle": "Muhiimadda:",
+    "importance": [
+      { "title": "", "desc": "Hoos u dhig khatarta, kor u qaad go’aan qaadashada." },
+      { "title": "", "desc": "Soo saar waxtarka hawlgalka iyo waafaqsanaanta." },
+      { "title": "", "desc": "Kor u qaad kalsoonida dadka ay khusayso." }
+    ],
+    "challengesTitle": "Caqabadaha:",
+    "challenges": [
+      { "title": "", "desc": "Hubanti la'aan, xadidaad dhaqaale, isbedel degdeg ah, diidmo dhaqan." }
+    ]
+  }
+  

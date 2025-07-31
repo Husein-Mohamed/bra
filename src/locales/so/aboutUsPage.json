@@ -1,0 +1,27 @@
+{
+  "pill": {
+    "text": "// Nagu saabsan",
+    "href": "#",
+    "variant": "default",
+    "size": "md"
+  },
+  "heading": {
+    "title": "Hay’adda Dhowrista Xogta",
+    "highlight": "Soomaaliya"
+  },
+  "description": "Hay’adda Dhowrista Xogta waa hay’ad madax-bannaan oo heer qaran ah, mas’uul ka ah ilaalinta asturnaanta xogta shaqsiyeed iyo kormeerka in dhammaan ururradu u hoggaansamaan Xeerka Dhowrista Xogta Dadweynaha (Lr.005 ee ansixiyay Maarso 2023).",
+  "disclosure": {
+    "mission": {
+      "title": "Himilada",
+      "content": "Himilada Hay’adda Ilaalinta Xogta waa in la hubiyo in dhammaan ganacsiyada, hay’adaha gaarka loo leeyahay, iyo hay’adaha dowladda ay xogta shaqsiyeed u maamulaan si masuuliyad leh, hufan, oo sharci ah."
+    },
+    "vision": {
+      "title": "Himil",
+      "content": "In aan noqono ilaaliyaha lagu kalsoon yahay ee asturnaanta xogta, annagoo hubinayna hufnaanta, daacadnimada, iyo amniga macluumaadka shaqsiyeed ee Soomaalida."
+    },
+    "values": {
+      "title": "Qiyamka",
+      "content": "Waxaan qiimeynaa Hufnaanta, Mas’uuliyadda, iyo Hal-abuurnimada si aan u ilaalino heerarka ugu sarreeya ee asturnaanta xogta."
+    }
+  }
+}

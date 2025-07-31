@@ -1,0 +1,27 @@
+{
+  "pill": {
+    "text": "// About us",
+    "href": "#",
+    "variant": "default",
+    "size": "md"
+  },
+  "heading": {
+    "title": "Data Protection",
+    "highlight": "Authority of Somalia"
+  },
+  "description": "Data Protection Authority of Somalia is the national independent authority responsible for protecting personal privacy and monitoring that all organizations are compliant with the Data Protection Act (No.005 enacted on March 18, 2023).",
+  "disclosure": {
+    "mission": {
+      "title": "Mission",
+      "content": "DPA’s mission is to ensure that all businesses, private entities, and public institutions govern and process personal data in a responsible, transparent and lawful manner."
+    },
+    "vision": {
+      "title": "Vision",
+      "content": "To be the trusted guardian of data privacy, ensuring the transparency, integrity, and security of Somalis’ personal information in an increasingly digital world."
+    },
+    "values": {
+      "title": "Values",
+      "content": "We value Transparency, Accountability, and Innovation to maintain the highest standards of data privacy and protection."
+    }
+  }
+}

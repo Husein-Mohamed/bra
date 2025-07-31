@@ -1,0 +1,68 @@
+{
+  "title": "Khayraadka & Foomamka",
+  "subtitle": "Ka hel agabka rasmiga ah, foomamka, iyo shaxadaha Hay’adda Ilaalinta Xogta Soomaaliya (DPA).",
+  "downloadBtn": "Soo Degso",
+  "registrationLicensing": {
+    "title": "Foomamka Diiwaangelinta & Shatiga"
+  },
+  "authorizationNotification": {
+    "title": "Foomamka Ogolaanshaha & Ogeysiinta"
+  },
+  "incidentsComplaints": {
+    "title": "Foomamka Dhacdooyinka & Cabashada"
+  },
+  "dataRightsAndTools": {
+    "title": "Xuquuqda Xogta & Agabka Maareynta Khatarta"
+  },
+  "guidance": {
+    "title": "Dukumentiyada Hagista"
+  },
+
+  "registrationForm": {
+    "title": "Foomka Diiwaangelinta Maamulka/Farsameeyaha Xogta",
+    "desc": "Loogu talagalay hay’adaha isdiiwaangelinaya DPA.",
+    "hint": ""
+  },
+
+  "authNotifForm1": {
+    "title": "Foomka Ogolaanshaha Hore",
+    "desc": "Looga baahan yahay kahor farsamaynta xogta khatarta sare leh.",
+    "hint": ""
+  },
+
+  "authNotifForm2": {
+    "title": "Codsiga Wareejinta Xogta Caalamiga ah",
+    "desc": "Loogu talagalay in laga helo oggolaanshaha DPA ee wareejinta xogta caalamiga ah.",
+    "hint": ""
+  },
+
+  "riskTools": {
+    "title": "Shaxda Diiwaangelinta Hawlgallada Xogta (ROPA)",
+    "desc": "Diiwaanka looga baahan yahay dhammaan farsamaynta xogta gaarka ah.",
+    "hint": "Nooca Faylka: XLSX"
+  },
+
+  "rightsRequestForm": {
+    "title": "Foomka Codsiga Xuquuqda Muwaadinka",
+    "desc": "Dadku waxay ku codsan karaan helitaan, sixid, ama tirtirid xogtooda.",
+    "hint": ""
+  },
+
+  "dpiaTemplate": {
+    "title": "DPIA (Qaabka Qiimeynta Saameynta Ilaalinta Xogta)",
+    "desc": "Qalab lagu aqoonsado laguna yareeyo khataraha asturnaanta.",
+    "hint": ""
+  },
+
+  "orgComplianceGuide": {
+    "title": "Hagaha U-hoggaansanaanta Hay’adaha",
+    "desc": "Liis hubin iyo talooyin wax-ku-ool ah oo u hoggaansanaan sharciyeed.",
+    "hint": "U gaar ah Maamulayaasha & Farsameeyayaasha Xogta"
+  },
+
+  "publicGuide": {
+    "title": "Hagaha Ilaalinta Xogta ee Dadweynaha",
+    "desc": "Hagitaan ku saabsan fahamka xuquuqdaada asturnaanta.",
+    "hint": ""
+  }
+}

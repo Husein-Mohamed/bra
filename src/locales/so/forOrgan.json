@@ -1,0 +1,73 @@
+{
+  "badge": "// Ogaanshaha Waajibaadkaaga",
+  "heading": "Ururrada",
+
+  "cards": [
+    { "id": "dpb",        "title": "Aasaaska Ilaalinta Xogta", "description": "Hagitaan dhamaystiran oo sharxaya aasaaska ilaalinta xogta.",        "href": "/fto/DPB" },
+    { "id": "obligations","title": "Ogow Waajibaadkaaga",       "description": "Qaybtani waxay sharraxaysaa waajibaadka ka saaran ururrada xeerka ilaalinta xogta." },
+    { "id": "knowData",   "title": "Maxaad u baahan tahay inaad ka ogaato xogta", "description": "Macluumaadka muhiimka ah ee lagu fahmayo sida loo maareeyo xogta iyadoo la dhowrayo asturnaanta." },
+    { "id": "dm",         "title": "Suuq-geynta Tooska ah: Ogolaansho & Ka-bax",  "description": "Email, SMS, wicitaanno… Ogolaansho iyo Ka-bax cad ayaa muhiim u ah u hoggaansanaanta.", "href": "/fto/DM" },
+    { "id": "coc",        "title": "Xeerka Anshaxa & Diiwaangelinta",            "description": "Farsamaynta sharciga ah, diiwaangelinta hay’adda, iyo warbixinno joogto ah.",           "href": "/fto/COC" },
+    { "id": "edu",        "title": "Waxbarashada",                              "description": "Dugsiyada iyo jaamacaduhu waxay maareeyaan xog badan oo arday iyo shaqaale ah.",           "href": "/fto/Education" },
+    { "id": "health",     "title": "Caafimaadka",                                "description": "Bixiyeyaasha caafimaadku waa inay ilaaliyaan xogta bukaanka.",                              "href": "/fto/Health" },
+    { "id": "telecom",    "title": "Isgaarsiinta",                               "description": "Shirkadaha telecom-ka waxay maareeyaan xog ballaaran oo isticmaale.",                         "href": "/fto/Telecom" },
+    { "id": "bank",       "title": "Bangiyada & Maaliyadda",                     "description": "Bangiyadu waa inay ilaaliyaan xogta macaamiisha.",                                            "href": "/fto/Banking" },
+    { "id": "dpia",       "title": "DPIA & Asturnaanta Hab-dhiska",               "description": "Hawlaha khatarta sare leh? DPIA iyo asturnaan hab-dhismeedka.",                              "href": "/fto/DPIA" },
+    { "id": "ego",        "title": "E-Governance & Ururinta Xogta Online-ka",     "description": "Adeegyo dadweyne oo dijitaal ah iyo ururin xog masuul ah.",                                 "href": "/fto/E-Governance" },
+    { "id": "checklist",  "title": "Liiska Hubinta Waafaqsanaanta",               "description": "Si loo hubiyo u hoggaansanaanta xeerarka: siyaasad, inventori, ogolaansho, xuquuq, iwm.",  "href": "/fto/Compliance-Checklist" }
+  ],
+
+  "obligationsDialog": {
+    "title": "Ogow Waajibaadkaaga",
+    "intro": "Qodobada waaweyn ee urur kasta waa inuu qabto.",
+    "links": [
+      { "text": "Helitaanka & Wareejinta Xogta",      "href": "/fto/Access-Portability" },
+      { "text": "Waajibaadka Xisaabtanka",             "href": "/fto/Accountability-Obligation" },
+      { "text": "Farsamaynta Sharciga",                "href": "/fto/Lawful-Processing" },
+      { "text": "Qabaha Xogta",                       "href": "/fto/Data-Processor" },
+      { "text": "Maamule Xogta",                      "href": "/fto/Data-Controller" },
+      { "text": "Saraakiisha Ilaalinta Xogta",         "href": "/fto/DPO" }
+    ],
+    "cancel": "Xidh"
+  },
+
+  "knowDataDialog": {
+    "title": "Maxaad u baahan tahay inaad ka ogaato xogta",
+    "intro": "Mowduucyada lagama maarmaanka ah ka hor farsamaynta xog shaqsiyeed.",
+    "links": [
+      { "text": "DRESC",                      "href": "/fto/DRESC" },
+      { "text": "Wareejinta Xogta",           "href": "/fto/Data-Transfer" },
+      { "text": "Xadgudub Xog",               "href": "/fto/Data-Breach" },
+      { "text": "Wareejinta Xogta Xuduudaha", "href": "/fto/CBDT" }
+    ],
+    "cancel": "Xidh"
+  },
+
+  "lawfulProcessing": {
+    "pageTitle": "Farsamaynta Sharciga ah",
+    "basisSection": {
+      "title": "Aasaaska Sharciga ah ee Farsamaynta Xogta Shakhsiga ah",
+      "intro": "Si aad u farsamayso xogta shakhsiga ah, waa inaad haysataa saldhig sharci. Aasaaska sharci ee farsamaynta xogta waxaa lagu caddeeyey Qodobka 14 ee DPA. Kuwani waa:"
+    },
+    "basisList": [
+      "Ogolaanshaha shakhsiyaadka.",
+      "Fulinta heshiis.",
+      "U hoggaansanaanta waajib sharci.",
+      "Lagama maarmaanka ah ilaalinta danaha nafsiga ah ee qofka.",
+      "Lagama maarmaanka ah hawl lagu fulinayo danaha guud.",
+      "Danaha sharci ee shirkadda/ururka (marka laga reebo marka danahaas ay ka sarreeyaan xuquuqda iyo xorriyadaha shakhsiyaadka)."
+    ],
+    "transparencySection": {
+      "title": "Bixinta Macluumaad Hufan",
+      "intro": "Ganacsiyada iyo ururrada farsameeya xogta shaqsiga ah waa inay siiyaan shakhsiyaadka macluumaad ku saabsan nooca farsamaynta iyo cidda samaynaysa. Ugu yaraan, macluumaadkani waa inuu si cad u sheegaa:"
+    },
+    "transparencyList": [
+      "Yaa tihiin (ururka).",
+      "Maxaad u farsameyneysaan xogta.",
+      "Waa kee saldhigga sharci ee aad ku saleysan tahay farsamaynta.",
+      "In xogta loo wareejin doono hay’adaha kale ama shakhsiyaadka kale.",
+      "Mudada xogta la kaydin doono.",
+      "Jiritaanka xuquuqaha shakhsiyaadka hoos yimaada ilaalinta xogta, oo ay ku jiraan xuquuqda helitaanka, sixidda, tirtirka, xaddidaadda, ka hor imaanshaha, iyo qaadista."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "pageTitle": "For Organizations",
+    "subtitle": "Know Your Obligations",
+    "mainTitle": "Data Transfer",
+    "understandingTitle": "Understanding Data Transfer",
+    "understandingText": "Data transfer involves the movement of data...",
+    "importanceTitle": "Importance of Secure Data Transfer",
+    "importanceText": "Ensuring the security of data during transfer is vital...",
+    "importancePoints": [
+      { "title": "Confidentiality", "description": "Data should only be accessible to authorized individuals." },
+      { "title": "Integrity", "description": "Data should remain accurate and unaltered during transfer." },
+      { "title": "Availability", "description": "Data should be available to authorized users when needed." }
+    ],
+    "practicesTitle": "Best Practices for Secure Data Transfer",
+    "practicesIntro": "To maintain the security and integrity of data...",
+    "practices": [
+      { "title": "Encryption", "description": "Always use encryption to protect data..." },
+      { "title": "Authentication", "description": "Implement strong authentication..." },
+      { "title": "Access Control", "description": "Limit access to data..." },
+      { "title": "Regular Audits", "description": "Conduct regular audits..." },
+      { "title": "Use Secure Channels", "description": "Transfer data over secure channels..." }
+    ],
+    "dutiesTitle": "Responsibilities and Duties",
+    "dutiesText": "Data Controllers... Data Processors... Employees...",
+    "complianceTitle": "Legal and Regulatory Compliance",
+    "complianceText": "Organizations must comply with relevant data protection laws...",
+    "adviceTitle": "Practical Advice for Organizations",
+    "adviceText": "Data Transfer Agreements... Employee Training..."
+  }
+  

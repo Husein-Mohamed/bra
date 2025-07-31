@@ -1,0 +1,89 @@
+{
+    "bannerTitle": "For Organizations",
+    "bannerSubtitle": "Know Your Obligations",
+    "mainTitle": "Data Protection Officers",
+    "understandingDpoTitle": "Understanding Data Protection Officer (DPO)",
+    "understandingDpoParagraph1": "A Data Protection Officer (DPO) is an individual designated by an organization to oversee and ensure compliance with data protection laws and regulations.",
+    "understandingDpoParagraph2": "In Somalia, DPOs act as guardians of personal data, ensuring strategies are implemented to safeguard privacy rights.",
+    "keyResponsibilitiesTitle": "Key Responsibilities:",
+    "keyResponsibilities": [
+      {
+        "title": "Monitoring Compliance:",
+        "summaries": [
+          "Regulatory Adherence: Ensure compliance with data protection laws.",
+          "Policy Implementation: Develop and manage data protection policies."
+        ]
+      },
+      {
+        "title": "Advising on Data Protection Impact Assessments (DPIAs):",
+        "summaries": [
+          "Risk Management: Guide DPIA execution.",
+          "Documentation: Keep DPIAs updated."
+        ]
+      },
+      {
+        "title": "Data Protection Training and Awareness:",
+        "summaries": [
+          "Staff Training: Train employees on data protection.",
+          "Awareness Programs: Promote privacy culture."
+        ]
+      },
+      {
+        "title": "Serving as a Point of Contact:",
+        "summaries": [
+          "For Data Subjects: Handle access and erasure requests.",
+          "For Authorities: Liaise with Somalia's Data Protection Authority."
+        ]
+      },
+      {
+        "title": "Managing Data Breaches:",
+        "summaries": [
+          "Incident Response: Oversee breach reporting.",
+          "Notification: Notify authorities and affected individuals."
+        ]
+      },
+      {
+        "title": "Ensuring Data Security:",
+        "summaries": [
+          "Protective Measures: Strengthen data security with IT teams.",
+          "Compliance Audits: Conduct regular audits."
+        ]
+      },
+      {
+        "title": "Advising on Data Processing Activities:",
+        "summaries": [
+          "Legal Advice: Advise on compliance and risks.",
+          "Risk Assessment: Evaluate processing risks."
+        ]
+      },
+      {
+        "title": "Maintaining Records:",
+        "summaries": [
+          "Documentation: Maintain records of activities, DPIAs, breaches, and audits."
+        ]
+      }
+    ],
+    "roleOfDpoTitle": "Role of the DPO",
+    "roleOfDpoParagraph1": "The DPO builds trust through compliance with data protection laws.",
+    "roleOfDpoParagraph2": "DPOs safeguard personal data and ensure transparency and accountability in Somalia.",
+    "qualificationsTitle": "Qualifications of a DPO:",
+    "qualifications": [
+      {
+        "title": "Expert Knowledge:",
+        "summary": "Deep understanding of data protection laws and practices."
+      },
+      {
+        "title": "Legal Acumen:",
+        "summary": "Familiarity with privacy-related legal obligations."
+      },
+      {
+        "title": "Communication Skills:",
+        "summary": "Ability to communicate effectively with data subjects and authorities."
+      },
+      {
+        "title": "Analytical Skills:",
+        "summary": "Strong analytical abilities to manage risk and compliance."
+      }
+    ]
+  }
+  

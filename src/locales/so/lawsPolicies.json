@@ -1,0 +1,50 @@
+{
+  "heroTitle": "Shuruucda & Siyaasadaha",
+  "heroSubtitle": "Caddeyn sharciyeed iyo helitaanka xeerarka ilaalinta xogta Soomaaliya.",
+  "keyLegal": "Qalabka Sharciga Muhiimka ah & Soo Dejinta",
+  "internationalStandards": "Heerarka Caalamiga ah",
+  "internationalStandardsDesc": "Qaab-dhismeedka Soomaaliya waxa uu waafaqsan yahay GDPR, Heshiiska Midowga Afrika ee Amniga Internetka & Ilaalinta Xogta, iyo habraacyada ugu fiican adduunka.",
+  "formsFooter": "Fadlan booqo qaybta Khayraadka & Foomamka si aad u hesho foomamka iyo tillaabooyinka la xiriira.",
+  "docs": [
+    {
+      "title": "Xeerka Ilaalinta Xogta (Sharciga No: 003/2023)",
+      "desc": "Waxay qeexaysaa xaaladaha sharciga ah ee farsamaynta, xuquuqda muwaadiniinta, awoodda DPA, iyo shuruudaha diiwaangelinta",
+      "linkText": "Soo dejiso PDF"
+    },
+    {
+      "title": "Habraacyada DPA",
+      "desc": "Tallaabooyinka hubinta u hoggaansanaanta iyo habraacyada xeerarka",
+      "linkText": "Soo dejiso PDF"
+    },
+    {
+      "title": "Xeerarka Maamulka DPA",
+      "desc": "Xeerarka gudaha ee maamulka DPA, masuuliyadaha, iyo la socodka hawlaha.",
+      "linkText": "Soo dejiso PDF"
+    },
+    {
+      "title": "Habraaca Xallinta Khilaafaadka (ADR)",
+      "desc": "Hab aan maxkamadeyn ahayn oo lagu xalliyo khilaafaadka",
+      "linkText": "Soo dejiso PDF"
+    },
+    {
+      "title": "Wareegtooyinka & Ogeysiisyada Rasmiga ah",
+      "desc": "Cusbooneysiinta filashooyinka, jadwalka iyo waajibaadka",
+      "linkText": "Soo dejiso PDF"
+    },
+    {
+      "title": "Wareegtooyinka & Ogeysiisyada Rasmiga ah",
+      "desc": "Cusbooneysiinta filashooyinka, jadwalka, iyo waajibaadka",
+      "linkText": "Soo dejiso PDF"
+    },
+    {
+      "title": "Hagaha Isdhaafsiga Xuduudaha",
+      "desc": "Mabda’a sharciga ah ee wareejinta xogta caalamiga ah",
+      "linkText": "Soo dejiso PDF"
+    },
+    {
+      "title": "Hagaha Waaxyaha",
+      "desc": "Talooyin wax ku ool ah oo la xiriira caafimaadka, maaliyadda, waxbarashada, isgaarsiinta, iyo NGO-yada",
+      "linkText": "Soo dejiso PDF"
+    }
+  ]
+}

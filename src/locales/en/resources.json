@@ -1,0 +1,68 @@
+{
+  "title": "Resources & Forms",
+  "subtitle": "Access the official tools, templates, and forms from the Somali Data Protection Authority (DPA).",
+  "downloadBtn": "Download",
+  "registrationLicensing": {
+    "title": "Registration & Licensing Forms"
+  },
+  "authorizationNotification": {
+    "title": "Authorization & Notification Forms"
+  },
+  "incidentsComplaints": {
+    "title": "Incident & Complaint Forms"
+  },
+  "dataRightsAndTools": {
+    "title": "Data Rights & Risk Management Tools"
+  },
+  "guidance": {
+    "title": "Guidance Documents"
+  },
+
+  "registrationForm": {
+    "title": "Data Controller/Processor Registration Form",
+    "desc": "For organizations to register with the DPA.",
+    "hint": ""
+  },
+
+  "authNotifForm1": {
+    "title": "Prior Authorization Request Form",
+    "desc": "Required before processing high-risk personal data.",
+    "hint": ""
+  },
+
+  "authNotifForm2": {
+    "title": "Cross-Border Data Transfer Application Form",
+    "desc": "To seek DPA approval for international data flows.",
+    "hint": ""
+  },
+
+  "riskTools": {
+    "title": "Record of Processing Activities (ROPA) Template",
+    "desc": "Required log of all personal data processing.",
+    "hint": "Format: XLSX"
+  },
+
+  "rightsRequestForm": {
+    "title": "Data Subject Rights Request Form",
+    "desc": "Used by individuals to access, correct, or delete their data.",
+    "hint": ""
+  },
+
+  "dpiaTemplate": {
+    "title": "DPIA (Data Protection Impact Assessment) Template",
+    "desc": "Tool for identifying and mitigating privacy risks.",
+    "hint": ""
+  },
+
+  "orgComplianceGuide": {
+    "title": "Compliance Guide for Organizations",
+    "desc": "Checklist and practical tips for institutional compliance.",
+    "hint": "For Controllers & Processors"
+  },
+
+  "publicGuide": {
+    "title": "Data Protection Guide for the Public",
+    "desc": "Practical guide to understanding your privacy rights.",
+    "hint": ""
+  }
+}

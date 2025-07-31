@@ -1,0 +1,131 @@
+{
+  "badge": "Waxaan Qabanaa",
+  "heading": "Adeegyadayada",
+
+  "cards": [
+    {
+      "id": "registration-card",
+      "icon": "FileText",
+      "name": "Foomka Diiwaangelinta",
+      "description": "Waxaa loogu talagalay maamulayaasha xogta & farsameeyayaasha si ay isu diiwaangeliyaan DPA.",
+      "href": "/services#registration",
+      "cta": "Akhri faahfaahin"
+    },
+    {
+      "id": "complaint-card",
+      "icon": "AlertTriangle",
+      "name": "Foomka Cabashada",
+      "description": "Shakhsiyaadku waxay ku gudbin karaan cabashooyin ku saabsan sida xogtooda loo maareeyay.",
+      "href": "/services#complaint",
+      "cta": "Akhri faahfaahin"
+    },
+    {
+      "id": "breach-card",
+      "icon": "ClipboardList",
+      "name": "Warbixinta Jebinta Xogta",
+      "description": "Loogu talagalay in hay’aduhu ku soo wargeliyaan jebinta xogta shakhsiyeed.",
+      "href": "/services#breach",
+      "cta": "Akhri faahfaahin"
+    },
+    {
+      "id": "dpo-card",
+      "icon": "ShieldCheck",
+      "name": "Foomka Diiwaangelinta DPO",
+      "description": "Loo adeegsado codsiga shahaadada Sarkaalka Ilaalinta Xogta (DPO).",
+      "href": "/services#dpo",
+      "cta": "Akhri faahfaahin"
+    }
+  ],
+
+  "forms": [
+    {
+      "id": "registration",
+      "icon": "FileText",
+      "name": "Foomka Diiwaangelinta",
+      "law": "Qodobka 12 – Sharciga Ilaalinta Xogta Soomaaliya 2024",
+      "description": "Waxaa loogu talagalay maamulayaasha xogta iyo kuwa farsameeya xogta si ay isu diiwaangeliyaan DPA.",
+      "docs": [
+        "Shahaadada Diiwaangelinta Shirkadda",
+        "Xeer hoosaadka shirkadda",
+        "Sharaxaadda ujeedada farsameynta xogta"
+      ],
+      "file": "/docs/forms/Data-Controller-Form-SO.pdf",
+      "downloadCta": "Soo deji foomka"
+    },
+    {
+      "id": "complaint",
+      "icon": "AlertTriangle",
+      "name": "Foomka Cabashada",
+      "law": "Qodobka 38 – Sharciga Ilaalinta Xogta Soomaaliya 2024",
+      "description": "Shakhsiyaadku waxay ku gudbin karaan cabashooyin ku saabsan sida xogtooda loo maareeyay.",
+      "docs": [
+        "Nuqul Aqoonsi",
+        "Caddeyn xiriir shirkadda"
+      ],
+      "file": "/docs/forms/Complaint-Form-SO.pdf",
+      "downloadCta": "Soo deji foomka"
+    },
+    {
+      "id": "breach",
+      "icon": "ClipboardList",
+      "name": "Warbixinta Jebinta Xogta",
+      "law": "Qodobka 34 – Sharciga Ilaalinta Xogta Soomaaliya 2024",
+      "description": "Loogu talagalay in hay’aduhu ku soo wargeliyaan jebinta xogta shakhsiyeed.",
+      "docs": [
+        "Faah-faahinta dhacdada jebinta",
+        "Tallaabooyinka wax-ka-qabashada",
+        "Tirada dadka ay saameysay"
+      ],
+      "file": "/docs/forms/Data-Breach-Report-SO.pdf",
+      "downloadCta": "Soo deji foomka"
+    },
+    {
+      "id": "dpo",
+      "icon": "ShieldCheck",
+      "name": "Foomka Diiwaangelinta DPO",
+      "law": "Qodobka 19 – Sharciga Ilaalinta Xogta Soomaaliya 2024",
+      "description": "Loo adeegsado codsiga shahaadada Sarkaalka Ilaalinta Xogta (DPO).",
+      "docs": [
+        "CV-ga musharaxa",
+        "Caddeynta khibradda & tababarrada",
+        "Warqad oggolaansho shirkad"
+      ],
+      "file": "/docs/forms/DPO-Registration-SO.pdf",
+      "downloadCta": "Soo deji foomka"
+    }
+  ],
+
+  "items": "@@forms",
+
+  "requiredDocs": "Dukumentiyada loo baahan yahay:",
+  "uploadLabel": "Xulo foom dhammeystiran oo aad soo geliso",
+  "cta": { "upload": "Soo geli" },
+
+  "awareness": {
+    "title": "Hel Tababar ku Saabsan Ilaalinta Xogta",
+    "lawRef": "Qodobka 45 – Waajibaadka Tababarka Ilaalinta Xogta",
+    "desc": "Dhammaan maamulayaasha xogta waa inay sanadkiiba maraan tababar shahaado leh si ay u waafaqaan sharciga.",
+    "items": [
+      "Koorsooyin onlayn iskiis u socda",
+      "Aqoon isweydaarsi fool ka fool ah",
+      "Imtixaan shahaado"
+    ],
+    "docs": [
+      "Caddeyn dhammaystirka koorsada",
+      "Shahaadada imtixaanka"
+    ],
+    "docsNote": "Hayso dukumentiyadan marka la baarayo.",
+    "email": "training@dpa.so",
+    "viewCalendar": "Eeg jadwalka tababarka",
+    "calendarHref": "/training-calendar"
+  },
+
+  "legal": {
+    "title": "Xigashooyinka Sharciga",
+    "purpose": "Soo deji dukumentiyadan si aad u fahamto waajibaadkaaga.",
+    "links": [
+      { "label": "Sharciga Ilaalinta Xogta (PDF)", "href": "/docs/DPA-Act-2024.pdf" },
+      { "label": "Tilmaamaha Xeerarka",            "href": "/docs/Regulations.pdf" }
+    ]
+  }
+}

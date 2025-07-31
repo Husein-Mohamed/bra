@@ -1,0 +1,42 @@
+{
+    "bannerTitle": "For Organizations",
+    "bannerSubtitle": "Know Your Obligations",
+    "mainTitle": "Data Collection and Processing in Health",
+    "mainParagraph": "Patient Records: Personal information, medical history, treatment details. Operational Data: Staff schedules, financial records, operational metrics. Digital Health Services: Telemedicine, electronic health records (EHRs), health apps.",
+    
+    "bestPracticesTitle": "Best Practices:",
+    "bestPractices": [
+      {
+        "title": "Patient Consent:",
+        "description": "Obtain explicit consent for data collection and processing."
+      },
+      {
+        "title": "Confidentiality:",
+        "description": "Ensure patient information is kept confidential and accessed only by authorized personnel."
+      },
+      {
+        "title": "Data Security:",
+        "description": "Use encryption and secure access controls to protect data."
+      },
+      {
+        "title": "Compliance:",
+        "description": "Adhere to health data protection regulations (e.g., GDPR, HIPAA)."
+      },
+      {
+        "title": "Incident Response:",
+        "description": "Develop and implement a data breach response plan."
+      },
+      {
+        "title": "Patient Rights:",
+        "description": "Inform patients about their data rights, including access and correction."
+      }
+    ],
+    
+    "benefitsTitle": "Benefits:",
+    "benefits": [
+      "Protects patient privacy and confidentiality.",
+      "Enhances trust between patients and healthcare providers.",
+      "Ensures compliance with health data protection laws."
+    ]
+  }
+  

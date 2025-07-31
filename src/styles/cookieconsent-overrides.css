@@ -1,0 +1,84 @@
+/* 1) hide the built-in full-screen overlay blocker */
+#cc-site-blocker {
+  display: none !important;
+}
+body.cc-blocked > *:not(.cc-window) {
+  pointer-events: auto !important;
+}
+
+/* 2) full-width, flush‑to‑bottom wrapper */
+.cc-window {
+  position: fixed !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  z-index: 2147483647 !important;
+}
+
+/* 3) inner card (max 960px, centered) */
+.cc-window .cc-container {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.5rem;
+  background: #fff;
+  border-radius: 8px 8px 0 0;
+  box-shadow: 0 -4px 16px rgba(0,0,0,0.15);
+}
+
+/* 4) left side text */
+.cc-side-left {
+  flex: 1;
+}
+.cc-header {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 0.25rem;
+}
+.cc-content {
+  font-size: 0.875rem;
+  color: #555;
+  line-height: 1.4;
+}
+.cc-content a {
+  color: #080c2c;
+  text-decoration: underline;
+}
+
+/* 5) right side buttons */
+.cc-side-right {
+  display: flex;
+  gap: 0.75rem;
+}
+.cc-btn {
+  min-width: 100px;
+  padding: 0.6rem 1rem !important;
+  font-size: 0.9rem !important;
+  font-weight: 600 !important;
+  border-radius: 6px !important;
+  cursor: pointer !important;
+  border: none !important;
+}
+.cc-btn--accept {
+  background: #080c2c !important;
+  color: #fff !important;
+}
+.cc-btn--reject {
+  background: #f3f3f3 !important;
+  color: #333 !important;
+}
+.cc-btn--settings {
+  background: #fff !important;
+  color: #080c2c !important;
+  border: 1px solid #080c2c !important;
+}
+.cc-btn:hover {
+  opacity: 0.9 !important;
+}

@@ -1,0 +1,48 @@
+{
+    "pageTitle": "For Organizations",
+    "pageSubtitle": "Know Your Obligations",
+    "mainTitle": "Direct Marketing: Opt-In, Opt-Out & Online Data Collection",
+    "mainIntro": "When a data controller is involved in processing activities...",
+    "optIn": {
+      "title": "Opt-In Mechanism",
+      "points": [
+        { "title": "Explicit Consent", "description": "Individuals must actively agree..." },
+        { "title": "Clear Information", "description": "Provide clear information..." },
+        { "title": "Affirmative Action", "description": "Consent should be given..." }
+      ]
+    },
+    "optOut": {
+      "title": "Opt-Out Mechanism",
+      "points": [
+        { "title": "Easy Access", "description": "Provide a simple method..." },
+        { "title": "Immediate Action", "description": "Ensure that opt-out requests..." },
+        { "title": "Confirmation", "description": "Send a confirmation message..." },
+        { "title": "Respecting Preferences", "description": "Ensure preferences are respected..." }
+      ]
+    },
+    "onlineData": {
+      "title": "Online Data Collection",
+      "intro": "Online data collection involves...",
+      "typesTitle": "Types of Data Collected",
+      "types": [
+        { "title": "Personal Data", "description": "Names, email addresses..." },
+        { "title": "Behavioral Data", "description": "Page views, clicks..." },
+        { "title": "Transactional Data", "description": "Purchase history..." },
+        { "title": "Demographic Data", "description": "Age, gender..." },
+        { "title": "Technical Data", "description": "IP addresses..." },
+        { "title": "Preference Data", "description": "Interests and preferences." }
+      ],
+      "bestPracticesTitle": "Best Practices",
+      "bestPractices": [
+        { "title": "Transparency and Consent", "description": "Inform users..." },
+        { "title": "Data Minimization", "description": "Collect only necessary data." },
+        { "title": "Security Measures", "description": "Implement robust security..." },
+        { "title": "User Control", "description": "Provide mechanisms..." },
+        { "title": "Compliance", "description": "Ensure compliance..." },
+        { "title": "Data Accuracy", "description": "Maintain accurate data..." },
+        { "title": "Anonymization and Aggregation", "description": "Protect privacy..." },
+        { "title": "Clear Privacy Policies", "description": "Develop comprehensive..." }
+      ]
+    }
+  }
+  

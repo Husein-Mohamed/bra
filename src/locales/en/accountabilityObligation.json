@@ -1,0 +1,17 @@
+{
+    "banner": {
+      "title": "For Organizations",
+      "subtitle": "Know Your Obligations"
+    },
+    "section1": {
+      "title": "Accountability obligation",
+      "desc": "Accountability is a key principle requiring organizations to demonstrate how they comply with the Data Protection Act. This includes taking technical and organizational measures and proving effectiveness."
+    },
+    "section2": {
+      "item1": "Adequate documentation on what personal data is processed.",
+      "item2": "How, to what purpose, and how long data will be processed for.",
+      "item3": "Documented processes and procedures for early-stage data protection and breach response.",
+      "item4": "The presence of a Data Protection Officer (if required) involved in planning and operations."
+    }
+  }
+  

@@ -1,0 +1,26 @@
+{
+  "pageTitle": "Data Processor",
+  "intro": "A data processor is any natural or legal person, public authority, agency, or other body which processes personal data on behalf of the data controller. Unlike data controllers, data processors do not have the authority to decide the purpose and means of the processing of personal data.",
+  "responsibilitiesSection": {
+    "title": "Responsibilities of Data Processors",
+    "intro": "Data processors have specific obligations and responsibilities to ensure the protection of personal data. These include:"
+  },
+  "responsibilitiesList": [
+    {
+      "heading": "Processing Data in Accordance with Instructions",
+      "body": "Personal data only according to the documented instructions provided by the data controller. Any deviation from these instructions requires explicit authorization from the data controller."
+    },
+    {
+      "heading": "Implementing Appropriate Security Measures",
+      "body": "Implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk. This includes protecting data against unauthorized or unlawful processing and accidental loss, destruction, or damage."
+    },
+    {
+      "heading": "Maintaining Records of Processing Activities",
+      "body": "Data processors must maintain records of all categories of processing activities carried out on behalf of the data controller. This record should include details such as the purposes of processing, categories of data subjects and personal data, and any transfers of personal data to a third country."
+    },
+    {
+      "heading": "Assisting the Data Controller",
+      "body": "Data processors must assist data controllers in ensuring compliance with their obligations under data protection laws. This includes aiding in responding to data subject rights requests, data breach notifications, and conducting data protection impact assessments."
+    }
+  ]
+}

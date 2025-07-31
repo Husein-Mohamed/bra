@@ -1,0 +1,37 @@
+{
+  "faqTitle": "Su'aalaha Inta Badan La Isweydiiyo (FAQs)",
+  "faqDescription": "Hay’adda Ilaalinta Xogta Soomaaliya (DPA) waxay ka caawisaa shakhsiyaadka iyo hay’adaha helitaanka jawaabaha su’aalaha caanka ah ee la xiriira ilaalinta xogta Soomaaliya.",
+  "stillHaveQuestionsTitle": "Su’aalo kale ma qabtaa?",
+  "stillHaveQuestionsDescription": "Nala soo xiriir info@dpa.gov.so ama nala soo sheekee toos.",
+  "contactSupportButton": "La Xiriir Taageerada",
+  "faqs": [
+    {
+      "question": "Waa maxay xogta shakhsiyeed?",
+      "answer": "Xogta shakhsiyeed waa macluumaad kasta oo lagu garan karo qof, sida magacyo, lambarro aqoonsi, cinwaanno email, diiwaannada caafimaad, ama xogta goobta (location)."
+    },
+    {
+      "question": "Maxay yihiin xuquuqdayda hoos yimaada Xeerka Ilaalinta Xogta?",
+      "answer": "Waxaad leedahay xuquuq aad ku heli karto xogtaada, ku saxdo ama ku tirtirto, uga hortagto farsamaynta, iyo kuwo kale oo badan."
+    },
+    {
+      "question": "Ma khasab baa inaan iska diiwaangeliyo sida maamule xog (data controller)?",
+      "answer": "Haa. Haddii hay'addaadu ururiso ama farsamayso xogta shakhsiyeed ee dadka Soomaaliyeed, waa in aad iska diiwaangelisaa. Eeg qaybta Adeegyada (Services) faahfaahinta shuruudaha."
+    },
+    {
+      "question": "Sideen u soo sheegi karaa xadgudub xog (data breach)?",
+      "answer": "Isticmaal Foomka Ogeysiinta Xadgudubka Xogta oo u gudbi 72 saacadood gudahood email-ka breaches@dpa.gov.so. Tilmaamaha buuxa waxaa laga helaa bogga Adeegyada."
+    },
+    {
+      "question": "Ma wareejin karaa xogta Soomaaliya dibaddeeda?",
+      "answer": "Haa, balse kaliya ogolaanshaha ka horreeya ee DPA iyo ilaalinno ku habboon oo jira. Tixraac qaybta Codsiga Wareejinta Xogta Caalamiga ah."
+    },
+    {
+      "question": "Waa maxay DPO, yaase u baahan?",
+      "answer": "Wakiilka Ilaalinta Xogta (DPO) waa lagama maarmaan hay’adaha farsameeya xog ballaaran ama dareen leh (sensitive). Baro sida loo magacaabo DPO qaybta Adeegyada."
+    },
+    {
+      "question": "Intee ayay qaadataa in la farsameeyo codsigayga ama cabashadayda?",
+      "answer": "Badanaa waxaad jawaab ka helaysaa 5–15 maalmood oo shaqo gudahood, iyadoo ku xiran nooca codsigaaga."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+    "dataControllerTitle": "Kontoroolaha Xogta",
+    "dataControllerSubtitle": "Ogow Waajibaadkaaga",
+    "responsibilitiesTitle": "Waajibaadka Kontoroolaha Xogta:",
+    "keyDutiesTitle": "Waajibaadka Muhiimka ah",
+    "responsibilities": [
+      {
+        "title": "Go'aaminta Hawlaha Falanqaynta Xogta",
+        "summary": "Kontoroolaha Xogta ayaa go'aamiya sababta iyo sida xogta shaqsiyeed loo farsameynayo. Tani waxaa ka mid ah qeexida noocyada xogta la ururiyey, ujeedada loo isticmaali doono, iyo hababka farsamaynta."
+      },
+      {
+        "title": "Hubinta Falanqaynta Sharciga",
+        "summary": "Kontoroolaha Xogta waa inuu hubiyaa in dhammaan hawlaha farsamaynta xogta ay leeyihiin saldhig sharci ah. Sababaha sharciga ah ee guud waxaa ka mid ah oggolaanshaha qofka xogta leh, baahida farsamaynta si loo fuliyo heshiiska, waajibaadka sharciga, ilaalinta danaha muhiimka ah, danaha dadweynaha, ama danaha sharciyeed ee kontoroolaha."
+      },
+      {
+        "title": "Helitaanka Oggolaanshaha",
+        "summary": "Marka farsamayntu ku saleysan tahay oggolaanshaha, Kontoroolaha Xogta ayaa mas'uul ka ah helitaanka iyo diiwaangelinta oggolaanshaha qofka xogta leh. Oggolaanshahan waa inuu yahay mid la fahmi karo, si xor ah loo bixiyey, isla markaana la joojiyo wakhti kasta."
+      },
+      {
+        "title": "Hufnaan iyo Isgaarsiinta",
+        "summary": "Kontoroolaha Xogta waa inuu bixiyo macluumaad cad oo hufan oo ku saabsan sida xogtooda loo farsameyn doono. Tani waxaa ka mid ah ogeysiisyada qarsoodiga ah ee faahfaahsanaya aqoonsiga kontoroolaha, ujeedada farsamaynta, saldhigga sharciga ah ee farsamaynta, iyo xuquuqda qofka xogta leh."
+      },
+      {
+        "title": "Xuquuqda Qofka Xogta Leh",
+        "summary": "Kontoroolaha Xogta waa inuu ilaalinayaa xuquuqda qofka xogta leh, oo ay ka mid yihiin helitaanka xogta shaqsiyeed, saxida xogta khaldan, tirtirida xogta, xaddidaadda farsamaynta, qaadista xogta, iyo ka soo horjeedka farsamaynta."
+      },
+      {
+        "title": "Amaan Xogta",
+        "summary": "Ka hortagga gelitaanka aan la ogolayn, luminta shilalka, ama burburinta xogta waa mas'uuliyad muhiim ah. Tani waxaa ka mid ah hubinta saxnaanta, qarsoodiga, iyo helitaanka xogta."
+      },
+      {
+        "title": "Xog-Ururin",
+        "summary": "Kontoroolaha Xogta waa inuu hayaa diiwaanka hawlaha farsamaynta xogta, oo ay ku jiraan faahfaahinta noocyada xogta, ujeedada farsamaynta, dadka loo gudbiyey xogta, gudbinta xogta, iyo tillaabooyinka amniga."
+      },
+      {
+        "title": "Qiimeynta Saamaynta Ilaalinta Xogta (DPIA)",
+        "summary": "Marka hawlaha farsamaynta xogta ay suurtogal tahay inay keenaan khataro sare oo ku wajahan xuquuqda iyo xorriyadaha dadka, Kontoroolaha Xogta waa inuu sameeyaa Qiimeynta Saamaynta Ilaalinta Xogta si loo aqoonsado oo loo yareeyo khatarahaas."
+      },
+      {
+        "title": "La Xiriirida Hay'adaha Ilaalinta Xogta",
+        "summary": "Kontoroolaha Xogta waa inuu la shaqeeyaa Hay'adda Ilaalinta Xogta (DPA) ee Soomaaliya, isagoo soo sheegaya jebinta xogta iyo raacaya waxqabadka iyo tilmaamaha lagu fulinayo."
+      },
+      {
+        "title": "Tababarka iyo Wacyigelinta",
+        "summary": "Hubinta in shaqaalaha iyo dhinacyada kale ee muhiimka ah ay ka warqabi doonaan waajibaadka ilaalinta xogta iyo dhaqamada ugu wanaagsan waa mas'uuliyad muhiim ah oo ka tirsan Kontoroolaha Xogta."
+      }
+    ],
+    "keyDuties": [
+      {
+        "title": "Qiimeynta Khataraha",
+        "summary": "Fuli qiimeyn khataraha oo dhameystiran ka hor inta aan la farsameyn xogta si loo aqoonsado khataraha iyo daciifnimada."
+      },
+      {
+        "title": "Hubinta Falanqaynta Sharciga",
+        "summary": "Deji heshiisyo maarayn xogta oo qeexaya shuruudaha farsamaynta xogta, oo ay ku jiraan tillaabooyinka amniga."
+      },
+      {
+        "title": "Kormeerka iyo Kormeerka",
+        "summary": "Si joogto ah u kormeer oo u baar hawlaha farsamaynta xogta si loo hubiyo waafaqsanaanta iyo in la ogaado jebinta."
+      },
+      {
+        "title": "Jawaabta Dhacdooyinka",
+        "summary": "Deji qorshe jawaab-celin si degdeg ah loogu dhaqmo marka la helo jebinta xogta, oo ay ku jiraan ogeysiinta dadka xogta leh iyo hay'adaha khuseeya."
+      }
+    ]
+  }
+  

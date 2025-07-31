@@ -1,0 +1,37 @@
+{
+  "faqTitle": "Frequently Asked Questions (FAQs)",
+  "faqDescription": "Somali Data Protection Authority helps individuals and organizations quickly find answers to common questions about data protection in Somalia.",
+  "stillHaveQuestionsTitle": "Still have questions?",
+  "stillHaveQuestionsDescription": "Contact us at info@dpa.gov.so or chat live with us.",
+  "contactSupportButton": "Contact Support",
+  "faqs": [
+    {
+      "question": "What is personal data?",
+      "answer": "Personal data is any information relating to an identified or identifiable person, such as names, ID numbers, email addresses, health records, or location data."
+    },
+    {
+      "question": "What are my rights under the Data Protection Act?",
+      "answer": "You have the right to access your data, request corrections or deletion, object to processing, and more."
+    },
+    {
+      "question": "Do I need to register as a data controller?",
+      "answer": "Yes. If your organization collects or processes personal data of Somali residents, you must register. See the Services section for requirements."
+    },
+    {
+      "question": "How do I report a data breach?",
+      "answer": "Use the Data Breach Notification Form and submit it within 72 hours to breaches@dpa.gov.so. Full instructions are under the Services page."
+    },
+    {
+      "question": "Can I transfer data outside Somalia?",
+      "answer": "Yes, but only with prior DPA approval and appropriate safeguards. Refer to the Cross‑Border Transfer Application section."
+    },
+    {
+      "question": "What is a DPO and who needs one?",
+      "answer": "A Data Protection Officer (DPO) is required for organizations conducting large‑scale or sensitive data processing. Learn how to appoint a DPO in our Services."
+    },
+    {
+      "question": "How long does it take to process my request or complaint?",
+      "answer": "Typically, you’ll receive a response within 5–15 business days, depending on the nature of your request."
+    }
+  ]
+}

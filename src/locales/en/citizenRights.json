@@ -1,0 +1,77 @@
+{
+  "hero": { "white": "Citizen", "blue": "Rights" },
+  "subtitle": "Understand and exercise your data rights under Law No. 005/2023.",
+
+  "rights": [
+    {
+      "icon": "Search",
+      "title": "Right to Access",
+      "desc": "Obtain and review your personal data and how it is processed.",
+      "article": "Article 9"
+    },
+    {
+      "icon": "X",
+      "title": "Right to Object",
+      "desc": "Object to processing on specific legal grounds.",
+      "article": "Article 9(4)"
+    },
+    {
+      "icon": "Trash2",
+      "title": "Right to Erasure (Right to be Forgotten)",
+      "desc": "Request deletion of your data under certain conditions.",
+      "article": "Article 9(9)"
+    },
+    {
+      "icon": "ArrowUpRight",
+      "title": "Right to Data Portability",
+      "desc": "Receive or transfer your data in a structured format.",
+      "article": "Article 9(6)"
+    },
+    {
+      "icon": "Edit3",
+      "title": "Right to Restrict Processing",
+      "desc": "Temporarily pause processing during disputes.",
+      "article": "Article 9(5)"
+    },
+    {
+      "icon": "UserCheck",
+      "title": "Right Not to Be Subject to Automated Decision‑Making",
+      "desc": "Protection from decisions made without human review.",
+      "article": "Article 9(7)"
+    },
+    {
+      "icon": "ArrowUpRightCircle",
+      "title": "Right to Data Portability",
+      "desc": "Receive or transfer your data in a structured format.",
+      "article": "Article 9(6)"
+    },
+    {
+      "icon": "FileText",
+      "title": "Right to Lodge a Complaint",
+      "desc": "Submit complaints directly to the DPA.",
+      "article": "Article 26"
+    }
+  ],
+
+  "tipsTitle": "Protect Your Privacy – Everyday Tips",
+  "tips": [
+    "Avoid phishing links",
+    "Never share your OTP",
+    "Keep your ID safe",
+    "Use 2‑FA",
+    "Watch out for scam calls"
+  ],
+
+  "guidesTitle": "Helpful Guides",
+  "publicGuide": "Read – Data Protection Guide for the Public ",
+  "orgGuide": "Read – Compliance Guide for Organizations ",
+
+  "assistanceTitle": "Need assistance exercising your rights?",
+  "formsTitle": "Visit the Resources & Forms page:",
+  "forms": [
+    "Data Subject Rights Request Form",
+    "Complaint Form"
+  ],
+  "complaintBtn": "Submit Complaint",
+  "resourcesLink": "Visit Resources & Forms"
+}

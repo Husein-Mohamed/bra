@@ -1,0 +1,30 @@
+{
+  "storageLimitation": {
+    "title": "Xaddididda Kaydinta",
+    "description": "Ha kaydin xog shaqsiyeed oo aadan u baahnayn."
+  },
+  "purposeLimitation": {
+    "title": "Xaddididda Ujeedka",
+    "description": "Xogta shakhsiga ah waa in loo ururiyaa ujeedo gaar ah oo sharci ah."
+  },
+  "dataAccuracy": {
+    "title": "Saxnaanta Xogta",
+    "description": "Macluumaadka waa inuu ahaadaa mid sax ah, la cusboonaysiiyay, oo xaddidan si loo hubiyo saxnaanta."
+  },
+  "lawfulness": {
+    "title": "Sharciyad",
+    "description": "Xogta waa in lagu farsameeyaa si sharciga ah oo anshax leh iyadoo la ilaalinayo caddaaladda."
+  },
+  "dataMinimization": {
+    "title": "Yareynta Xogta",
+    "description": "Xogta shakhsiga ah waa in ay noqotaa tii ugu yarayd ee loo baahnaa."
+  },
+  "fairnessAccountability": {
+    "title": "Cadaalad iyo Mas’uuliyad",
+    "description": "Xogta shakhsiga ah waa in lagu qaadaa si caddaalad iyo mas’uuliyad leh iyadoo la raacayo mabaadi’da asturnaanta."
+  },
+  "confidentialitySecurity": {
+    "title": "Qarsoodiga iyo Amniga",
+    "description": "Hay’aduhu waa in ay ilaaliyaan xogta shaqsiyaadka, xuquuqdooda, oo ay hirgeliyaan tillaabooyin lagu sugo aaminaadda xogta."
+  }
+}

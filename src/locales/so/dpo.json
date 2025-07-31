@@ -1,0 +1,89 @@
+{
+    "bannerTitle": "Shirkadaha",
+    "bannerSubtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Sarkaalka Ilaalinta Xogta",
+    "understandingDpoTitle": "Fahamka Sarkaalka Ilaalinta Xogta (DPO)",
+    "understandingDpoParagraph1": "Sarkaalka Ilaalinta Xogta (DPO) waa qof loo magacaabay urur si uu u ilaaliyo u hoggaansanaanta sharciga ilaalinta xogta.",
+    "understandingDpoParagraph2": "Somalia, DPO-gu waa ilaaliye xogta shaqsiyeed, isaga oo xaqiijinaya habraacyada ilaalinta xogta.",
+    "keyResponsibilitiesTitle": "Mas'uuliyadaha Muhiimka ah:",
+    "keyResponsibilities": [
+      {
+        "title": "La Socodka U Hoggaansanaanta:",
+        "summaries": [
+          "U Hoggaansanaanta Sharciga: Hubi u hoggaansanaanta xeerarka xogta.",
+          "Hirgelinta Siyaasadaha: Samee oo maamul siyaasadaha ilaalinta xogta."
+        ]
+      },
+      {
+        "title": "Talo Bixinta DPIAs:",
+        "summaries": [
+          "Maareynta Khatarta: Hage habka DPIA.",
+          "Diiwaangelinta: Cusbooneysii DPIAs si joogto ah."
+        ]
+      },
+      {
+        "title": "Tababarka Shaqaalaha iyo Wacyigelinta:",
+        "summaries": [
+          "Tababar Shaqaalaha: Baro shaqaalaha ilaalinta xogta.",
+          "Wacyigelin: Kordhi wacyiga ilaalinta xogta."
+        ]
+      },
+      {
+        "title": "Isku-xirka:",
+        "summaries": [
+          "La xiriirka Shaqsiyaadka: Maamul codsiyada xogta.",
+          "La xiriirka Hay'adaha: La shaqee Hay'adda Ilaalinta Xogta Somalia."
+        ]
+      },
+      {
+        "title": "Maareynta Jebinta Xogta:",
+        "summaries": [
+          "Falcelinta Dhacdada: Maamul ogeysiisyada jebinta.",
+          "Ogeysiinta: Wargeli hay'adaha iyo dadka saamaynta leh."
+        ]
+      },
+      {
+        "title": "Hubinta Amniga Xogta:",
+        "summaries": [
+          "Tallaabooyin Ilaalin: Kordhi amniga xogta IT-ga.",
+          "Kormeerka Hoggaanka: Samee kormeer joogto ah."
+        ]
+      },
+      {
+        "title": "Talo Bixinta Hababka Habaynta Xogta:",
+        "summaries": [
+          "Talo Sharci: La tali arrimaha sharciyada xogta.",
+          "Qiimeynta Khatarta: Qiimee khataraha habaynta."
+        ]
+      },
+      {
+        "title": "Kaydinta Diiwaanka:",
+        "summaries": [
+          "Diiwaangelinta: Ilaali diiwaan dhamaystiran oo ah howsha, DPIAs, jebinta xogta iyo kormeerada."
+        ]
+      }
+    ],
+    "roleOfDpoTitle": "Doorka DPO",
+    "roleOfDpoParagraph1": "DPO-gu wuxuu dhisaa kalsooni iyada oo loo marayo u hoggaansanaanta sharciga xogta.",
+    "roleOfDpoParagraph2": "DPO-yada Somalia waxay ilaaliyaan xogta shaqsiyeed waxayna dhiirrigeliyaan hufnaanta iyo isla xisaabtanka.",
+    "qualificationsTitle": "Shahaadooyinka DPO:",
+    "qualifications": [
+      {
+        "title": "Aqoonta Khabiirka:",
+        "summary": "Fahmitaan qoto dheer oo ku saabsan sharciyada iyo dhaqamada xogta."
+      },
+      {
+        "title": "Xirfadaha Sharciga:",
+        "summary": "Aqoonta waajibka sharciga ee ku saabsan xogta gaarka ah."
+      },
+      {
+        "title": "Xirfadaha Isgaarsiinta:",
+        "summary": "Kartida isgaarsiinta wax ku oolka ah ee shaqsiyaadka iyo hay'adaha."
+      },
+      {
+        "title": "Xirfadaha Falanqaynta:",
+        "summary": "Awoodaha falanqaynta si loo maareeyo khatarta iyo u hoggaansanaanta."
+      }
+    ]
+  }
+  

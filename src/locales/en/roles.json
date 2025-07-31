@@ -1,0 +1,26 @@
+{
+  "dataSubject": {
+    "triggerTitle": "Your Rights as a Data Subject",
+    "triggerSubtitle": "Key Steps to Safeguard Data and Maintain Trust",
+    "modalTitle": "Your Rights as a Data Subject",
+    "modalSubtitle": "Key Steps to Safeguard Data and Maintain Trust",
+    "modalContent": "Your Name, Your Phone Number, Your Email, Your ID Card or Passport, Your Bank Account, Your Identity, and any other information that can identify a person.",
+    "buttonText": "Know More About your Rights"
+  },
+  "dataController": {
+    "triggerTitle": "Your Responsibility as a Data Controller",
+    "triggerSubtitle": "Understanding Your Legal Obligations in Handling Personal Data",
+    "modalTitle": "Your Responsibility as a Data Controller",
+    "modalSubtitle": "Understanding Your Legal Obligations in Handling Personal Data",
+    "modalContent": "As Data Controller you must ensure that all data processing activities have a lawful basis. Common legal grounds include the consent of the data subject, the necessity of processing for the performance of a contract, compliance with a legal obligation, protection of vital interests, performance of a task carried out in the public interest, or legitimate interests pursued by the controller or a third party.",
+    "buttonText": "Know More About Your Responsibility"
+  },
+  "dataProcessor": {
+    "triggerTitle": "Your Role as a Data Processor",
+    "triggerSubtitle": "A Guide to Compliance, Accountability, and Best Practices",
+    "modalTitle": "Your Role as a Data Processor",
+    "modalSubtitle": "A Guide to Compliance, Accountability, and Best Practices",
+    "modalContent": "As a Data Processor you must assist Data Controllers in ensuring compliance with their obligations under data protection laws. This includes aiding in responding to data subject rights requests, data breach notifications, and conducting data protection impact assessments.",
+    "buttonText": "Know More About Your Responsibility"
+  }
+}

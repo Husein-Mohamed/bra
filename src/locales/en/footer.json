@@ -1,0 +1,27 @@
+{
+  "followUs": "Follow Us",
+  "quickLinks": "Quick Links",
+  "resources": "Resources",
+  "contactUs": "Contact Us",
+  "address": {
+    "line1": "Mogadishu, Somalia",
+    "line2": "Aden Adde Airport, Road",
+    "email": "Email: Info@dpa.gov.so",
+    "phone": "Phone: 452"
+  },
+  "links": {
+    "home": "Home",
+    "about": "About Us",
+    "news": "News & Media",
+    "services": "Services",
+    "contact": "Contact Us",
+    "regulations": "Regulations",
+    "public": "For The Public",
+    "orgs": "For Organizations",
+    "faqs": "FAQs",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings"
+  },
+  "copyright": "© 2025 Somali Data Protection Authority. All rights reserved."
+}

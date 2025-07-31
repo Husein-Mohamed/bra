@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "For Organizations",
+    "subtitle": "Know Your Obligations"
+  },
+  "pageTitle": "Lawful Processing",
+  "basisSection": {
+    "title": "Lawful Basis for Processing Personal Data",
+    "intro": "In order to process personal data, you must have a lawful basis to do so. The lawful grounds for processing personal data are set out in Article 14 of the DPA. These are:"
+  },
+  "basisList": [
+    "The consent of the individual.",
+    "Performance of a contract.",
+    "Compliance with a legal obligation.",
+    "Necessary to protect the vital interests of a person.",
+    "Necessary for the performance of a task carried out in the public interest.",
+    "In the legitimate interests of the company/organization (except where those interests are overridden by the interests or rights and freedoms of the data subject)."
+  ],
+  "transparencySection": {
+    "title": "Providing Transparent Information",
+    "intro": "Businesses and organizations that process personal data must provide individuals with information about the type of processing that is taking place and who is carrying it out. At a minimum, this information must clearly state:"
+  },
+  "transparencyList": [
+    "Who you (the organization) are.",
+    "Why you are processing the data.",
+    "What legal basis you rely on to legitimize the processing.",
+    "Whether or not the data will be transferred to other organizations or individuals.",
+    "How long the data will be stored.",
+    "The existence of the individual's rights under data protection, including rights to access, correction, erasure, restriction, objection, and portability."
+  ]
+}

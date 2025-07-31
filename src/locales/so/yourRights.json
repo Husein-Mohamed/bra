@@ -1,0 +1,36 @@
+{
+    "yourDataYourRights": "Xogtaada, Xuquuqdaada",
+    "yourRightsTitle": "Xuquuqdaada",
+    "yourRightsDescription": "Wax ka baro xuquuqdaada xogta shakhsiyeed.",
+    "features": {
+      "rightOfAccess": {
+        "title": "Xuquuqda Helitaanka",
+        "description": "Shakhsiyaadka waxay xaq u leeyihiin inay ogaadaan in xogtooda shakhsiyeed la habeeyo, halka ay ka jirto, iyo ujeedada loo isticmaalayo. Waxay codsan karaan nuqul ka mid ah xogtooda shakhsiyeed."
+      },
+      "rightToRectification": {
+        "title": "Xuquuqda Saxida",
+        "description": "Shakhsiyaadka waxay xaq u leeyihiin inay saxaan xogta khaldan ee shakhsiyeed iyo inay dhammeeyaan xogta aan dhammeystirnayn."
+      },
+      "rightToObject": {
+        "title": "Xuquuqda Diidmada",
+        "description": "Shakhsiyaadka waxay xaq u leeyihiin inay ka hor yimaadaan habaynta xogtooda shakhsiyeed ee suuq-geynta tooska ah, cilmi-baarista, ama xaalado kale."
+      },
+      "rightToErasure": {
+        "title": "Xuquuqda Tirtirka (Xuquuqda In La Ilaaliyo)",
+        "description": "Shakhsiyaadka waxay xaq u leeyihiin inay codsadaan tirtirka xogtooda shakhsiyeed xaalado gaar ah."
+      },
+      "rightToRestrictProcessing": {
+        "title": "Xuquuqda Xaddididda Habaynta",
+        "description": "Shakhsiyaadka waxay xaq u leeyihiin inay xannibaan ama xaddidaan habaynta xogtooda shakhsiyeed xaalado gaar ah."
+      },
+      "rightToDataPortability": {
+        "title": "Xuquuqda Xogta La Qaadi Karo",
+        "description": "Shakhsiyaadka waxay codsan karaan oo heli karaan xogtooda shakhsiyeed si ay ugu isticmaalaan adeegyo kala duwan."
+      },
+      "rightsInRelationToAutomatedDecisionMaking": {
+        "title": "Xuquuqda Go'aannada Otomaatiga ah iyo Profiling-ka",
+        "description": "Shakhsiyaadka waxay xaq u leeyihiin inay ka fogaadaan go'aan qaadasho keliya oo ku saleysan habayn otomaatig ah, oo ay ku jirto profiling, oo soo saaraya saameyn sharci oo ku saabsan iyaga ama saameyn weyn ku leh."
+      }
+    }
+  }
+  

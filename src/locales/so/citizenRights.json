@@ -1,0 +1,77 @@
+{
+  "hero": { "white": "Xuquuqda", "blue": "Muwaadinka" },
+  "subtitle": "Si fiican u fahmo oo u isticmaal xuquuqda xogtaada sida uu qabo Xeer Lr. 005/2023.",
+
+  "rights": [
+    {
+      "icon": "Search",
+      "title": "Xuquuqda Helitaanka",
+      "desc": "Hel xogtaada shakhsiga ah iyo halka lagu farsameeyo.",
+      "article": "Qodobka 9"
+    },
+    {
+      "icon": "X",
+      "title": "Xuquuqda Diidmada",
+      "desc": "Diid farsamaynta xogta sababo sharci ah.",
+      "article": "Qodobka 9(4)"
+    },
+    {
+      "icon": "Trash2",
+      "title": "Xuquuqda Tirtirka",
+      "desc": "Codso tirtirka xogta xaalado gaar ah.",
+      "article": "Qodobka 9(9)"
+    },
+    {
+      "icon": "ArrowUpRight",
+      "title": "Xuquuqda Wareejinta Xogta",
+      "desc": "Hel ama wareeji xogtaada hab habaysan.",
+      "article": "Qodobka 9(6)"
+    },
+    {
+      "icon": "Edit3",
+      "title": "Xuquuqda Xaddidaadda Farsamaynta",
+      "desc": "Hakinta ku‑meel‑gaarka ah ee isticmaalka xogta khilaafyada.",
+      "article": "Qodobka 9(5)"
+    },
+    {
+      "icon": "UserCheck",
+      "title": "Ka‑hortagga Go'aan‑qaadasho Si toos ah",
+      "desc": "Ka ilaali go'aano aan bini'aadam ka qayb‑qaadan.",
+      "article": "Qodobka 9(7)"
+    },
+    {
+      "icon": "ArrowUpRightCircle",
+      "title": "Xuquuqda Wareejinta Xogta",
+      "desc": "Hel ama wareeji xogtaada hab habaysan.",
+      "article": "Qodobka 9(6)"
+    },
+    {
+      "icon": "FileText",
+      "title": "Xuquuqda Cabashada",
+      "desc": "U gudbi cabashada DPA haddii lagu xad‑gudbo.",
+      "article": "Qodobka 26"
+    }
+  ],
+
+  "tipsTitle": "Ilaali Asturnaantaada – Talooyin Maalinle ah",
+  "tips": [
+    "Ka fogow isku‑xirka phishing",
+    "Ha wadaagin OTP‑gaaga",
+    "Ka ilaali aqoonsigaaga (ID)",
+    "Isticmaal 2‑FA",
+    "Ka digtoonow wicitaannada khiyaanada ah"
+  ],
+
+  "guidesTitle": "Hagayaasha Waxtarka Leh",
+  "publicGuide": "Akhriso – Hagaha Ilaalinta Xogta ee Dadweynaha",
+  "orgGuide": "Akhriso – Hagaha U‑hogaansanaanta Hay'adaha ",
+
+  "assistanceTitle": "Ma u baahan tahay caawimaad xuquuqdaada?",
+  "formsTitle": "Booqo bogga Khayraadka & Foomamka:",
+  "forms": [
+    "Foomka Codsiga Xuquuqda Xogta",
+    "Foomka Cabashada"
+  ],
+  "complaintBtn": "Gudbi Cabasho",
+  "resourcesLink": "Booqo Khayraadka & Foomamka"
+}

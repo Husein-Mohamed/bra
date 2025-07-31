@@ -1,0 +1,113 @@
+{
+    "bannerTitle": "For Organizations",
+    "bannerSubtitle": "Know Your Obligations",
+    "mainTitle": "E-Governance and Online Data Collection",
+    "mainParagraph": "E-Governance, or electronic governance, refers to the use of digital technologies and the internet to provide public services, enhance communication between government and citizens, improve transparency, and increase efficiency in government operations. It leverages ICT (Information and Communication Technology) to create a more accessible, efficient, and responsive government.",
+    "keyComponentsTitle": "Key Components of E-Governance:",
+    "keyComponentsParagraph": "E-Governance represents a significant shift in how governments interact with citizens, deliver services, and operate internally. By embracing digital technologies, governments can become more responsive, transparent, and efficient, ultimately leading to improved public trust and better service delivery.",
+    "digitalPublicServicesTitle": "Digital Public Services:",
+    "digitalPublicServices": [
+      {
+        "title": "E-Health",
+        "description": "Digital health services including telemedicine, electronic health records, and health information portals."
+      },
+      {
+        "title": "E-Education",
+        "description": "Online education resources, digital classrooms, and e-learning platforms provided by the government."
+      },
+      {
+        "title": "E-Services",
+        "description": "Online platforms for accessing government services such as applying for permits, paying taxes, and accessing public records."
+      }
+    ],
+    "citizenEngagementTitle": "Citizen Engagement:",
+    "citizenEngagement": [
+      {
+        "title": "E-Participation",
+        "description": "Tools and platforms that enable citizens to participate in decision-making processes."
+      },
+      {
+        "title": "E-Consultation",
+        "description": "Online surveys, public consultations, and forums for expressing opinions on policy matters."
+      }
+    ],
+    "transparencyTitle": "Transparency and Accountability:",
+    "transparency": [
+      {
+        "title": "Open Data",
+        "description": "Government initiatives to make data available publicly to promote accountability."
+      },
+      {
+        "title": "E-Auditing",
+        "description": "Digital systems for auditing government activities to reduce corruption."
+      }
+    ],
+    "efficiencyTitle": "Efficiency and Effectiveness:",
+    "efficiency": [
+      {
+        "title": "E-Procurement",
+        "description": "Online procurement systems that streamline purchasing and reduce costs."
+      },
+      {
+        "title": "Digital Workflow",
+        "description": "Automation of internal processes to improve efficiency and reduce errors."
+      }
+    ],
+    "securityTitle": "Security and Privacy:",
+    "security": [
+      {
+        "title": "Cybersecurity",
+        "description": "Measures to protect digital infrastructure and citizen data."
+      },
+      {
+        "title": "Data Protection",
+        "description": "Policies ensuring privacy and data security."
+      }
+    ],
+    "benefitsTitle": "Benefits:",
+    "benefits": [
+      {
+        "title": "Accessibility",
+        "description": "Access services anytime, anywhere."
+      },
+      {
+        "title": "Efficiency",
+        "description": "Automated services save time and resources."
+      },
+      {
+        "title": "Transparency",
+        "description": "Open data and digital auditing increase trust."
+      },
+      {
+        "title": "Participation",
+        "description": "More inclusive citizen engagement."
+      },
+      {
+        "title": "Cost Savings",
+        "description": "Digital services reduce operational costs."
+      }
+    ],
+    "onlineDataCollectionTitle": "Online Data Collection",
+    "onlineDataCollectionParagraph": "Online data collection involves gathering information from users through websites, apps, social media, and digital platforms.",
+    "typesOfDataTitle": "Types of Data Collected:",
+    "onlineDataCollection": [
+      "Personal Data: Names, emails, payment details.",
+      "Behavioral Data: Page views, clicks, session duration.",
+      "Transactional Data: Purchase history, order details.",
+      "Demographic Data: Age, gender, location.",
+      "Technical Data: IP addresses, browser types.",
+      "Preference Data: Interests and preferences."
+    ],
+    "bestPracticesTitle": "Best Practices:",
+    "bestPractices": [
+      "Transparency and Consent: Inform users and obtain consent.",
+      "Data Minimization: Collect only necessary data.",
+      "Security Measures: Protect collected data.",
+      "User Control: Allow users to manage their data.",
+      "Compliance: Ensure compliance with laws.",
+      "Data Accuracy: Keep data updated.",
+      "Anonymization and Aggregation: Anonymize data to protect privacy.",
+      "Clear Privacy Policies: Provide understandable privacy policies."
+    ]
+  }
+  

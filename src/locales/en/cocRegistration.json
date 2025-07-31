@@ -1,0 +1,32 @@
+{
+    "forOrganizations": "For Organizations",
+    "knowYourObligations": "Know Your Obligations",
+    "mainTitle": "Code of conduct and registration",
+    "mainDesc": "The Code of Conduct for data protection establishes...",
+    "codeTitle": "Code of Conduct",
+    "codeDesc": "A Data Protection Code of Conduct helps organizations...",
+    "principles": "Principles:",
+    "principlesList": [
+      "Lawful, fair, and transparent data processing.",
+      "Data minimization and accuracy.",
+      "Storage limitation and integrity.",
+      "Confidentiality and accountability."
+    ],
+    "benefits": "Benefits:",
+    "benefitsList": [
+      "Enhances transparency and accountability.",
+      "Builds trust with data subjects and regulatory bodies."
+    ],
+    "registration": "Registration",
+    "registrationDesc": "Data controllers of major importance must register...",
+    "requirements": "Requirements:",
+    "requirementsList": [
+      "Mandatory Registration: Register within six months of qualifying.",
+      "Information Required: Provide details such as...",
+      "Annual Updates: Update registration annually.",
+      "Public Register: The Authority will maintain...",
+      "Exemptions: Certain data controllers may be exempt...",
+      "Effective Date: Obligations commence once the law is in effect."
+    ]
+  }
+  

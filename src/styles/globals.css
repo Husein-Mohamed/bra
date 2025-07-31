@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
+
+html, body {
+  overflow-x: hidden !important; /* Prevent horizontal scroll (white bar) */
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mil-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.mil-Banner {
+  background-color: #061829;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  background-image: url(../../public/images/Others/why-bg.svg);
+}
+
+.mil-Bg {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  background-size: cover;
+  background-position: center;
+  background-color: #f2f2f2;
+  background-image: url(../../public/images//Others/bg.svg);
+}
+
+.mil-divider-sm {
+  height: 5px;
+  width: 60px;
+  background-color: transparent;
+  border: 3px solid rgba(0, 0, 0, 0.1);
+  border-image: repeating-linear-gradient(
+      -45deg,
+      transparent,
+      transparent 1px,
+      rgba(0, 0, 0, 0.1) 1px,
+      rgba(0, 0, 0, 0.1) 3px
+    )
+    3;
+  transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "banner": {
+      "title": "Hay’adaha",
+      "subtitle": "Ogow Waajibaadkaaga"
+    },
+    "section1": {
+      "title": "Helitaanka iyo Gudbinta Xogta",
+      "desc": "Inkasta oo ay is la mid yihiin, xuquuqda helitaanka iyo gudbinta xogta waa labo arrimood oo kala duwan. Fahamka labadaba waxay ka hortagtaa isfahan la'aan."
+    },
+    "section2": {
+      "title": "Sida loo wajaho codsiyada helitaan iyo gudbin xog",
+      "desc": "Qof walba wuxuu xaq u leeyahay inuu codsado helitaanka xogtiisa shaqsiga ah. Haddii aad hesho codsi noocan ah, waa inaad:",
+      "step1": "U sheeg qofka haddii xogtooda shaqsiyeed la farsameeyo.",
+      "step2": "Si degdeg ah oo aan dib u dhac lahayn, ugu dambeyn hal bil gudaheed, sii nuqul ka mid ah xogta.",
+      "step3": "Sharax ujeedada, qeybaha xogta, cidda helaysa xogta, iyo wixii la mid ah."
+    },
+    "section3": {
+      "p1": "Haddii xog badan la hayo, maamuluhu wuxuu codsan karaa in la qeexo xogta la doonayo.",
+      "p2": "Xuquuqda gudbinta xogta micnaheedu waa in xogta lagu bixiyo qaab la fahmi karo oo mashiin-akhrisan karo.",
+      "p3": "Codsiyada waa la af ahaan karaa ama qoraal. Waa muhiim in si cad loo diiwaangeliyo.",
+      "p4": "La xiriirka shaqsiga u xilsaaran xogta waa habka ugu dhakhsaha badan, laakiin looma baahna inay noqoto waajib."
+    },
+    "section4": {
+      "title": "Xadidaadaha codsiyada helitaan ama gudbin xog",
+      "desc": "Qodobka 20(1) wuxuu ogol yahay in la diido codsiyada haddii ay yihiin kuwo si cad u sal la'aan ah ama aad u badan. Maamulaha waa inuu cadeeyaa sababta wuxuuna isku dayaa inuu jawaabo si uusan u khalkhalgelin xuquuqda dadka kale."
+    }
+  }
+  

@@ -1,0 +1,30 @@
+{
+  "badge": "About The Institution",
+  "heading": {
+    "line1": "The Data Protection",
+    "line2": "Authority of Somalia"
+  },
+  "items": [
+    {
+      "title": "Mission",
+      "subtitle": "Our Mission",
+      "content": "The Data Protection Authority (DPA) is dedicated to fostering a culture of accountability and trust by ensuring that all businesses, private entities, and public institutions govern and process personal data responsibly, transparently, and in full compliance with legal and ethical standards. Our mission extends to empowering individuals with their data rights while advancing innovation in privacy protection."
+    },
+    {
+      "title": "Vision",
+      "subtitle": "Our Vision",
+      "content": "To be the trusted guardian of data privacy, ensuring the transparency, integrity, and security of Somalis’ personal information in an increasingly digital world."
+    },
+    {
+      "title": "Values",
+      "subtitle": "Our Core Values",
+      "content": [
+        "Transparency and Accountability",
+        "Innovation and Adaptability",
+        "Integrity and Confidentiality",
+        "Data Governance Ethics"
+      ]
+    }
+  ],
+  "description": "The Somalia Data Protection Authority (DPA) is the national independent authority responsible for protecting personal privacy and monitoring that all organizations are compliant with the Data Protection Act (No.005 which was passed in March 2023). The role of DPA is to implement the Data Protection Act, as well as providing services that facilitate protection of personal data, such as awareness campaigns, registration, trainings, and crafting regulations specific to storing and processing data. All citizens have the right to the privacy of their personal data, and that is a fundamental right. The Data Protection Authority has been entrusted by the Federal Government of Somalia to safeguard that right, and is responsible for ensuring compliance with the Data Protection Act. The Act gives citizens autonomy to decide how their data is processed, used and who it is shared with."
+}

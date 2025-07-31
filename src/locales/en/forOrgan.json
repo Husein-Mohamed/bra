@@ -1,0 +1,131 @@
+{
+  "badge": "// Know Your Obligations",
+  "heading": "For Organizations",
+
+  "cards": [
+    {
+      "id": "dpb",
+      "title": "Data Protection Basics",
+      "description": "A comprehensive guide aimed at demystifying the essentials of data protection.",
+      "href": "/fto/DPB"
+    },
+    {
+      "id": "obligations",
+      "title": "Know Your Obligations",
+      "description": "This section explains the duties placed on organisations under the data-protection act."
+    },
+    {
+      "id": "knowData",
+      "title": "What do you need to know about data",
+      "description": "Key facts individuals (and organisations) must understand about handling data in a privacy-first way."
+    },
+    {
+      "id": "dm",
+      "title": "Direct Marketing: Opt-In and Opt-Out",
+      "description": "Email, SMS, calls, post… clear Opt-In/Opt-Out keeps you lawful and respectful.",
+      "href": "/fto/DM"
+    },
+    {
+      "id": "coc",
+      "title": "Code of Conduct & Registration",
+      "description": "Lawful processing, registration with the authority, and regular public updates.",
+      "href": "/fto/COC"
+    },
+    {
+      "id": "edu",
+      "title": "Education",
+      "description": "Schools and universities process large volumes of student and staff data.",
+      "href": "/fto/Education"
+    },
+    {
+      "id": "health",
+      "title": "Health",
+      "description": "Providers must keep patient data confidential and secure to maintain trust.",
+      "href": "/fto/Health"
+    },
+    {
+      "id": "telecom",
+      "title": "Telecommunications",
+      "description": "Telcos handle huge amounts of personal and communication data.",
+      "href": "/fto/Telecom"
+    },
+    {
+      "id": "bank",
+      "title": "Banking and Finance",
+      "description": "Financial institutions must safeguard client data to comply and retain confidence.",
+      "href": "/fto/Banking"
+    },
+    {
+      "id": "dpia",
+      "title": "DPIA & Privacy by Design and Default",
+      "description": "High-risk processing? You need a DPIA and privacy-first design.",
+      "href": "/fto/DPIA"
+    },
+    {
+      "id": "ego",
+      "title": "E-Governance and Online Data Collection",
+      "description": "Digital public-service delivery and responsible data collection.",
+      "href": "/fto/E-Governance"
+    },
+    {
+      "id": "checklist",
+      "title": "Compliance Checklist",
+      "description": "Policy, inventory, consent, rights, security, audits, training, breach response.",
+      "href": "/fto/Compliance-Checklist"
+    }
+  ],
+
+  "obligationsDialog": {
+    "title": "Know Your Obligations",
+    "intro": "Below are the core obligation areas every organisation must master.",
+    "links": [
+      { "text": "Access and Portability",        "href": "/fto/Access-Portability" },
+      { "text": "Accountability obligation",     "href": "/fto/Accountability-Obligation" },
+      { "text": "Lawful processing",             "href": "/fto/Lawful-Processing" },
+      { "text": "Data Processor",                "href": "/fto/Data-Processor" },
+      { "text": "Data Controller",               "href": "/fto/Data-Controller" },
+      { "text": "Data Protection Officers",      "href": "/fto/DPO" }
+    ],
+    "cancel": "Cancel"
+  },
+
+  "knowDataDialog": {
+    "title": "What do you need to know about data",
+    "intro": "Essential topics everybody should understand before processing personal data.",
+    "links": [
+      { "text": "DRESC",                     "href": "/fto/DRESC" },
+      { "text": "Data Transfer",             "href": "/fto/Data-Transfer" },
+      { "text": "Data Breach",               "href": "/fto/Data-Breach" },
+      { "text": "Cross-Border Data Transfer","href": "/fto/CBDT" }
+    ],
+    "cancel": "Cancel"
+  },
+
+  "lawfulProcessing": {
+    "pageTitle": "Lawful Processing",
+    "basisSection": {
+      "title": "Lawful Basis for Processing Personal Data",
+      "intro": "In order to process personal data, you must have a lawful basis to do so. The lawful grounds for processing personal data are set out in Article 14 of the DPA. These are:"
+    },
+    "basisList": [
+      "The consent of the individual.",
+      "Performance of a contract.",
+      "Compliance with a legal obligation.",
+      "Necessary to protect the vital interests of a person.",
+      "Necessary for the performance of a task carried out in the public interest.",
+      "In the legitimate interests of the company/organization (except where those interests are overridden by the interests or rights and freedoms of the data subject)."
+    ],
+    "transparencySection": {
+      "title": "Providing Transparent Information",
+      "intro": "Businesses and organizations that process personal data must provide individuals with information about the type of processing that is taking place and who is carrying it out. At a minimum, this information must clearly state:"
+    },
+    "transparencyList": [
+      "Who you (the organization) are.",
+      "Why you are processing the data.",
+      "What legal basis you rely on to legitimize the processing.",
+      "Whether or not the data will be transferred to other organizations or individuals.",
+      "How long the data will be stored.",
+      "The existence of the individual's rights under data protection, including rights to access, correction, erasure, restriction, objection, and portability."
+    ]
+  }
+}

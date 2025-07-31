@@ -1,0 +1,42 @@
+{
+    "bannerTitle": "For Organizations",
+    "bannerSubtitle": "Know Your Obligations",
+    "mainTitle": "Data Protection and Privacy",
+    "mainDescription": "Educational institutions handle a vast amount of personal data related to students, staff, and faculty. Ensuring the protection and privacy of this data is critical.",
+    "collectionTitle": "Data Collection and Processing in Education",
+    "collectionDescription": "Student Information: Personal details, academic records, health information.\nStaff Data: Employment records, performance evaluations, personal contact information.\nLearning Platforms: Data generated from online learning tools and platforms.",
+    "bestPracticesTitle": "Best Practices",
+    "bestPractices": [
+      {
+        "title": "Explicit Consent",
+        "description": "Obtain clear consent from students and parents for data collection."
+      },
+      {
+        "title": "Data Minimization",
+        "description": "Collect only necessary data for educational purposes."
+      },
+      {
+        "title": "Security Measures",
+        "description": "Implement robust security protocols to protect data."
+      },
+      {
+        "title": "Access Control",
+        "description": "Limit access to sensitive information to authorized personnel."
+      },
+      {
+        "title": "Transparency",
+        "description": "Clearly inform students and staff about data usage and rights."
+      },
+      {
+        "title": "Regular Audits",
+        "description": "Conduct regular data protection audits to ensure compliance."
+      }
+    ],
+    "benefitsTitle": "Benefits",
+    "benefits": [
+      "Protects student and staff privacy.",
+      "Builds trust within the educational community.",
+      "Ensures compliance with data protection laws."
+    ]
+  }
+  

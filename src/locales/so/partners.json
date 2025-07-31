@@ -1,0 +1,22 @@
+{
+  "partners": [
+    {
+      "id": 1,
+      "name": "DPA Soomaaliya",
+      "src": "/images/partners/dpa.svg",
+      "blurb": "Hay’adda Ilaalinta Xogta Soomaaliya (DPA) ayaa ku biirtay Shabakadda Hay’adaha Ilaalinta Xogta Afrikaanka (NADPA) si loo horumariyo ilaalinta xogta iyadoo loo marayo wada‑shaqayn heer gobol iyo heerar wadaag ah."
+    },
+    {
+      "id": 2,
+      "name": "GIPD Nigeria",
+      "src": "/images/partners/ndpc.svg",
+      "blurb": "DPA Soomaaliya iyo Guddiga Ilaalinta Xogta ee Nigeria (NDPC) ayaa heshiis wada shaqayn (MoU) saxiixay si loo xoojiyo iskaashiga labada dal loona horumariyo dhaqamada ugu fiican ee ilaalinta xogta."
+    },
+    {
+      "id": 3,
+      "name": "ODPC Kenya",
+      "src": "/images/partners/odpc.svg",
+      "blurb": "DPA Soomaaliya ayaa iskaashi la gashay Xafiiska Guddoomiyaha Ilaalinta Xogta ee Kenya (ODPC) si loo xoojiyo iskaashiga xuduudaha‑dhexaad ah loona dhiirrigeliyo ilaalinta xogta gobolka."
+    }
+  ]
+}

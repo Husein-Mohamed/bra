@@ -1,0 +1,47 @@
+{
+    "bannerTitle": "For Organizations",
+    "bannerSubtitle": "Know Your Obligations",
+    "mainTitle": "Compliance Checklist for Data Protection & Risk Management",
+    "mainDescription": "The Compliance Checklist for Data Protection ensures organizations adhere to data protection laws and safeguard personal data. It includes developing a data protection policy, conducting a data inventory, and establishing legal grounds for processing...",
+    "checklistTitle": "Compliance Checklist for Data Protection",
+    "checklistSubtitle": "Ensuring compliance with data protection laws is essential for safeguarding personal data.",
+    "checklistHeader": "Checklist:",
+    "checklist": [
+      { "title": "Data Protection Policy:", "desc": "Develop and communicate a clear policy." },
+      { "title": "Data Inventory and Mapping:", "desc": "Identify and map personal data." },
+      { "title": "Legal Basis for Processing:", "desc": "Establish and document legal grounds for data processing." },
+      { "title": "Consent Management:", "desc": "Obtain and record explicit consent." },
+      { "title": "Data Subject Rights:", "desc": "Establish procedures for data access, rectification, and erasure." },
+      { "title": "Data Security Measures:", "desc": "Implement technical and organizational security measures." },
+      { "title": "Third-Party Management:", "desc": "Assess and audit third-party vendors." },
+      { "title": "Data Protection Impact Assessments (DPIAs):", "desc": "Conduct DPIAs for high-risk activities." },
+      { "title": "Regular Audits and Reviews:", "desc": "Conduct regular audits and use findings to improve practices." },
+      { "title": "Employee Training and Awareness:", "desc": "Provide ongoing training on data protection." }
+    ],
+    "riskManagementTitle": "Risk Management",
+    "riskManagementDescription": "Risk management involves identifying, assessing, and controlling threats to an organization's data security and privacy.",
+    "componentsTitle": "Components:",
+    "components": [
+      { "title": "Risk Identification:", "desc": "Determine potential risks." },
+      { "title": "Risk Assessment:", "desc": "Analyze and prioritize risks." },
+      { "title": "Risk Mitigation:", "desc": "Develop and implement mitigation strategies." },
+      { "title": "Monitoring and Review:", "desc": "Continuously monitor risks and update strategies." },
+      { "title": "Employee Training and Awareness:", "desc": "Provide ongoing training on data protection." }
+    ],
+    "stepsTitle": "Steps:",
+    "steps": [
+      { "title": "Conduct a Risk Assessment:", "desc": "Perform and update risk assessments regularly." },
+      { "title": "Develop a Risk Management Plan:", "desc": "Establish policies and response plans." }
+    ],
+    "importanceTitle": "Importance:",
+    "importance": [
+      { "title": "", "desc": "Minimizes losses and enhances decision-making." },
+      { "title": "", "desc": "Ensures compliance and operational efficiency." },
+      { "title": "", "desc": "Builds stakeholder confidence." }
+    ],
+    "challengesTitle": "Challenges:",
+    "challenges": [
+      { "title": "", "desc": "Uncertainty, resource constraints, changing environment, cultural resistance." }
+    ]
+  }
+  

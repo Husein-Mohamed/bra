@@ -1,0 +1,54 @@
+{
+  "newsTitle": "Wararka Ugu Dambeeyay",
+  "seeMore": "Arag Dheeraad Ah",
+  "posts": [
+    {
+      "id": "post-1",
+      "title": "Maareeyaha Guud ee Cusub ee Hay'adda Ilaalinta Xogta.",
+      "summary": "Mudane Maxamed Nuur Cali, ayaa si rasmi ah u qabtay xilka maanta, iyadoo wareejinta lagu sameeyay Maareeyaha Guud ee Ku-xigeenka, Mudane Daud Cabdi Xasan (Shigaye).",
+      "published": "05 Dec 2024",
+      "href": "https://www.facebook.com/share/p/14iRvKtRUB/",
+      "image": "/images/Covers/Third.jpg"
+    },
+    {
+      "id": "post-2",
+      "title": "Shirka sanadlaha ee Bulshada Xirfadlayaasha Isgaarsiinta iyo Tiknoolajiyada (#SomNOG7)",
+      "summary": "Eng. Maxamed Nuur Cali Olow, Maareeyaha Guud ee Hay'adda Ilaalinta Xogta, ayaa khudbad muhiim ah ka jeediyay shirkii.",
+      "published": "26 Dec 2024",
+      "href": "https://www.facebook.com/share/p/12Kxm1cYDfk/",
+      "image": "/images/News/SOMNOG.jpg"
+    },
+    {
+      "id": "post-3",
+      "title": "Agaasimaha Cusub ee DPA Eng. Maxamed Nuur Cali oo Soo Dhawayn Lagu Sameeyay, Uu Kormeeray Aasaaska Hay'adda",
+      "summary": "Maareeyaha Ku-xigeenka ee Hay'adda Ilaalinta Xogta (DPA) ayaa soo dhoweeyay Maareeyaha Guud ee Cusub, Eng. Maxamed Nuur Cali, xarunta hay'adda.",
+      "published": "02 Dec 2024",
+      "href": "https://www.facebook.com/share/p/1GnfFFvyNr/",
+      "image": "/images/News/Dep.jpg"
+    },
+    {
+      "id": "post-4",
+      "title": "Maareeyaha Ku-xigeenka ee Hay'adda Ilaalinta Xogta (DPA Soomaaliya)",
+      "summary": "Mudane Da'ud Shigaye, ayaa ka qaybgalay Shirkii 2-aad ee Forumka Qaranka ee Amniga Cibernetiga ee lagu qabtay Muqdisho.",
+      "published": "11 Nov 2024",
+      "href": "https://www.facebook.com/share/p/15QJCkrKc6/",
+      "image": "/images/News/SNCF.jpg"
+    },
+    {
+      "id": "post-5",
+      "title": "Wakiillo ka socda DPA Soomaaliya",
+      "summary": "Wakiillo ka socda DPA Soomaaliya, ayaa ka qaybgalay Shirkii 3-aad ee DP iyo Foomka Dib-u-habeynta Siyaasadda ee Ururka Bariga Afrika (EAC) oo lagu qabtay Kigali, Rwanda.",
+      "published": "22 Oct 2024",
+      "href": "https://www.facebook.com/dpasomalia/posts/pfbid0gxbyCeC941Vo9fq3VES7SCLQFiQiPY7jaX2Zsz7meEr4xpoHh2v6xfa9xjHiHjprl",
+      "image": "/images/News/EAC.jpg"
+    },
+    {
+      "id": "post-6",
+      "title": "Dr. Vincent Olatunji, Madaxa Hay'adda Ilaalinta Xogta ee Nigeria",
+      "summary": "Agaasimaha Hay'adda Ilaalinta Xogta ee Nigeria, Dr. Vincent Olatunji, ayaa soo dhoweeyay wakiillo ka socda Hay'adda Ilaalinta Xogta ee Soomaaliya, oo ay weheliyaan Safiirka Soomaaliya ee Nigeria, Mudane Jamaal Maxamed Barrow, magaalada Abuja.",
+      "published": "04 Sep 2024",
+      "href": "https://www.facebook.com/share/p/15u4JYQj1b/",
+      "image": "/images/News/Nigeria.jpg"
+    }
+  ]
+}

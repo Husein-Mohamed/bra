@@ -1,0 +1,30 @@
+{
+    "pageTitle": "Hay’adaha",
+    "subtitle": "Ogow Waajibaadkaaga",
+    "mainTitle": "Gudbinta Xogta",
+    "understandingTitle": "Waa Maxay Gudbinta Xogtu",
+    "understandingText": "Gudbinta xogta waxay tilmaamaysaa dhaqdhaqaaqa xogta...",
+    "importanceTitle": "Ahmiyadda Gudbinta Xogta Ammaan ah",
+    "importanceText": "Aad ayey muhiim u tahay in xogtu si ammaan ah loo gudbiyo...",
+    "importancePoints": [
+      { "title": "Sirnimada", "description": "Xogta waa in loo oggol yahay oo kaliya dadka loo fasaxay." },
+      { "title": "Hufnaan", "description": "Xogtu waa inay ahaato mid sax ah oo aan la bedelin." },
+      { "title": "Helitaan", "description": "Xogtu waa inay u furnaato dadka xaqa u leh." }
+    ],
+    "practicesTitle": "Habdhaqannada Ugu Wanaagsan ee Gudbinta Xogta",
+    "practicesIntro": "Si loo hubiyo ammaanka xogta, ku dhaqanka talooyinkan waa muhiim...",
+    "practices": [
+      { "title": "Qarsoodi", "description": "Xogta waa in la qarxiyaa inta lagu jiro gudbinta." },
+      { "title": "Aqoonsi", "description": "Aqoonsi adag u samee isticmaalayaasha." },
+      { "title": "Xakameynta Gelitaanka", "description": "Gelitaanka xogta u xaddid kuwa shaqada u baahan." },
+      { "title": "Kormeer Joogto ah", "description": "Si joogto ah u eeg hannaanka gudbinta xogta." },
+      { "title": "Isticmaal Kanaallo Ammaan ah", "description": "Ku gudbi xogta HTTPS ama VPN iwm." }
+    ],
+    "dutiesTitle": "Waajibaadka iyo Mas’uuliyadaha",
+    "dutiesText": "Maamuleyaasha xogta... Shaqaalaha... Kormeerayaasha...",
+    "complianceTitle": "Waafaqsanaanta Sharciga",
+    "complianceText": "Hay’adaha waa inay la jaanqaadaan Xeerka Dhowrista Xogta ee Soomaaliya...",
+    "adviceTitle": "Talooyin Waxtar leh oo loo Haysto Hay’adaha",
+    "adviceText": "Heshiisyada Gudbinta Xogta... Tababarka Shaqaalaha..."
+  }
+  

@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Ururrada",
+    "subtitle": "Ogow Waajibaadkaaga"
+  },
+  "pageTitle": "Farsamaynta Sharciga ah",
+  "basisSection": {
+    "title": "Aasaaska Sharciga ah ee Farsamaynta Xogta Shakhsiga ah",
+    "intro": "Si aad u farsamayso xogta shakhsiga ah, waa inaad haysataa saldhig sharci. Aasaaska sharci ee farsamaynta xogta waxaa lagu caddeeyey Qodobka 14 ee DPA. Kuwani waa:"
+  },
+  "basisList": [
+    "Ogolaanshaha shakhsiyaadka.",
+    "Fulinta heshiis.",
+    "U hoggaansanaanta waajib sharci.",
+    "Lagama maarmaanka ah ilaalinta danaha nafsiga ah ee qofka.",
+    "Lagama maarmaanka ah hawl lagu fulinayo danaha guud.",
+    "Danaha sharci ee shirkadda/ururka (marka laga reebo marka danahaas ay ka sarreeyaan xuquuqda iyo xorriyadaha shakhsiyaadka)."
+  ],
+  "transparencySection": {
+    "title": "Bixinta Macluumaad Hufan",
+    "intro": "Ganacsiyada iyo ururrada farsameeya xogta shaqsiga ah waa inay siiyaan shakhsiyaadka macluumaad ku saabsan nooca farsamaynta iyo cidda samaynaysa. Ugu yaraan, macluumaadkani waa inuu si cad u sheegaa:"
+  },
+  "transparencyList": [
+    "Yaa tihiin (ururka).",
+    "Maxaad u farsameyneysaan xogta.",
+    "Waa kee saldhigga sharci ee aad ku saleysan tahay farsamaynta.",
+    "In xogta loo wareejin doono hay’adaha kale ama shakhsiyaadka kale.",
+    "Mudada xogta la kaydin doono.",
+    "Jiritaanka xuquuqaha shakhsiyaadka hoos yimaada ilaalinta xogta, oo ay ku jiraan xuquuqda helitaanka, sixidda, tirtirka, xaddidaadda, ka hor imaanshaha, iyo qaadista."
+  ]
+}

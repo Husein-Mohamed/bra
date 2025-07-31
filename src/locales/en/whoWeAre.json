@@ -1,0 +1,18 @@
+{
+  "badge": "What We Do",
+  "mainTitle": "What We Do",
+  "posts": {
+    "post1": {
+      "title": "Regulation",
+      "summary": "The Data Protection Authority (DPA) in Somalia regulates and oversees data protection, ensuring that organizations adhere to responsible personal data handling."
+    },
+    "post2": {
+      "title": "Awareness Campaign",
+      "summary": "The DPA enhances awareness through campaigns, training, and outreach, informing individuals and organizations about data protection principles."
+    },
+    "post3": {
+      "title": "Enforcement and Compliance",
+      "summary": "The DPA enforces regulations, holding organizations accountable, ensuring transparency, and promoting trust in sensitive data handling."
+    }
+  }
+}

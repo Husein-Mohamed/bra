@@ -1,0 +1,48 @@
+{
+    "banner": {
+      "title": "Hay’adaha",
+      "subtitle": "Ogow Waajibaadkaaga"
+    },
+    "section1": {
+      "title": "Bangiyada: Amniga Xogta & Waafaqsanaanta",
+      "desc": "Bangiyada iyo hay’adaha maaliyadeed waxay maamulaan xog xasaasi ah oo u baahan ilaalin adag."
+    },
+    "section2": {
+      "title": "Ururinta iyo Farsamaynta Xogta ee Bangiyada:",
+      "desc": "Xogta Macaamiisha: Macluumaad shaqsiyeed, xisaabaad, taariikhda macaamilka. Xogta Maaliyadeed: Xogta lacag bixinta, kaararka deynta, codsiyada amaahda. Xogta Gudaha: Diyaarinta shaqaalaha, xogta maaliyadeed ee gudaha, diiwaannada kormeerka."
+    },
+    "section3": {
+      "title": "Hab-dhaqannada Wanaagsan:",
+      "item1": {
+        "title": "Sirta Xogta:",
+        "desc": "Ku sir xogta maaliyadeed marka la keydiyo iyo marka la gudbinayo."
+      },
+      "item2": {
+        "title": "Xakamaynta Galitaanka:",
+        "desc": "Ku dhaqan xakameyn adag iyo farsamooyin aqoonsi."
+      },
+      "item3": {
+        "title": "Ka Hortagga Musuqmaasuqa:",
+        "desc": "Isticmaal qalab casri ah si loo ogaado loona xakameeyo khiyaanada."
+      },
+      "item4": {
+        "title": "Waafaqsanaanta:",
+        "desc": "U hoggaansanow xeerarka ilaalinta xogta maaliyadeed (tusaale AML, GDPR)."
+      },
+      "item5": {
+        "title": "Yaraynta Xogta:",
+        "desc": "Ururi oo kaliya xogta lagama maarmaanka ah oo xaddid muddada lagu keydiyo."
+      },
+      "item6": {
+        "title": "Wacyigelinta Macaamiisha:",
+        "desc": "Macluumaad sii macaamiisha ku saabsan hababka ugu wanaagsan ee ilaalinta xogta."
+      }
+    },
+    "section4": {
+      "title": "Faa’iidooyinka:",
+      "benefit1": "Waxay kor u qaaddaa amniga xogta waxayna yareysaa khatarta jabinta xogta.",
+      "benefit2": "Waxay dhistaa kalsoonida macaamiisha ee hay’adaha maaliyadeed.",
+      "benefit3": "Waxay xaqiijisaa waafaqsanaanta xeerarka sharciyeed."
+    }
+  }
+  
