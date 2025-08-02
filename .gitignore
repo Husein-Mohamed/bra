@@ -1,1 +1,19 @@
-node_modules
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Caches
+.next/cache/
+
+# Environment
+.env.local
+.env.*.local
+
+# User uploads
+public/uploads/
+
+# Generated docs (if you have a heavy folder)
+public/docs/Forms/
