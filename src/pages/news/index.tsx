@@ -4,7 +4,7 @@ import News from "@/components/News";
 import Banner from "@/components/Banner";
 import TrendingNews from "@/components/TrendingNews";
 import LatestNews from "@/components/LatestNews";
-
+import Blogs from "@/components/Blogs";
 function NewsMedia() {
   return (
     <>
@@ -18,6 +18,7 @@ function NewsMedia() {
       />
       <LatestNews />
       <TrendingNews />
+       <Blogs />       {/* ← new blogs section */}
     </>
   );
 }

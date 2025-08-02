@@ -55,19 +55,13 @@ export default function About() {
             }}
           />
 
-          {/* Styled disclosure text */}
+          {/* Styled quote */}
           <div className="mt-8 px-4 md:px-8 lg:px-12">
-            <p
-              className="bg-blue-50/80 p-6 rounded-xl border border-blue-200 shadow text-black font-semibold whitespace-pre-line"
-              style={{
-                fontFamily: '"Times New Roman", Times, serif',
-                fontSize: "1.19rem",
-                lineHeight: "2.1rem",
-                letterSpacing: "0.01em",
-              }}
-            >
+            <blockquote className="border-l-4 border-blue-500 pl-6 italic text-lg text-gray-800 relative">
+              <span className="absolute -left-2 -top-2 text-4xl text-blue-500">“</span>
               {disclosureText}
-            </p>
+              <span className="absolute -right-2 -bottom-2 text-4xl text-blue-500">”</span>
+            </blockquote>
           </div>
         </div>
       </div>

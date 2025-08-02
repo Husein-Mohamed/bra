@@ -11,7 +11,8 @@ import enPartners from "@/locales/en/partners.json";
 import soPartners from "@/locales/so/partners.json";
 import enYourRights from "@/locales/en/yourRights.json";
 import soYourRights from "@/locales/so/yourRights.json";
-
+import enCookie from "@/locales/en/cookiePolicy.json";
+import soCookie from "@/locales/so/cookiePolicy.json";
 import enAdvise from "@/locales/en/advise.json";
 import soAdvise from "@/locales/so/advise.json";
 
@@ -65,6 +66,8 @@ import soCOC from "@/locales/so/cocRegistration.json";
 
 import enYourData from "@/locales/en/yourData.json";
 import soYourData from "@/locales/so/yourData.json";
+import enPrivacyPolicy from "@/locales/en/privacyPolicy.json";
+import soPrivacyPolicy from "@/locales/so/privacyPolicy.json";
 
 import enDataBreach from "@/locales/en/dataBreach.json";
 import soDataBreach from "@/locales/so/dataBreach.json";
@@ -170,6 +173,7 @@ i18n
       "faq",
       "about",
       "dataController",
+      "privacyPolicy",
       "trendingNews",
       "docs",
       "dock",
@@ -181,6 +185,7 @@ i18n
       "crossBorder",
       "cocRegistration",
       "yourData",
+      "cookiePolicy",
       "dataBreach",
       "dataTransfer",
       "directMarketing",
@@ -222,6 +227,8 @@ i18n.addResourceBundle("en", "partners", enPartners, true, true);
 i18n.addResourceBundle("so", "partners", soPartners, true, true);
 i18n.addResourceBundle("en", "header", enHeader, true, true);
 i18n.addResourceBundle("so", "header", soHeader, true, true);
+i18n.addResourceBundle("en", "privacyPolicy", enPrivacyPolicy, true, true);
+i18n.addResourceBundle("so", "privacyPolicy", soPrivacyPolicy, true, true);
 
 i18n.addResourceBundle("en", "faq", enFaq, true, true);
 i18n.addResourceBundle("so", "faq", soFaq, true, true);
@@ -276,7 +283,8 @@ i18n.addResourceBundle("so", "dataBreach", soDataBreach, true, true);
 
 i18n.addResourceBundle("en", "dataTransfer", enDataTransfer, true, true);
 i18n.addResourceBundle("so", "dataTransfer", soDataTransfer, true, true);
-
+i18n.addResourceBundle("en", "cookiePolicy", enCookie, true, true);
+i18n.addResourceBundle("so", "cookiePolicy", soCookie, true, true);
 i18n.addResourceBundle("en", "directMarketing", enDirectMarketing, true, true);
 i18n.addResourceBundle("so", "directMarketing", soDirectMarketing, true, true);
 

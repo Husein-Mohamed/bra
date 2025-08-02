@@ -59,12 +59,10 @@ export default function ServicesForms({ showUpload = false }) {
               </div>
 
               <Link
-                href={f.file}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-6 inline-flex items-center justify-center gap-2 px-4 py-2 bg-[#061829] text-white rounded-xl font-bold hover:bg-[#003366] transition"
+                href="/resources"
+className="mt-6 inline-flex items-center justify-center gap-2 px-4 py-2 bg-[#061829] text-white rounded-xl font-bold hover:bg-[#003366] transition"
               >
-                {f.downloadCta}
+                {t("viewMore", "View More")}
                 <ArrowRight className="w-4 h-4" />
               </Link>
             </div>

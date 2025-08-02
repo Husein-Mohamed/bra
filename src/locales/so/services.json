@@ -41,62 +41,85 @@
     {
       "id": "registration",
       "icon": "FileText",
-      "name": "Foomka Diiwaangelinta",
-      "law": "Qodobka 12 – Sharciga Ilaalinta Xogta Soomaaliya 2024",
-      "description": "Waxaa loogu talagalay maamulayaasha xogta iyo kuwa farsameeya xogta si ay isu diiwaangeliyaan DPA.",
+      "name": "Isku Diiwaangeli Maamulaha/Farsameeyaha Xogta",
+      "law": "Qodobka 12 – Sharciga Ilaalinta Xogta Soomaaliya 2023",
+      "description": "Waxaa loogu talagalay maamulayaasha xogta & kuwa farsameeya xogta si ay isu diiwaangeliyaan DPA.",
       "docs": [
         "Shahaadada Diiwaangelinta Shirkadda",
         "Xeer hoosaadka shirkadda",
         "Sharaxaadda ujeedada farsameynta xogta"
       ],
-      "file": "/docs/forms/Data-Controller-Form-SO.pdf",
-      "downloadCta": "Soo deji foomka"
+      "files": [
+        {
+          "label": "Foomka Maamulaha Xogta",
+          "file": "/docs/forms/Somali Data Controller Form.pdf"
+        },
+        {
+          "label": "Foomka Farsameeyaha Xogta",
+          "file": "/docs/forms/Somali Data Processor Form.pdf"
+        }
+      ],
+      "downloadCta": "Soo deji foomiska"
     },
     {
       "id": "complaint",
       "icon": "AlertTriangle",
-      "name": "Foomka Cabashada",
-      "law": "Qodobka 38 – Sharciga Ilaalinta Xogta Soomaaliya 2024",
+      "name": "So Gudbi Cabasho",
+      "law": "Qodobka 38 – Sharciga Ilaalinta Xogta Soomaaliya 2023",
       "description": "Shakhsiyaadku waxay ku gudbin karaan cabashooyin ku saabsan sida xogtooda loo maareeyay.",
       "docs": [
         "Nuqul Aqoonsi",
         "Caddeyn xiriir shirkadda"
       ],
-      "file": "/docs/forms/Complaint-Form-SO.pdf",
+      "files": [
+        {
+          "label": "Foomka Cabashada",
+          "file": "/docs/forms/Somali COMPLIANT FORM.pdf"
+        }
+      ],
       "downloadCta": "Soo deji foomka"
     },
     {
       "id": "breach",
       "icon": "ClipboardList",
-      "name": "Warbixinta Jebinta Xogta",
-      "law": "Qodobka 34 – Sharciga Ilaalinta Xogta Soomaaliya 2024",
+      "name": "So Gudbi Jebinta Xogta",
+      "law": "Qodobka 34 – Sharciga Ilaalinta Xogta Soomaaliya 2023",
       "description": "Loogu talagalay in hay’aduhu ku soo wargeliyaan jebinta xogta shakhsiyeed.",
       "docs": [
         "Faah-faahinta dhacdada jebinta",
         "Tallaabooyinka wax-ka-qabashada",
         "Tirada dadka ay saameysay"
       ],
-      "file": "/docs/forms/Data-Breach-Report-SO.pdf",
+      "files": [
+        {
+          "label": "Warbixinta Jebinta Xogta",
+          "file": "/docs/forms/Somali Data Breach Form.pdf"
+        }
+      ],
       "downloadCta": "Soo deji foomka"
     },
     {
       "id": "dpo",
       "icon": "ShieldCheck",
-      "name": "Foomka Diiwaangelinta DPO",
-      "law": "Qodobka 19 – Sharciga Ilaalinta Xogta Soomaaliya 2024",
+      "name": "Isku Diiwaangeli DPO",
+      "law": "Qodobka 19 – Sharciga Ilaalinta Xogta Soomaaliya 2023",
       "description": "Loo adeegsado codsiga shahaadada Sarkaalka Ilaalinta Xogta (DPO).",
       "docs": [
         "CV-ga musharaxa",
         "Caddeynta khibradda & tababarrada",
         "Warqad oggolaansho shirkad"
       ],
-      "file": "/docs/forms/DPO-Registration-SO.pdf",
+      "files": [
+        {
+          "label": "Foomka Diiwaangelinta DPO",
+          "file": "/docs/forms/DPO Reg. Form English.pdf"
+        }
+      ],
       "downloadCta": "Soo deji foomka"
     }
   ],
 
   "items": "@@forms",
-
   "requiredDocs": "Dukumentiyada loo baahan yahay:",
   "uploadLabel": "Xulo foom dhammeystiran oo aad soo geliso",
   "cta": { "upload": "Soo geli" },
@@ -115,7 +138,7 @@
       "Shahaadada imtixaanka"
     ],
     "docsNote": "Hayso dukumentiyadan marka la baarayo.",
-    "email": "training@dpa.so",
+    "email": "training@dpa.so",  
     "viewCalendar": "Eeg jadwalka tababarka",
     "calendarHref": "/training-calendar"
   },
@@ -124,7 +147,7 @@
     "title": "Xigashooyinka Sharciga",
     "purpose": "Soo deji dukumentiyadan si aad u fahamto waajibaadkaaga.",
     "links": [
-      { "label": "Sharciga Ilaalinta Xogta (PDF)", "href": "/docs/DPA-Act-2024.pdf" },
+      { "label": "Sharciga Ilaalinta Xogta (PDF)", "href": "/docs/DPA-Act-2023.pdf" },
       { "label": "Tilmaamaha Xeerarka",            "href": "/docs/Regulations.pdf" }
     ]
   }

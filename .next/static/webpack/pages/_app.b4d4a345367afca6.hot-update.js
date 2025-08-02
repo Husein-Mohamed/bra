@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("pages/_app",{
+
+/***/ "(pages-dir-browser)/./src/locales/en/services.json":
+/*!**************************************!*\
+  !*** ./src/locales/en/services.json ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"badge":"What We Do","heading":"Explore Our Services","cards":[{"id":"registration-card","icon":"FileText","name":"Registration Form","description":"Used by data controllers & processors to register with the DPA.","href":"/services#registration","cta":"Read more"},{"id":"complaint-card","icon":"AlertTriangle","name":"Complaint Form","description":"Lets individuals lodge complaints about misuse or mishandling of their personal data.","href":"/services#complaint","cta":"Read more"},{"id":"breach-card","icon":"ClipboardList","name":"Data Breach Report","description":"Mandatory notice to the authority when a personal-data breach occurs.","href":"/services#breach","cta":"Read more"},{"id":"dpo-card","icon":"ShieldCheck","name":"Data Protection Officer Form","description":"Application to be certified / recognised as a Data Protection Officer.","href":"/services#dpo","cta":"Read more"}],"forms":[{"id":"registration","icon":"FileText","name":"Register As Data Controller/Processor","law":"Art. 12 – Data Protection Act 2023 (Somalia)","description":"Used by data controllers & processors to register their activities with the DPA.","docs":["Certificate of Incorporation","Company statutes","Description of data-processing purpose"],"files":[{"label":"Data Controller Form","file":"/docs/forms/Data Controller Form English.pdf"},{"label":"Data Processor Form","file":"/docs/forms/Data Processor Form English.pdf"}],"downloadCta":"Download forms"},{"id":"complaint","icon":"AlertTriangle","name":"Submit A Complaint Form","law":"Art. 38 – Data Protection Act 2023 (Somalia)","description":"Lets individuals lodge complaints about misuse or mishandling of their personal data.","docs":["Copy of national ID / passport","Proof of relationship with controller"],"files":[{"label":"Complaint Form","file":"/docs/forms/Somali COMPLIANT FORM.pdf"}],"downloadCta":"Download form"},{"id":"breach","icon":"ClipboardList","name":"Report A Data Breach","law":"Art. 34 – Data Protection Act 2023 (Somalia)","description":"Mandatory notice to the authority when a personal-data breach occurs.","docs":["Incident summary","Mitigation steps taken","Number of data subjects affected"],"files":[{"label":"Data Breach Report","file":"/docs/forms/Data Breach Reg. Form English.pdf"}],"downloadCta":"Download form"},{"id":"dpo","icon":"ShieldCheck","name":"Register As A Data Protection Officer","law":"Art. 19 – Data Protection Act 2023 (Somalia)","description":"Application to be certified / recognised as a Data Protection Officer.","docs":["Candidate CV","Proof of relevant training & experience","Company endorsement letter"],"files":[{"label":"DPO Registration Form","file":"/docs/forms/DPO Reg. Form .pdf"}],"downloadCta":"Download form"}],"items":"@@forms","requiredDocs":"Required Documentation:","uploadLabel":"Upload a completed form","cta":{"upload":"Upload"},"awareness":{"title":"Get Trained on Data Protection","lawRef":"Art. 45 – Data Protection Training Obligation","desc":"All data controllers must undergo certified training annually to stay compliant.","items":["Online self-paced courses","In-person workshops","Certification exams"],"docs":["Proof of course completion","Exam certificate"],"docsNote":"Keep these on file for audits.","email":"training@dpa.so","viewCalendar":"View training calendar","calendarHref":"/training-calendar"},"legal":{"title":"Essential Legal References","purpose":"Download the following to understand your obligations under the Act.","links":[{"label":"Full Data Protection Act (PDF)","href":"/docs/DPA-Act-2023.pdf"},{"label":"Regulation Guidelines","href":"/docs/Regulations.pdf"}]}}');
+
+/***/ })
+
+});

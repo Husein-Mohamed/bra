@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "heading": "Privacy Policy",
+    "subtitle": "Effective Date: March 20, 2023"
+  },
+  "toc": {
+    "consent": "1. Consent",
+    "information": "2. Information We Collect",
+    "use": "3. How We Use Your Information",
+    "cookies": "4. Cookies & Tracking",
+    "links": "5. Links to Other Sites",
+    "security": "6. Security Precautions",
+    "optout": "7. Choice & Opt-Out",
+    "comments": "8. User Comments and Public Input",
+    "children": "9. Children’s Privacy",
+    "changes": "10. Changes to This Policy",
+    "contact": "11. Contact Us",
+    "rights": "12. Data-Subject Rights",
+    "retention": "13. Data Retention and Deletion",
+    "transfers": "14. Third-Party Recipients & International Transfers",
+    "dpo": "15. DPO Contact Details & Complaints"
+  },
+  "intro": [
+    "At <1>dpa.gov.so</1>, accessible at <3>https://dpa.gov.so</3>, protecting your personal data is a <5>top priority</5>. This Privacy Policy explains <7>what we collect</7>, <9>how we use it</9>, and the <11>rights</11> you have regarding that data.",
+    "Questions? Email us anytime at <13>info@dpa.gov.so</13>."
+  ],
+  "consent": "By using our website, you <0>consent</0> to this Privacy Policy and agree to its terms.",
+  "information": [
+    "<0>Information you provide voluntarily:</0> such as your name, email address, phone number, and any content submitted via forms.",
+    "<2>Information collected automatically:</2> such as your IP address, browser type, device info, and usage data via cookies or similar tech.",
+    "We’ll <4>always</4> tell you why personal data is required before you provide it."
+  ],
+  "use": [
+    "To <0>operate</0>, maintain & improve the site",
+    "To understand how visitors <2>interact</2> with features",
+    "To personalize content & communication",
+    "To develop new services or tools",
+    "To respond to inquiries & support requests",
+    "To send updates & newsletters (if you <5>opt in</5>)"
+  ],
+  "cookies": [
+    "We use cookies to <0>remember preferences</0>, analyze usage, and deliver relevant content.",
+    "For full details, see our separate <2>Cookie Policy</2>."
+  ],
+  "links": "External links may appear on our site; we are <0>not responsible</0> for their privacy practices. Review their policies before sharing data.",
+  "security": [
+    "We secure your data through:",
+    " • Encrypted connections (HTTPS/TLS)",
+    " • Access controls & data minimization",
+    " • Regular monitoring & updates",
+    "No online method is <6>100 %</6> foolproof, but we strive for best-practice protection."
+  ],
+  "optout": [
+    "You can opt out of non-essential emails by:",
+    " • Clicking “unsubscribe” in any email",
+    " • Managing preferences in your account",
+    " • Emailing us at <3>info@dpa.gov.so</3>"
+  ],
+  "comments": [
+    "In areas where comments are enabled:",
+    " • You’re responsible for what you post.",
+    " • No unlawful or copyrighted content without permission.",
+    " • We may remove content that violates our terms.",
+    "By submitting comments, you grant DPA a non-exclusive license to use, reproduce, and distribute your content."
+  ],
+  "children": "Our services are not directed to children under <0>13</0>. If we learn we’ve collected their data without consent, we delete it promptly.",
+  "changes": "We may update this Privacy Policy occasionally. All changes will be posted here with a revised date; continued use indicates your acceptance.",
+  "contact": [
+    "For inquiries or data rights requests, contact:",
+    "<0>Data Protection Authority of Somalia (DPA)</0>",
+    "📧 <2>info@dpa.gov.so</2>",
+    "🌐 <4>https://dpa.gov.so</4>"
+  ],
+  "rights": [
+    "• Access & receive a copy of your data",
+    "• Rectify inaccurate or incomplete data",
+    "• Erase your data (“right to be forgotten”)",
+    "• Port your data to another controller",
+    "• Object to certain processing",
+    "• Challenge profiling or automated decisions",
+    "See “11. Contact Us” to exercise these rights."
+  ],
+  "retention": [
+    "• Emails & support — 2 years",
+    "• Analytics data — 12 months",
+    "• Account data — until deletion or 3 years inactivity",
+    "• Cookies — per our Cookie Policy"
+  ],
+  "transfers": "We share data only with providers meeting strict standards. International transfers rely on contractual safeguards.",
+  "dpo": [
+    "<0>Data Protection Officer</0>",
+    "Data Protection Authority of Somalia (DPA)",
+    "📧 <2>info@dpa.gov.so</2>",
+    "📞 Call Center: 452",
+    "📮 Aden Adde Airport Road, Mogadishu",
+    "To file a complaint, email us with details and any evidence."
+  ]
+}

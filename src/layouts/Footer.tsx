@@ -23,7 +23,8 @@ import { FaInstagram } from "react-icons/fa";
 import { LuLinkedin } from "react-icons/lu";
 
 export default function Footer() {
-  const { t } = useTranslation("footer");
+  // Pulled in i18n alongside t()
+  const { t, i18n } = useTranslation("footer");
   const L = t("links", { returnObjects: true }) as Record<string, string>;
   const A = t("address", { returnObjects: true }) as Record<string, string>;
 
@@ -56,9 +57,8 @@ export default function Footer() {
                       rel="noopener noreferrer"
                     >
                       <Button
-                        variant="outline"
                         size="icon"
-                        className="rounded-full border-white text-white hover:bg-white hover:text-[#061829]"
+                        className="rounded-full bg-white text-[#061829] shadow-sm"
                       >
                         <FiFacebook className="h-4 w-4" />
                         <span className="sr-only">Facebook</span>
@@ -80,9 +80,8 @@ export default function Footer() {
                       rel="noopener noreferrer"
                     >
                       <Button
-                        variant="outline"
                         size="icon"
-                        className="rounded-full border-white text-white hover:bg-white hover:text-[#061829]"
+                        className="rounded-full bg-white text-[#061829] shadow-sm"
                       >
                         <TbBrandX className="h-4 w-4" />
                         <span className="sr-only">X</span>
@@ -104,9 +103,8 @@ export default function Footer() {
                       rel="noopener noreferrer"
                     >
                       <Button
-                        variant="outline"
                         size="icon"
-                        className="rounded-full border-white text-white hover:bg-white hover:text-[#061829]"
+                        className="rounded-full bg-white text-[#061829] shadow-sm"
                       >
                         <FaInstagram className="h-4 w-4" />
                         <span className="sr-only">Instagram</span>
@@ -128,9 +126,8 @@ export default function Footer() {
                       rel="noopener noreferrer"
                     >
                       <Button
-                        variant="outline"
                         size="icon"
-                        className="rounded-full border-white text-white hover:bg-white hover:text-[#061829]"
+                        className="rounded-full bg-white text-[#061829] shadow-sm"
                       >
                         <LuLinkedin className="h-4 w-4" />
                         <span className="sr-only">LinkedIn</span>
@@ -165,11 +162,21 @@ export default function Footer() {
           <div>
             <h3 className="mb-4 text-lg font-semibold">Quick Links</h3>
             <nav className="space-y-2 text-sm">
-              <a href="/" className="block"><CenterUnderline label={L.home} /></a>
-              <a href="/about" className="block"><CenterUnderline label={L.about} /></a>
-              <a href="/news" className="block"><CenterUnderline label={L.news} /></a>
-              <a href="/" className="block"><CenterUnderline label={L.services} /></a>
-              <a href="/contact" className="block"><CenterUnderline label={L.contact} /></a>
+              <a href="/" className="block">
+                <CenterUnderline label={L.home} />
+              </a>
+              <a href="/about" className="block">
+                <CenterUnderline label={L.about} />
+              </a>
+              <a href="/news" className="block">
+                <CenterUnderline label={L.news} />
+              </a>
+              <a href="/" className="block">
+                <CenterUnderline label={L.services} />
+              </a>
+              <a href="/contact" className="block">
+                <CenterUnderline label={L.contact} />
+              </a>
             </nav>
           </div>
 
@@ -177,9 +184,15 @@ export default function Footer() {
           <div>
             <h3 className="mb-4 text-lg font-semibold">Resources</h3>
             <nav className="space-y-2 text-sm">
-              <a href="/docs" className="block"><CenterUnderline label={L.regulations} /></a>
-              <a href="/ftp" className="block"><CenterUnderline label={L.public} /></a>
-              <a href="/fto" className="block"><CenterUnderline label={L.orgs} /></a>
+              <a href="/docs" className="block">
+                <CenterUnderline label={L.regulations} />
+              </a>
+              <a href="/ftp" className="block">
+                <CenterUnderline label={L.public} />
+              </a>
+              <a href="/fto" className="block">
+                <CenterUnderline label={L.orgs} />
+              </a>
             </nav>
           </div>
 
@@ -205,12 +218,9 @@ export default function Footer() {
             <Link href="/terms-of-service" className="text-gray-300 hover:text-white">
               <ComesInGoesOutUnderline label={L.terms} />
             </Link>
-            <button
-              onClick={openCookieModal}
-              className="text-gray-300 hover:text-white focus:outline-none"
-            >
+             <Link href="/cookie-settings" locale={i18n.language} className="text-gray-300 hover:text-white">
               <ComesInGoesOutUnderline label={L.cookies} />
-            </button>
+            </Link>
           </nav>
         </div>
       </div>

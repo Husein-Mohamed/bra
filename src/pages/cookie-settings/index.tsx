@@ -1,100 +1,170 @@
-import React from "react";
+// src/pages/cookie-settings/index.tsx
+"use client";
+
+import Link from "next/link";
 import { Mail } from "lucide-react";
+import { useTranslation, Trans } from "react-i18next";
 
 export default function CookiePolicyPage() {
+  const { t } = useTranslation("cookiePolicy");
+
+  /* ── table-of-contents order ── */
+  const toc = t("toc", { returnObjects: true }) as Record<string, string>;
+  const sections = Object.keys(toc) as Array<keyof typeof toc>;
+
   return (
-    <main className="bg-[#f6fafd] min-h-screen pt-[110px] pb-16">
-      {/* Banner/Title Section */}
-      <section className="relative bg-gradient-to-r from-blue-100 via-white to-indigo-100 py-14 px-4 mb-10 shadow rounded-b-3xl">
-        <div className="max-w-3xl mx-auto text-center">
-          <h1 className="text-4xl md:text-5xl font-extrabold text-[#061829] mb-3 tracking-tight drop-shadow">
-            Cookie Policy
+    <main className="scroll-smooth bg-[#f7f7f8]">
+      {/* Hero */}
+      <header className="relative isolate overflow-hidden bg-gradient-to-r from-[#061829] via-[#0F4C75] to-[#47BDFF] text-white">
+        <div className="mx-auto max-w-4xl px-4 py-24 text-center lg:px-8">
+          <h1 className="text-4xl font-extrabold tracking-tight md:text-5xl">
+            {t("hero.heading")}
           </h1>
-          <p className="text-lg md:text-xl text-gray-700 max-w-2xl mx-auto">
-            How the Somali Data Protection Authority (DPA) uses cookies and similar technologies on dpa.gov.so
-          </p>
+          <p className="mt-4 text-lg/relaxed opacity-90">{t("hero.subtitle")}</p>
         </div>
-      </section>
+        <svg className="absolute bottom-0 left-0 h-12 w-full text-[#f7f7f8]" viewBox="0 0 1440 320" preserveAspectRatio="none">
+          <path fill="currentColor" d="M0,224L48,208C96,192,192,160,288,160C384,160,480,192,576,181.3C672,171,768,117,864,112C960,107,1056,149,1152,165.3C1248,181,1344,171,1392,165.3L1440,160L1440,320L0,320Z" />
+        </svg>
+      </header>
 
-      {/* Content Section */}
-      <section className="max-w-3xl mx-auto bg-white rounded-2xl shadow-lg p-8 md:p-12 border border-gray-100">
-        {/* 1. What Are Cookies? */}
-        <h2 className="text-xl font-bold text-[#061829] mb-2">1. What Are Cookies?</h2>
-        <p className="mb-6 text-gray-800">
-          Cookies are small data files that are placed on your device (computer, tablet, or smartphone) when you visit a website.
-          They are widely used to make websites work, improve user experience, provide analytics, and support marketing.
-        </p>
+      {/* Content */}
+      <section className="mx-auto max-w-7xl px-4 pb-24 lg:px-8">
+        <div className="grid gap-12 lg:grid-cols-[280px_1fr] lg:gap-16">
+          {/* TOC */}
+          <aside className="sticky top-28 hidden self-start lg:block">
+            <nav className="rounded-2xl border border-gray-200 bg-white p-6 shadow">
+              <h2 className="mb-4 text-lg font-semibold text-[#061829]">{t("contents", "Contents")}</h2>
+              <ul className="space-y-1 text-sm leading-snug">
+                {sections.map((id) => (
+                  <li key={id}>
+                    <a href={`#${id}`} className="text-[#47BDFF] transition-colors hover:text-[#0F4C75] hover:underline">
+                      {toc[id]}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          </aside>
 
-        {/* 2. Why We Use Cookies and Tracking Technologies */}
-        <h2 className="text-xl font-bold text-[#061829] mb-2">2. Why We Use Cookies and Tracking Technologies</h2>
-        <ul className="list-disc pl-6 mb-4 text-gray-800">
-          <li>Ensure core website functionality and security (essential cookies)</li>
-          <li>Recognize your device and preferences</li>
-          <li>Improve site performance and usability</li>
-          <li>Analyze user behavior and traffic</li>
-          <li>Support outreach and awareness efforts relevant to our regulatory work</li>
-        </ul>
-        <p className="mb-6 text-gray-800">
-          Some information processed may be considered personal data (such as your IP address or browser type), subject to our Privacy Policy.
-        </p>
-
-        {/* 3. Types of Cookies We Use */}
-        <h2 className="text-xl font-bold text-[#061829] mb-2">3. Types of Cookies We Use</h2>
-        <ul className="list-disc pl-6 mb-6 text-gray-800">
-          <li><b>Essential Cookies</b> – Required for website functionality and cannot be disabled.</li>
-          <li><b>Analytics Cookies</b> – Help us understand how users interact with our site to improve performance.</li>
-          <li><b>Functional Cookies</b> – Enable enhanced features such as remembering your preferences.</li>
-          <li><b>Third-party Cookies</b> – May be set by other websites for embedded content or external links.</li>
-        </ul>
-
-        {/* 4. Your Cookie Choices */}
-        <h2 className="text-xl font-bold text-[#061829] mb-2">4. Your Cookie Choices</h2>
-        <ul className="list-disc pl-6 mb-4 text-gray-800">
-          <li>Accept All Cookies – Allow all categories of cookies to enhance your experience.</li>
-          <li>Accept Only Necessary Cookies – Use the site with only essential cookies enabled.</li>
-          <li>Adjust Preferences – Customize your consent for each type of cookie.</li>
-        </ul>
-        <p className="mb-6 text-gray-800">
-          You can update your cookie preferences at any time by clicking “Cookie Settings” at the bottom of our site.
-        </p>
-
-        {/* 5. User-Generated Content */}
-        <h2 className="text-xl font-bold text-[#061829] mb-2">5. User-Generated Content (Comments)</h2>
-        <ul className="list-disc pl-6 mb-4 text-gray-800">
-          <li>You have the right to publish such content and do not infringe on third-party rights.</li>
-          <li>Your content does not contain defamatory, offensive, or unlawful material.</li>
-          <li>You grant DPA a non-exclusive license to use, reproduce, and edit your content across platforms and media.</li>
-        </ul>
-        <p className="mb-6 text-gray-800">
-          We reserve the right to monitor, moderate, and remove any content we deem inappropriate or in violation of our policies.
-        </p>
-
-        {/* 6. Hyperlinking to Our Website */}
-        <h2 className="text-xl font-bold text-[#061829] mb-2">6. Hyperlinking to Our Website</h2>
-        <ul className="list-disc pl-6 mb-4 text-gray-800">
-          <li>Government agencies, search engines, news organizations, and online directories linking to government resources may link to dpa.gov.so without prior written permission.</li>
-          <li>Other organizations must request written approval before linking to our website.</li>
-        </ul>
-
-        {/* 7. Changes to This Policy */}
-        <h2 className="text-xl font-bold text-[#061829] mb-2">7. Changes to This Policy</h2>
-        <p className="mb-6 text-gray-800">
-          We may update this Cookie Policy from time to time. Changes will be posted on this page with a revised “last updated” date. 
-          Your continued use of the website constitutes your agreement to the updated policy.
-        </p>
-
-        {/* Contact */}
-        <h2 className="text-xl font-bold text-[#061829] mb-2">Contact Us</h2>
-        <div className="flex items-center gap-2 mb-2">
-          <Mail className="w-5 h-5 text-[#061829]" />
-          <a href="mailto:info@dpa.gov.so" className="underline text-blue-800">
-            info@dpa.gov.so
-          </a>
+          {/* Body */}
+          <article className="prose prose-lg max-w-none space-y-12 rounded-2xl border border-gray-200 bg-white p-6 shadow md:p-10 lg:space-y-14 prose-headings:text-[#061829] prose-a:text-[#47BDFF]">
+            {sections.map((id) => (
+              <section key={id} id={id} className="scroll-mt-28 space-y-4">
+                <h2>{toc[id]}</h2>
+                {renderSectionContent(id, t)}
+              </section>
+            ))}
+          </article>
         </div>
-        <a href="https://dpa.gov.so" className="text-blue-700 underline" target="_blank" rel="noopener">
-          https://dpa.gov.so
-        </a>
       </section>
     </main>
   );
+}
+
+/* ── section renderer ─────────────────────────────────────────────── */
+function renderSectionContent(id: string, t: any) {
+  /* 1. single-paragraph description */
+  if (id === "what") {
+    return <Trans t={t} i18nKey="what" components={{ 1: <strong />, 3: <em /> }} />;
+  }
+
+  /* 2. list-plus-note (why / choices) */
+  if (id === "why" || id === "choices") {
+    const list = t(`${id}.list`, { returnObjects: true }) as string[];
+    return (
+      <>
+        <ul className="list-disc pl-6 space-y-1">
+          {list.map((li) => (
+            <li key={li}>{li}</li>
+          ))}
+        </ul>
+        <Trans
+          t={t}
+          i18nKey={`${id}.note`}
+          components={{ 0: <Link href="/privacy-policy" /> }}
+        />
+      </>
+    );
+  }
+
+  /* 3. table (types) */
+  if (id === "types") {
+    const header = t("types.header", { returnObjects: true }) as string[];
+    const rows = t("types.rows", { returnObjects: true }) as string[][];
+    return (
+      <table className="not-prose w-full text-sm border-collapse">
+        <thead>
+          <tr className="bg-gray-50 text-left">
+            {header.map((h) => (
+              <th key={h} className="border px-3 py-2 font-semibold">
+                {h}
+              </th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((r, i) => (
+            <tr key={r[0]} className={i % 2 ? "bg-gray-50" : ""}>
+              {r.map((cell) => (
+                <td key={cell} className="border px-3 py-2">
+                  {cell}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    );
+  }
+
+  /* 4. bullet-arrays OR single paragraph (legal / review) */
+  if (id === "legal" || id === "review") {
+    const data = t(id, { returnObjects: true });
+    if (Array.isArray(data)) {
+      return (
+        <ul className="list-disc pl-6 space-y-1">
+          {data.map((_, i) => (
+            <li key={i}>
+              <Trans
+                t={t}
+                i18nKey={`${id}.${i}`}
+                components={{ 0: <strong />, 2: <em /> }}
+              />
+            </li>
+          ))}
+        </ul>
+      );
+    }
+    /* it's a plain string */
+    return <p>{data}</p>;
+  }
+
+  /* 5. third-party (plain string with markup) */
+  if (id === "third") {
+    return <Trans t={t} i18nKey="third" components={{ 0: <strong />, 2: <em /> }} />;
+  }
+
+  /* 6. contact (special markup) */
+  if (id === "contact") {
+    return (
+      <>
+        <div className="flex items-center gap-2">
+          <Mail className="h-5 w-5 text-[#061829]" />
+          <a href={`mailto:${t("contact.email")}`} className="underline">
+            {t("contact.email")}
+          </a>
+        </div>
+        <a
+          href={t("contact.url")}
+          className="underline text-[#47BDFF]"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {t("contact.url")}
+        </a>
+      </>
+    );
+  }
+
+  return null;
 }

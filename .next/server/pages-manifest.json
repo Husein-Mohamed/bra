@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/cookie-settings": "pages/cookie-settings.js",
+  "/services": "pages/services.js",
+  "/resources": "pages/resources.js"
+}

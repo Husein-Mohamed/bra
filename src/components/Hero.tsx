@@ -58,38 +58,41 @@ export default function Hero() {
             variants={containerVariants}
           >
             <AnimatedHero />
-            {/* Navigation Buttons Section */}
-            <motion.div
-              className="flex flex-row gap-6 items-center md:items-end pb-10 md:pb-20 px-4"
-              variants={buttonVariants}
-            >
-              <Button
-                onClick={() => sliderRef.current?.slidePrev()}
-                className="group text-slate-200 font-medium"
-                variant="ghost"
-              >
-                <ArrowLeft
-                  className="me-2 transition-transform opacity-60 group-hover:scale-105 group-hover:-translate-x-1"
-                  size={16}
-                  strokeWidth={2}
-                  aria-hidden="true"
-                />
-                Prev
-              </Button>
-              <Button
-                onClick={() => sliderRef.current?.slideNext()}
-                className="group text-slate-200 font-medium"
-                variant="ghost"
-              >
-                Next
-                <ArrowRight
-                  className="ms-2 opacity-60 transition-transform group-hover:scale-105 group-hover:translate-x-1"
-                  size={16}
-                  strokeWidth={2}
-                  aria-hidden="true"
-                />
-              </Button>
-            </motion.div>
+
+
+{/* Navigation Buttons Section */}
+{/* <motion.div
+  className="flex flex-row gap-6 items-center md:items-end pb-10 md:pb-20 px-4"
+  variants={buttonVariants}
+>
+  <Button
+    onClick={() => sliderRef.current?.slidePrev()}
+    className="group text-slate-200 font-medium"
+    variant="ghost"
+  >
+    <ArrowLeft
+      className="me-2 transition-transform opacity-60 group-hover:scale-105 group-hover:-translate-x-1"
+      size={16}
+      strokeWidth={2}
+      aria-hidden="true"
+    />
+    Prev
+  </Button>
+  <Button
+    onClick={() => sliderRef.current?.slideNext()}
+    className="group text-slate-200 font-medium"
+    variant="ghost"
+  >
+    Next
+    <ArrowRight
+      className="ms-2 opacity-60 transition-transform group-hover:scale-105 group-hover:translate-x-1"
+      size={16}
+      strokeWidth={2}
+      aria-hidden="true"
+    />
+  </Button>
+</motion.div> */}
+
           </motion.div>
         </div>
       </motion.div>

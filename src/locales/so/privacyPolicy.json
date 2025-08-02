@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "heading": "Siyaasadda Asturnaanta",
+    "subtitle": "Taariikhda Dhaqan-galka: Maarso 20, 2023"
+  },
+  "toc": {
+    "consent": "1. Oggolaansho",
+    "information": "2. Macluumaadka aan Ururinno",
+    "use": "3. Sida aan Uu Isticmaalno Xogtaada",
+    "cookies": "4. Kukiyada & Raadraaca",
+    "links": "5. Xidhiidhada Bogagga Kale",
+    "security": "6. Tallaabooyinka Amniga",
+    "optout": "7. Xulashada & Ka-qaadista",
+    "comments": "8. Faallooyinka Isticmaalaha & Saameynta Dadweynaha",
+    "children": "9. Asturnaanta Carruurta",
+    "changes": "10. Isbeddelada Siyaasaddan",
+    "contact": "11. Nala Soo Xariir",
+    "rights": "12. Xuquuqda Bixiyaha Xogta",
+    "retention": "13. Kaydinta & Tirtirka Xogta",
+    "transfers": "14. Qaybinta Saddexaad & Kala-wareejinta Caalamiga",
+    "dpo": "15. DPO & Cabashooyinka"
+  },
+  "intro": [
+    "Bogga <1>dpa.gov.so</1>, oo laga heli karo <3>https://dpa.gov.so</3>, ilaalinta xogtaada shakhsiyeed waa <5>mudnaanta koowaad</5>. Siyaasaddan Asturnaanta waxay sharraxaysaa <7>maxaan ururinno</7>, <9>sida aan u isticmaalno</9>, iyo <11>xuquuqaha</11> aad leedahay.",
+    "Su’aalo? Naga soo qor email: <13>info@dpa.gov.so</13>."
+  ],
+  "consent": "Adigoo isticmaalaya bogga, waxaad <0>ogolaansho</0> siisay Siyaasaddan Asturnaanta oo aad ogoshahay shuruudaheeda.",
+  "information": [
+    "<0>Macluumaadka aad na siisay:</0> magac, email, taleefan, iyo wixii kale ee aad ku soo gudbiso foomamka.",
+    "<2>Macluumaadka otomaatigga ah:</2> cinwaanka IP, daalacashada, qalabka, iyo xogta isticmaalka.",
+    "Waxaan <4>sii caddeyn doonaa</4> sababta xogta loo baahan yahay ka hor intaanad bixin."
+  ],
+  "use": [
+    "Si aan u <0>maamulno</0>, u hagaajino, uguna horumarinno bogga",
+    "Si aan u fahamno sida isticmaalayaashu u <2>la falgalaan</2> sifooyinka",
+    "Si aan u habeyno     macluumaadka & isgaarsiinta",
+    "Si aan u abuurno adeegyo ama aalado cusub",
+    "Si aan ugu jawaabno weydiimaha & codsiyada taageerada",
+    "Si aan u dirno ogeysiisyo & warsideyaal (haddii aad <5>ogolatay</5>)"
+  ],
+  "cookies": [
+    "Waxaan isticmaalnaa kukiyo si aan u <0>xasuusanno doorbidaada</0>, u falanqeyno isticmaalka, una gudbino macluumaad ku habboon.",
+    "Faahfaahin buuxda, fiiri <2>Siyaasadda Kukiyada</2>."
+  ],
+  "links": "Xidhiidhada dibadda boggeena waxaa laga yaabaa inay muujiyaan; annagu mas'uul kama nihin siyaasadahooda asturnaanta. Eeg siyaasadooda ka hor inta aadan xog bixin.",
+  "security": [
+    "Waxaan xogtaada ku ilaalinaa:",
+    " • Isku xirka sirta ah (HTTPS/TLS)",
+    " • Xadeynta gelitaanka & dhimista xogta",
+    " • Kormeer & cusbooneysiin joogto ah",
+    "Waxaan dadaalnaa ammaanka, TV iyo kombiyuutar kasta ma aha 100 % mid fool-proof ah."
+  ],
+  "optout": [
+    "Waxaad ka bixi kartaa iimayllada aan muhiimka ahayn:",
+    " • Guji “unsubscribe” ee iimaylad kasta",
+    " • Maamul doorbidka akoonkaaga",
+    " • Naga soo qor email: <3>info@dpa.gov.so</3>"
+  ],
+  "comments": [
+    "Meelaha faallooyinka la oggol yahay:",
+    " • Waxaad mas'uul ka tahay waxa aad qorto.",
+    " • Ha gelin wax sharci-darro ah ama xuquuqda daabacaada meaning ga.",
+    " • Waxaan tirtiri karnaa faallooyinka xadgudbaya shuruudaheena.",
+    "Markaad soo gudbiso faallo, waxaad DPA siisay liisanka aan gaar ahayn ee isticmaalka iyo qaybinta."
+  ],
+  "children": "Adeegyadeenu kuma jihaysan yihiin carruurta ka yar <0>13</0>. Haddii xogtooda si qalad ah loo ururiyo, waxaan si dhaqso ah u tirtireynaa.",
+  "changes": "Siyaasaddan waxaan dib-u-eegnaa mar kasta ama mar kasta oo lagu daro scripts ama adeegyo cusub. Isbeddelada oo dhan waxay ka muuqan doonaan boggan taariikhda la cusbooneysiiyey.",
+  "contact": [
+    "Su’aalo ama codsiyo xuquuqeed, nala soo xiriir:",
+    "<0>Hay’adda Ilaalinta Xogta Soomaaliya (DPA)</0>",
+    "📧 <2>info@dpa.gov.so</2>",
+    "🌐 <4>https://dpa.gov.so</4>"
+  ],
+  "rights": [
+    "• Hel nuqul ka mid ah xogtaada",
+    "• Sax xogta aan saxsanayn",
+    "• Codso tirtir (“xuquuqda la ilaawi karo”)",
+    "• U wareeji xogtaada hay’adda kale",
+    "• Ka hor imaansho habka qaarkood",
+    "• La hadal go’aannada kuwaaga ah",
+    "Eeg “11. Nala Soo Xariir” si aad xuquuqahan u isticmaasho."
+  ],
+  "retention": [
+    "• Iimaylka & taageerada — 2 sano",
+    "• Xogta falanqaynta — 12 bilood",
+    "• Xogta akoonka — ilaa la tirtiro ama 3 sano oo aan firfircooni lahayn",
+    "• Kukiyada — sida ku cad Siyaasadda Kukiyada"
+  ],
+  "transfers": "Waxaan xogta la wadaagnaa bixiyeyaasha buuxiya shuruudaha. Kala wareejinta caalamiga ah waxay ku xiran tahay qandaraasyo.",
+  "dpo": [
+    "<0>Mas’uulka Ilaalinta Xogta</0>",
+    "Hay’adda Ilaalinta Xogta Soomaaliya (DPA)",
+    "📧 <2>info@dpa.gov.so</2>",
+    "📞 Xarunta Wicitaanka: 452",
+    "📮 Wadada Aden Adde, Muqdisho",
+    "Si aad cabasho u gudbiso, na soo qor faahfaahinta iyo cadeymaha."
+  ]
+}

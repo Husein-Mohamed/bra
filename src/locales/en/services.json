@@ -41,62 +41,85 @@
     {
       "id": "registration",
       "icon": "FileText",
-      "name": "Registration Form",
-      "law": "Art. 12 – Data Protection Act 2024 (Somalia)",
+      "name": "Register As Data Controller/Processor",
+      "law": "Art. 12 – Data Protection Act 2023 (Somalia)",
       "description": "Used by data controllers & processors to register their activities with the DPA.",
       "docs": [
         "Certificate of Incorporation",
         "Company statutes",
         "Description of data-processing purpose"
       ],
-      "file": "/docs/forms/Data-Controller-Form-EN.pdf",
-      "downloadCta": "Download form"
+      "files": [
+        {
+          "label": "Data Controller Form",
+          "file": "/docs/forms/Data Controller Form English.pdf"
+        },
+        {
+          "label": "Data Processor Form",
+          "file": "/docs/forms/Data Processor Form English.pdf"
+        }
+      ],
+      "downloadCta": "Download forms"
     },
     {
       "id": "complaint",
       "icon": "AlertTriangle",
-      "name": "Complaint Form",
-      "law": "Art. 38 – Data Protection Act 2024 (Somalia)",
+      "name": "Submit A Complaint Form",
+      "law": "Art. 38 – Data Protection Act 2023 (Somalia)",
       "description": "Lets individuals lodge complaints about misuse or mishandling of their personal data.",
       "docs": [
         "Copy of national ID / passport",
         "Proof of relationship with controller"
       ],
-      "file": "/docs/forms/Complaint-Form-EN.pdf",
+      "files": [
+        {
+          "label": "Complaint Form",
+          "file": "/docs/forms/Somali COMPLIANT FORM.pdf"
+        }
+      ],
       "downloadCta": "Download form"
     },
     {
       "id": "breach",
       "icon": "ClipboardList",
-      "name": "Data Breach Report",
-      "law": "Art. 34 – Data Protection Act 2024 (Somalia)",
+      "name": "Report A Data Breach",
+      "law": "Art. 34 – Data Protection Act 2023 (Somalia)",
       "description": "Mandatory notice to the authority when a personal-data breach occurs.",
       "docs": [
         "Incident summary",
         "Mitigation steps taken",
         "Number of data subjects affected"
       ],
-      "file": "/docs/forms/Data-Breach-Report-EN.pdf",
+      "files": [
+        {
+          "label": "Data Breach Report",
+          "file": "/docs/forms/Data Breach Reg. Form English.pdf"
+        }
+      ],
       "downloadCta": "Download form"
     },
     {
       "id": "dpo",
       "icon": "ShieldCheck",
-      "name": "Data Protection Officer Form",
-      "law": "Art. 19 – Data Protection Act 2024 (Somalia)",
+      "name": "Register As A Data Protection Officer",
+      "law": "Art. 19 – Data Protection Act 2023 (Somalia)",
       "description": "Application to be certified / recognised as a Data Protection Officer.",
       "docs": [
         "Candidate CV",
         "Proof of relevant training & experience",
         "Company endorsement letter"
       ],
-      "file": "/docs/forms/DPO-Registration-EN.pdf",
+      "files": [
+        {
+          "label": "DPO Registration Form",
+          "file": "/docs/forms/DPO Reg. Form .pdf"
+        }
+      ],
       "downloadCta": "Download form"
     }
   ],
 
-  "items": "@@forms",                     
-
+  "items": "@@forms",
   "requiredDocs": "Required Documentation:",
   "uploadLabel": "Upload a completed form",
   "cta": { "upload": "Upload" },
@@ -124,7 +147,7 @@
     "title": "Essential Legal References",
     "purpose": "Download the following to understand your obligations under the Act.",
     "links": [
-      { "label": "Full Data Protection Act (PDF)", "href": "/docs/DPA-Act-2024.pdf" },
+      { "label": "Full Data Protection Act (PDF)", "href": "/docs/DPA-Act-2023.pdf" },
       { "label": "Regulation Guidelines",          "href": "/docs/Regulations.pdf" }
     ]
   }

@@ -29,7 +29,7 @@ export default function Layout({ children }: Props) {
       <div>{hero}</div>
 
       {/* Everything else inside a max‑width container */}
-      <main className="max-w-7xl mx-auto px-4 py-8 min-h-[80vh]">
+      <main className="max-w-7xl mx-auto px-4 py-8">
         {rest.map((c, i) =>
           // preserve element type & props
           isValidElement(c) ? (

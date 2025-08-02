@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("pages/_app",{
+
+/***/ "(pages-dir-browser)/./src/locales/en/cookiePolicy.json":
+/*!******************************************!*\
+  !*** ./src/locales/en/cookiePolicy.json ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"hero":{"heading":"Cookie Policy","subtitle":"How the Somali Data Protection Authority (DPA) uses cookies on dpa.gov.so"},"toc":{"what":"1. What Are Cookies?","why":"2. Why We Use Cookies","types":"3. Types & Retention","legal":"4. Legal Basis","third":"5. Third-Party Providers","choices":"6. Your Cookie Choices","review":"7. Policy Review & Audits","contact":"8. Contact Us"},"what":"Cookies are small data files placed on your device when you visit a website. They help sites <1>function</1>, enhance <3>user experience</3>, and support analytics.","why":{"list":["Ensure core functionality & security (essential)","Recognize your device & preferences","Improve site performance & usability","Analyze traffic patterns & behavior","Support outreach and reporting"],"note":"Some cookies may process personal data (e.g., IP address) in line with our <0>Privacy Policy</0>."},"types":{"header":["Cookie Type","Purpose","Retention Period"],"rows":[["Essential","Core functionality & security","Session / ≤ 30 days"],["Functional","Remember preferences (e.g., language)","≤ 6 months"],["Analytics","Improve performance & services","≤ 13 months"],["Third-Party","Embedded media / external services","Per provider policy"]]},"legal":["Essential cookies: processed under **legitimate interest** to operate a secure site.","Functional & analytics cookies: used only with your **explicit consent** via our banner."],"third":"We currently partner with **Google Analytics** for traffic analysis (*Google Privacy Policy*). Any new providers will be listed in future updates of this policy.","choices":{"list":["Accept All Cookies","Accept Only Necessary Cookies","Customize Preferences per category"],"note":"Adjust preferences anytime via “Cookie Settings” at the bottom of any page."},"review":"We review this policy annually or whenever new scripts and services are introduced, ensuring transparency and accountability.","contact":{"email":"info@dpa.gov.so","url":"https://dpa.gov.so"}}');
+
+/***/ })
+
+});
