@@ -1,14 +1,110 @@
 {
-    "spamLinks": "Lifaaqyada Tuugada",
-    "identityTheft": "Xatooyada Aqoonsiga",
-    "spamText": "Farriimaha Spam",
-    "keepingPersonalInfo": "Ilaalinta Macluumaadka Shakhsiga",
-    "nuisanceCalls": "Wicitaannada Qaska",
-    "phishingMessages": "Farriimaha Phishing",
-    "otp": "OTP",
-    "handlingBankLines": "Maareynta Khadadka Bangiga",
-    "schoolIDandCertifications": "Kaarka Iskuulka iyo Shahaadooyinka",
-    "publicInfoSecurity": "Amniga Macluumaadka Dadweynaha",
-    "protectingHealthRecords": "Ilaalinta Xogta Caafimaadka"
-  }
-  
+  "headerBadge": "Sida DPA Kuu Caawiso",
+  "headerTitle": "Kuu Awoodsiinta Ilaalinta Xogtaada Shakhsiga ah & Asturnaantaada",
+  "headerSubtitle": "DPA waxay halkan u joogtaa sidii xaqaaga loo ilaalin lahaa. Hoos ka akhriso khataraha asturnaanta caadiga ah iyo sida aad naftaada u ilaalin karto.",
+
+  "howToProtect": "Sida loo ilaaliyo naftaada:",
+
+  "spamLinks": "Xiriirro Spam ah Baraha Bulshada",
+  "spamLinksRisk": "Xiriirro khatar leh oo baraha bulshada sida Facebook waxay horseedi karaan weeraro phishing, rakibidda malware, ama xadgudub xog.",
+  "spamLinksTips": [
+    "Ka fogow gujinta xiriirro ama xayeysiisyo aan la hubin",
+    "Hawlgeli filtarrada spam-ka ee browser-kaaga ama iimaylkaaga",
+    "Cusbooneysii aaladahaaga iyo software-ka ka hortagga fayrasyada",
+    "Ku soo sheeg xiriirrada waxyeellada leh madalaha"
+  ],
+
+  "identityTheft": "Xatooyo Aqoonsi",
+  "identityTheftRisk": "Khayaano-yaal ayaa isku dayi kara inay kugu weekstaan baraha bulshada si ay u helaan lacagahaaga ama xiriiradaada.",
+  "identityTheftTips": [
+    "Isticmaal erayo sir ah oo xooggan oo u gaar ah akoon kasta",
+    "Hawlgeli xaqiijinta laba-tallaabo (2FA)",
+    "Ha wadaagin macluumaadkaaga gelitaanka qofna",
+    "Ku soo sheeg isku dayo gelitaan oo shaki leh"
+  ],
+
+  "spamText": "Farriimaha Spam (SMS & Apps)",
+  "spamTextRisk": "Farriimaha Facebook, WhatsApp, ama Messenger waxay ka koobnaan karaan xiriirro khatar ah.",
+  "spamTextTips": [
+    "Iska indho tir oo xannib farriimaha ka imanaya dirayaal aan la aqoon",
+    "Ka fogow gujinta xiriirrada aan la xaqiijin",
+    "Cusbooneysii barnaamijyada isgaarsiinta",
+    "Ku soo sheeg spam-ka madalaha ku habboon"
+  ],
+
+  "keepingPersonalInfo": "Ilaalinta Xogtaada Shakhsiga ah",
+  "keepingPersonalInfoRisk": "Akoonkaaga bangiga, aqoonsiga qaranka, baasaboorka, iyo dukumentiyada kale waa kuwo xasaasi ah.",
+  "keepingPersonalInfoTips": [
+    "Waligaa ha wadaagin xogtaas si furan ama online",
+    "Keydi dukumentiyada adag meel ammaan ah",
+    "Isticmaal madalaha sirta ah iyo erayo sir ah oo xooggan",
+    "Ka fogow dirista xogta shakhsiga ah kanaallo aan ammaan ahayn"
+  ],
+
+  "nuisanceCalls": "Wicitaanno Naxdin ama Khayaano ah",
+  "nuisanceCallsRisk": "Wicitaanno aan loo baahnayn ama khayaano ah waxay waxyeello u geysan karaan asturnaantaada.",
+  "nuisanceCallsTips": [
+    "Ka ilaali lambarkaaga taleefanka si qarsoodi ah oo iska ilaali wadaagga aan loo baahnayn",
+    "Isticmaal qalabka xanniba wicitaanada ama apps",
+    "Ku soo sheeg wicitaannada joogtada ah ama khiyaanada ah bixiyahaaga adeegga iyo DPA",
+    "Waligaa ha wadaagin xog xasaasi ah wicitaan ahaan"
+  ],
+
+  "phishingMessages": "Farriimaha Phishing",
+  "phishingMessagesRisk": "Dembiyaal internet ayaa soo dira farriimo been abuur ah oo sheeganaya inay ka yimaadeen ilo lagu kalsoon yahay.",
+  "phishingMessagesTips": [
+    "Ha gujin xiriirrada ama ha furin lifaaqyada ka imanaya dirayaal aan la aqoon",
+    "Xaqiiji saxnaanta farriinta ka hor inta aadan macluumaad wadaagin",
+    "Isticmaal filtarrada spam-ka oo cusbooneysii goobaha amniga iimaylka"
+  ],
+
+  "otp": "Amniga Ereyga Sirta ah Hal-Mar (OTP)",
+  "otpRisk": "OTP-gaaga waa furaha marin ammaan ah.",
+  "otpTips": [
+    "Ha wadaagin OTP-ga qofna – xitaa saaxiib ama qoys",
+    "Keliya geli OTP-ga goobaha lagu kalsoon yahay",
+    "Ka digtoonow wicitaanno ama farriimo codsanaya OTP-gaaga",
+    "Hawlgeli xaqiijinta laba-tallaabo dhammaan akoonyada xasaasiga ah"
+  ],
+
+  "handlingBankLines": "Asturnaanta Meelaha Dadweynaha (tusaale, Bangiyo ama Iskuulo)",
+  "handlingBankLinesRisk": "Ka fiirso deegaankaaga marka aad gelayso ama ka hadleyso xog gaar ah.",
+  "handlingBankLinesTips": [
+    "Ka fogow ka hadalka arrimaha shaqsiga ah ama dhaqaale cod sare",
+    "Adeegso adeegyada online si aad u yarayso muujinta",
+    "Ka ilaali dukumentiyada iyo aaladahaaga in la arko meel fagaare ah"
+  ],
+
+  "schoolIDandCerts": "Sugida Dukumentiyada Tacliinta",
+  "schoolIDandCertsRisk": "Kaarkaaga iskuulka iyo shahaadooyinkaagu waa qeyb ka mid ah aqoonsigaaga.",
+  "schoolIDandCertsTips": [
+    "Ha wadaagin online ama la wadaagin cid aan la aqoon",
+    "Keydi nuqul adag meel ammaan ah",
+    "Hay nuqullo dijital ah oo sir lagu ilaaliyo"
+  ],
+
+  "publicInfoSecurity": "Asturnaanta Xogta Caafimaadka",
+  "publicInfoSecurityRisk": "Diiwaannada caafimaadku waa xasaasi aadna u ilaalsan sharci ahaan.",
+  "publicInfoSecurityTips": [
+    "La wadaag xirfadlayaasha caafimaadka ee shatiyeysan ama hay’adaha la xaqiijiyay",
+    "Ka fogow daabacaadda xogta caafimaadka online",
+    "Isticmaal madalaha dijital ah ee ammaan ah iyo erayo sir ah oo adag",
+    "Hay dukumentiyada adag meel qufulan"
+  ],
+
+  "protectingHealthRecords": "Macluumaadka Caafimaadka ee Xog-ilaalinta",
+  "protectingHealthRecordsRisk": "Diiwaannada caafimaadku waa xasaasi aadna u ilaalsan sharci ahaan.",
+  "protectingHealthRecordsTips": [
+    "La wadaag kaliya xirfadlayaasha ruqsadda leh ama hay’adaha la aqoonsan yahay",
+    "Ka fogow daabacaadda ama gudbinta xogta caafimaadka online",
+    "Isticmaal madalaha dijital ah ee ammaan ah iyo erayo sir ah oo adag",
+    "Hay dukumentiyada adag meel qufulan"
+  ],
+
+  "ctaTitle": "Ma u Baahan Tahay Caawimaad?",
+  "ctaDesc": "Haddii xogtaada shaqsiyeed si khaldan loo isticmaalo, aad hesho isgaarsiin shaki leh, ama aad dhibane u noqoto xadgudub xogeed, isla markiiba la xiriir DPA.",
+  "emailLabel": "Iimayl:",
+  "websiteLabel": "Booqo:",
+  "fileComplaint": "Geli Cabasho",
+  "reportBreach": "Warbixi Xadgudub"
+}

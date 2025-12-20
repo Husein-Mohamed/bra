@@ -1,39 +1,39 @@
 {
-  "badge": "Waxaan Qabanaa",
-  "heading": "Adeegyadayada",
+  "badge": "Waxaanu Qabanno",
+  "heading": "Baadh Adeegyadeenna",
 
   "cards": [
     {
       "id": "registration-card",
       "icon": "FileText",
       "name": "Foomka Diiwaangelinta",
-      "description": "Waxaa loogu talagalay maamulayaasha xogta & farsameeyayaasha si ay isu diiwaangeliyaan DPA.",
+      "description": "Diiwaangelintu waa waajib hay’ad kasta oo dawladeed ama mid gaar loo leeyahay oo ururisa, kaydisa, ama ka shaqeysa xogta shakhsiyeed, sida ku xusan Sharciga Ilaalinta Xogta Soomaaliya (Qodobka 10, Sharciga No. 005/2023).",
       "href": "/services#registration",
-      "cta": "Akhri faahfaahin"
+      "cta": "Akhri wax dheeraad ah"
     },
     {
       "id": "complaint-card",
       "icon": "AlertTriangle",
       "name": "Foomka Cabashada",
-      "description": "Shakhsiyaadku waxay ku gudbin karaan cabashooyin ku saabsan sida xogtooda loo maareeyay.",
+      "description": "Hay’adaha ka shaqeynaya habaynta xog xasaasi ah ama tiro badan oo xog ah waxaa looga baahan yahay inay magacaabaan Xoghayaha Ilaalinta Xogta (DPO), sida ku xusan Sharciga Ilaalinta Xogta Soomaaliya (Qodobka 14, Sharciga No. 005/2023).",
       "href": "/services#complaint",
-      "cta": "Akhri faahfaahin"
+      "cta": "Akhri wax dheeraad ah"
     },
     {
       "id": "breach-card",
       "icon": "ClipboardList",
-      "name": "Warbixinta Jebinta Xogta",
-      "description": "Loogu talagalay in hay’aduhu ku soo wargeliyaan jebinta xogta shakhsiyeed.",
+      "name": "Warbixinta Xadgudubka Xogta",
+      "description": "Warbixintan waxaa looga baahan yahay ka hor inta aan la bilaabin hawlaha habaynta xogta khatarta badan leh (tusaale: carruurta, biometriga, kormeerka, iwm), sida ku xusan Sharciga Ilaalinta Xogta Soomaaliya (Qodobka 17, Sharciga No. 005/2023).",
       "href": "/services#breach",
-      "cta": "Akhri faahfaahin"
+      "cta": "Akhri wax dheeraad ah"
     },
     {
       "id": "dpo-card",
       "icon": "ShieldCheck",
-      "name": "Foomka Diiwaangelinta DPO",
-      "description": "Loo adeegsado codsiga shahaadada Sarkaalka Ilaalinta Xogta (DPO).",
+      "name": "Foomka Xoghayaha Ilaalinta Xogta",
+      "description": "Foomkan waxaa looga baahan yahay marka xogta shakhsiyeed loo wareejinayo dal saddexaad ama hay’ad caalami ah, sida ku xusan Sharciga Ilaalinta Xogta Soomaaliya (Qodobka 21, Sharciga No. 005/2023).",
       "href": "/services#dpo",
-      "cta": "Akhri faahfaahin"
+      "cta": "Akhri wax dheeraad ah"
     }
   ],
 
@@ -41,13 +41,12 @@
     {
       "id": "registration",
       "icon": "FileText",
-      "name": "Isku Diiwaangeli Maamulaha/Farsameeyaha Xogta",
-      "law": "Qodobka 12 – Sharciga Ilaalinta Xogta Soomaaliya 2023",
-      "description": "Waxaa loogu talagalay maamulayaasha xogta & kuwa farsameeya xogta si ay isu diiwaangeliyaan DPA.",
+      "name": "Diiwaangeli Maamule/Habaynta Xogta",
+      "description": "Diiwaangelintu waa waajib hay’ad kasta oo dawladeed ama mid gaar loo leeyahay oo ururisa, kaydisa, ama ka shaqeysa xogta shakhsiyeed, sida ku xusan Sharciga Ilaalinta Xogta Soomaaliya (Qodobka 10, Sharciga No. 005/2023).",
       "docs": [
-        "Shahaadada Diiwaangelinta Shirkadda",
-        "Xeer hoosaadka shirkadda",
-        "Sharaxaadda ujeedada farsameynta xogta"
+        "Foomka diiwaangelinta oo buuxsamay",
+        "Caddeyn sharci ah oo muujinaysa jiritaanka hay’adda",
+        "Sharaxaadda hawlaha habaynta xogta"
       ],
       "files": [
         {
@@ -55,21 +54,20 @@
           "file": "/docs/forms/Somali Data Controller Form.pdf"
         },
         {
-          "label": "Foomka Farsameeyaha Xogta",
+          "label": "Foomka Habeynta Xogta",
           "file": "/docs/forms/Somali Data Processor Form.pdf"
         }
       ],
-      "downloadCta": "Soo deji foomiska"
+      "downloadCta": "Soo dejiso foomamka"
     },
     {
       "id": "complaint",
       "icon": "AlertTriangle",
-      "name": "So Gudbi Cabasho",
-      "law": "Qodobka 38 – Sharciga Ilaalinta Xogta Soomaaliya 2023",
-      "description": "Shakhsiyaadku waxay ku gudbin karaan cabashooyin ku saabsan sida xogtooda loo maareeyay.",
+      "name": "Gudbi Cabasho",
+      "description": "Waxay u oggolaaneysaa shakhsiyaadka inay soo sheegaan isticmaalka sharci-darrada ah ama xad-gudubka xogtooda shakhsiyeed, sida ku xusan Sharciga Ilaalinta Xogta Soomaaliya (Qodobka 26, Sharciga No. 005/2023).",
       "docs": [
-        "Nuqul Aqoonsi",
-        "Caddeyn xiriir shirkadda"
+        "Foomka cabashada oo buuxsamay",
+        "Dokumentiyo taageero (tusaale: isgaarsiin, sawir-qaadasho)"
       ],
       "files": [
         {
@@ -77,78 +75,90 @@
           "file": "/docs/forms/Somali COMPLIANT FORM.pdf"
         }
       ],
-      "downloadCta": "Soo deji foomka"
+      "downloadCta": "Soo dejiso foomka"
     },
     {
       "id": "breach",
       "icon": "ClipboardList",
-      "name": "So Gudbi Jebinta Xogta",
-      "law": "Qodobka 34 – Sharciga Ilaalinta Xogta Soomaaliya 2023",
-      "description": "Loogu talagalay in hay’aduhu ku soo wargeliyaan jebinta xogta shakhsiyeed.",
+      "name": "Soo Warbixi Xadgudubka Xogta",
+      "description": "Hay’aduhu waa inay soo sheegaan xadgudubyada xogta ee ku lug leh xogta shakhsiyeed 72 saac gudaheed marka la ogaado, sida ku xusan Sharciga Ilaalinta Xogta Soomaaliya (Qodobka 23, Sharciga No. 005/2023).",
       "docs": [
-        "Faah-faahinta dhacdada jebinta",
-        "Tallaabooyinka wax-ka-qabashada",
-        "Tirada dadka ay saameysay"
+        "Foomka Ogeysiinta Xadgudubka",
+        "Faahfaahinta xadgudubka: taariikhda, xogta saameysay, tallaabooyinka yareynta"
       ],
       "files": [
         {
-          "label": "Warbixinta Jebinta Xogta",
+          "label": "Warbixinta Xadgudubka Xogta",
           "file": "/docs/forms/Somali Data Breach Form.pdf"
         }
       ],
-      "downloadCta": "Soo deji foomka"
+      "downloadCta": "Soo dejiso foomka"
     },
     {
       "id": "dpo",
       "icon": "ShieldCheck",
-      "name": "Isku Diiwaangeli DPO",
-      "law": "Qodobka 19 – Sharciga Ilaalinta Xogta Soomaaliya 2023",
-      "description": "Loo adeegsado codsiga shahaadada Sarkaalka Ilaalinta Xogta (DPO).",
+      "name": "Diiwaangeli sida Xoghayaha Ilaalinta Xogta",
+      "description": "Hay’adaha ka shaqeynaya habaynta xog xasaasi ah ama tiro badan oo xog ah waxaa looga baahan yahay inay magacaabaan Xoghayaha Ilaalinta Xogta (DPO), sida ku xusan Sharciga Ilaalinta Xogta Soomaaliya (Qodobka 14, Sharciga No. 005/2023).",
       "docs": [
-        "CV-ga musharaxa",
-        "Caddeynta khibradda & tababarrada",
-        "Warqad oggolaansho shirkad"
+        "Foomka Magacaabista DPO",
+        "CV iyo shahaadooyinka Xoghayaha Ilaalinta Xogta",
+        "Warqadda oggolaanshaha ee hay’adda"
       ],
       "files": [
         {
           "label": "Foomka Diiwaangelinta DPO",
-          "file": "/docs/forms/DPO Reg. Form English.pdf"
+          "file": "/docs/forms/Somali DPO Reg. Form.pdf"
         }
       ],
-      "downloadCta": "Soo deji foomka"
+      "downloadCta": "Soo dejiso foomka"
     }
   ],
 
   "items": "@@forms",
-  "requiredDocs": "Dukumentiyada loo baahan yahay:",
-  "uploadLabel": "Xulo foom dhammeystiran oo aad soo geliso",
-  "cta": { "upload": "Soo geli" },
+  "requiredDocs": "Dokumentiyada Loo Baahan Yahay:",
+  "uploadLabel": "Geli foom buuxsamay",
+  "cta": {
+    "upload": "Geli"
+  },
 
   "awareness": {
-    "title": "Hel Tababar ku Saabsan Ilaalinta Xogta",
-    "lawRef": "Qodobka 45 – Waajibaadka Tababarka Ilaalinta Xogta",
-    "desc": "Dhammaan maamulayaasha xogta waa inay sanadkiiba maraan tababar shahaado leh si ay u waafaqaan sharciga.",
+    "title": "Adeegyada Wacyigelinta & Tababarka",
+    "desc": "DPA waxay taageertaa wacyigelinta iyo u hoggaansanaanta iyadoo bixisa barnaamijyo tababar iyo ololeyaal gaarsiin habaysan oo loogu talagalay hay’adaha, xirfadlayaasha, iyo guud ahaan bulshada, sida ku xusan Sharciga Ilaalinta Xogta Soomaaliya (Qodobka 29, Sharciga No. 005/2023).",
+    "docsNote": "Diiwaangelinta waa la aqbalayaa si isdaba-joog ah; jadwalka dhacdooyinka waxaa la shaacinayaa rubuc kasta.",
     "items": [
-      "Koorsooyin onlayn iskiis u socda",
-      "Aqoon isweydaarsi fool ka fool ah",
-      "Imtixaan shahaado"
+      "Warshaoyinka awood-siinta ee loogu talagalay maamulayaasha xogta iyo DPO-yada",
+      "Webinarro dadweyne iyo ololeyaal wacyigelin",
+      "Tababaro u hoggaansanaan waaxeed (tusaale: caafimaadka, isgaarsiinta, waxbarashada)",
+      "Barnaamijyada aqoonta xogta ee dhalinyarada iyo dugsiyada"
     ],
+    "requiredDocsTitle": "Dokumentiyada Loo Baahan Yahay:",
     "docs": [
-      "Caddeyn dhammaystirka koorsada",
-      "Shahaadada imtixaanka"
+      "Foomka diiwaangelinta tababarka (haddii loo baahdo)",
+      "Caddeyn muujineysa dan ama doorka hay’adda"
     ],
-    "docsNote": "Hayso dukumentiyadan marka la baarayo.",
-    "email": "training@dpa.so",  
-    "viewCalendar": "Eeg jadwalka tababarka",
-    "calendarHref": "/training-calendar"
+    "contactText": "Nala soo xiriir: training@dpa.gov.so ama jadwalka dhacdooyinka dadweynaha."
   },
 
   "legal": {
-    "title": "Xigashooyinka Sharciga",
-    "purpose": "Soo deji dukumentiyadan si aad u fahamto waajibaadkaaga.",
+    "title": "Ogeysiisyada Sharciga",
+    "purpose": "Ujeeddo: In lagu wargeliyo isticmaalayaasha xuquuqdooda iyo waajibaadkooda marka ay adeegsanayaan website-ka iyo adeegyada DPA.",
     "links": [
-      { "label": "Sharciga Ilaalinta Xogta (PDF)", "href": "/docs/DPA-Act-2023.pdf" },
-      { "label": "Tilmaamaha Xeerarka",            "href": "/docs/Regulations.pdf" }
-    ]
+      {
+        "label": "Qaanuunka Asturnaanta",
+        "href": "/privacy-policy",
+        "description": "Sharxaya sida aan u ururinno, u isticmaalno, una ilaalino xogtaada"
+      },
+      {
+        "label": "Qaanuunka Kukiyada",
+        "href": "/cookie-settings",
+        "description": "Sharxaya isticmaalka kukiyada iyo aaladaha raadraaca"
+      },
+      {
+        "label": "Shuruudaha & Xaaladaha",
+        "href": "/terms-of-service",
+        "description": "Soo bandhigaya isticmaalka la oggolyahay iyo mas'uuliyadaha"
+      }
+    ],
+    "footerNote": "Dhammaan ogeysiisyada sharciga waxay u bannaan yihiin dadweynaha waxaana si joogto ah loo cusbooneysiiyaa si waafaqsan shuruucda."
   }
 }

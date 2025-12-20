@@ -1,9 +1,12 @@
 {
-  "pill": "// Nagu saabsan",
+  "pill": "",
   "heading": {
-    "title": "Hay’adda Dhowrista Xogta",
-    "highlight": "Soomaaliya"
+    "title": "FARIINTA GUDDOOMIYAHA",
+    "highlight": ""
   },
-  "description": "Hay’adda Dhowrista Xogta waa hay’ad madax-bannaan oo heer qaran ah, mas’uul ka ah ilaalinta asturnaanta xogta shaqsiyeed iyo kormeerka in dhammaan ururradu u hoggaansamaan Xeerka Dhowrista Xogta Dadweynaha (Lr.005 ee ansixiyay Maarso 2023).",
-  "disclosure": "Waxaan u heelanahay ilaalinta xogta muwaadiniinta, kor uqaadista wacyiga asturnaanta iyo in xogta si hufan, cadaalad ah waafaqsan sharciga loo aruuriyo, loo keydiyo, loona isticmaalo.\n\nDunida maanta xogtu waa hantida ugu qaalisan."
+  "disclosure": ".",
+  "director": {
+    "name": "Xasan Maxamed Xuseen (MUUNGAAB)",
+    "title": "Guddoomiyaha Gobolka ahna Duqa Muqdisho"
+  }
 }

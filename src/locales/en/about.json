@@ -1,9 +1,12 @@
 {
-  "pill": "// About us",
+  "pill": "",
   "heading": {
-    "title": "Data Protection Authority",
-    "highlight": "Somalia"
+    "title": "Message from The",
+    "highlight": "Mayor"
   },
-  "description": "The Data Protection Authority is an independent national body responsible for protecting personal data privacy and ensuring all organizations comply with the Data Protection Act (Law No. 005 enacted in March 2023).",
-  "disclosure": "We are committed to protecting citizens' data, raising privacy awareness, and ensuring that data is collected, stored, and used transparently, fairly, and in accordance with the law.\n\nIn today's world, data is the most valuable asset."
+  "disclosure": "    Mogadishu is a city of resilience, hope, and extraordinary potential. Every day, our people demonstrate courage, creativity, and an unbreakable spirit that inspires progress across our capital. As we continue rebuilding our infrastructure, strengthening public services, and creating new opportunities for all, we remain committed to transparent governance and inclusive development. Together, we are shaping a safer, cleaner, and more prosperous Mogadishu—one that reflects the dignity and ambition of its citizens. I extend my sincere gratitude to every resident, partner, and institution working hand-in-hand to uplift our beloved city. Our journey continues, and our future is bright.  ",
+  "director": {
+    "name": "Hassan Mohamed Hussein (Muungaab)",
+    "title": "Mayor of Mogadishu"
+  }
 }

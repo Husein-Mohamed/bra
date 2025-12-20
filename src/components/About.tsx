@@ -2,69 +2,103 @@
 "use client";
 
 import { useTranslation } from "react-i18next";
-import { AboutText } from "./ui/aboutText";
-import type { PillProps } from "./ui/aboutText";
 
 export default function About() {
   const { t } = useTranslation("about");
-  // Cast pill translation into PillProps
-  const pill = t("pill", { returnObjects: true }) as PillProps;
-  // Get disclosure as plain string
-  const disclosureText = t("disclosure");
 
   return (
-    <div className="w-full py-20 lg:py-30">
-      <div className="container mx-auto grid grid-cols-1 gap-8 items-stretch lg:grid-cols-2">
-        {/* Left column (Profile image) */}
-        <div className="relative">
-          <div className="bg-zinc-100 rounded-md aspect-square dark:bg-zinc-800 overflow-hidden">
+    <section className="relative w-full overflow-hidden py-28 lg:py-40">
+
+      {/* Background Image */}
+      <div
+        className="
+          absolute inset-0 
+          bg-[url('/images/covers/bg.jpg')] 
+          bg-cover bg-center bg-no-repeat
+        "
+      />
+
+      {/* Dark Overlay */}
+      <div
+        className="
+          absolute inset-0 
+          bg-black/80 
+          backdrop-blur-sm
+        "
+      />
+
+      {/* Decorative accent (kept as requested) */}
+      <div className="hidden lg:block absolute bottom-0 left-0 w-64 h-64 rounded-full bg-primary/10 dark:bg-primary-dark/25 transform -translate-x-1/3 translate-y-1/3" />
+
+      {/* Content */}
+      <div className="relative z-10 mx-auto max-w-7xl px-6 sm:px-10 lg:px-0 lg:flex lg:items-center lg:gap-12">
+
+        {/* Photo & caption */}
+        <figure className="w-full lg:w-1/2 flex flex-col items-center">
+          <div className="relative group">
             <img
-              src="/images/PNG/DG-01.png"
-              alt={`${t("heading.title")} ${t("heading.highlight")}`}
-              className="w-full h-full object-cover"
+              src="/images/PNG/mayor2.png"
+              alt={t("heading.title")}
+              className="
+                w-72 h-72 sm:w-96 sm:h-96 
+                lg:w-[32rem] lg:h-[32rem] 
+                rounded-full object-cover shadow-xl 
+                transition-transform duration-700 group-hover:scale-105
+              "
             />
           </div>
-          <img
-            src="/images/Logo/DPA LOGO-01.png"
-            alt="Company Logo"
+
+          <figcaption
             className="
-              absolute
-              top-full
-              -mt-[50px]
-              -right-10
-              w-20
-              h-20
-              object-contain
-              rounded-md
-              shadow-md
-              bg-white
-              animate-bounce
+              mt-6 w-full max-w-md 
+              px-6 py-4 
+              bg-white/80 dark:bg-gray-800/80 
+              backdrop-blur 
+              rounded-xl shadow-lg
             "
-          />
-        </div>
+          >
+            <div className="flex gap-4">
+              <span className="block w-1 rounded bg-red-500 dark:bg-primary-light" />
+              <div>
+                <h4 className="text-lg sm:text-xl font-bold text-red-700 dark:text-primary-light">
+                  {t("director.name")}
+                </h4>
+                <p className="text-sm sm:text-base font-medium text-gray-600 dark:text-gray-300">
+                  {t("director.title")}
+                </p>
+              </div>
+            </div>
+          </figcaption>
+        </figure>
 
-        {/* Right column */}
-        <div className="flex flex-col">
-          {/* AboutText (heading + description) */}
-          <AboutText
-            pill={pill}
-            content={{
-              title: t("heading.title"),
-              titleHighlight: t("heading.highlight"),
-              description: t("description"),
-            }}
-          />
+        {/* Text content */}
+        <div className="w-full lg:w-1/2 mt-12 lg:mt-0">
+          {t("pill") && (
+            <p className="mb-2 text-sm text-gray-300 dark:text-gray-400">
+              {t("pill")}
+            </p>
+          )}
 
-          {/* Styled quote */}
-          <div className="mt-8 px-4 md:px-8 lg:px-12">
-            <blockquote className="border-l-4 border-blue-500 pl-6 italic text-lg text-gray-800 relative">
-              <span className="absolute -left-2 -top-2 text-4xl text-blue-500">“</span>
-              {disclosureText}
-              <span className="absolute -right-2 -bottom-2 text-4xl text-blue-500">”</span>
-            </blockquote>
-          </div>
+          <h3 className="text-4xl lg:text-5xl font-extrabold text-white dark:text-primary-light">
+            {t("heading.title")}&nbsp;
+            <span className="text-primary-light dark:text-primary">
+              {t("heading.highlight")}
+            </span>
+          </h3>
+
+          {/* Quote */}
+          <blockquote
+            className="
+              mx-auto mt-8 max-w-prose 
+              text-left text-xl 
+              leading-relaxed 
+              text-white dark:text-gray-300
+            "
+          >
+            “{t("disclosure")}”
+          </blockquote>
         </div>
       </div>
-    </div>
+    </section>
   );
 }

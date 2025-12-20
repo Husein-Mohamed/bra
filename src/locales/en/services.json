@@ -1,154 +1,184 @@
 {
   "badge": "What We Do",
-  "heading": "Explore Our Services",
+  "heading": "BRA Services",
+
+  "forms": [
+    {
+      "id": "public-services",
+      "icon": "FileText",
+      "name": "Public Service Delivery",
+      "description": "Access essential government services including civil registration, permits, licenses, family certificates, and administrative documentation managed by the Banadir Regional Administration.",
+      "docs": [
+        "Completed application form",
+        "Valid identification or residency documents",
+        "Any supporting documents required for the specific service"
+      ]
+    },
+    {
+      "id": "urban-development",
+      "icon": "ClipboardList",
+      "name": "Urban Development & Infrastructure",
+      "description": "Requests and documentation related to construction licenses, land use, sanitation services, public works coordination, and city planning for Mogadishu.",
+      "docs": [
+        "Project request or proposal",
+        "Environmental or structural details (if applicable)"
+      ]
+    },
+    {
+      "id": "security-management",
+      "icon": "ShieldCheck",
+      "name": "Security & Safety Management",
+      "description": "Submit incident reports, safety concerns, emergency notices, and security-related documentation in collaboration with district authorities and law enforcement institutions.",
+      "docs": [
+        "Incident or case report (if applicable)",
+        "Personal or organizational identification"
+      ]
+    },
+    {
+      "id": "community-welfare",
+      "icon": "AlertTriangle",
+      "name": "Community Welfare & Social Support",
+      "description": "Apply for community support programs, humanitarian assistance coordination, youth and women empowerment initiatives, and local welfare projects.",
+      "docs": [
+        "Support request form",
+        "Any available evidence of need"
+      ]
+    }
+  ],
 
   "cards": [
     {
       "id": "registration-card",
-      "icon": "FileText",
-      "name": "Registration Form",
-      "description": "Used by data controllers & processors to register with the DPA.",
-      "href": "/services#registration",
+      "icon": "Building",
+      "name": "Public Service Delivery",
+      "description": "Providing essential government services such as civil registration, licensing, permits, and administrative documentation to support both residents and businesses across the Banadir Region.",
+      "href": "/services#public-services",
       "cta": "Read more"
     },
     {
       "id": "complaint-card",
-      "icon": "AlertTriangle",
-      "name": "Complaint Form",
-      "description": "Lets individuals lodge complaints about misuse or mishandling of their personal data.",
-      "href": "/services#complaint",
+      "icon": "Landmark",
+      "name": "Urban Development & Infrastructure",
+      "description": "Overseeing city planning, road construction, sanitation, environmental maintenance, and public works to improve Mogadishu’s infrastructure and promote sustainable development.",
+      "href": "/services#urban-development",
       "cta": "Read more"
     },
     {
       "id": "breach-card",
-      "icon": "ClipboardList",
-      "name": "Data Breach Report",
-      "description": "Mandatory notice to the authority when a personal-data breach occurs.",
-      "href": "/services#breach",
+      "icon": "Shield",
+      "name": "Security & Safety Management",
+      "description": "Working alongside security institutions to maintain peace, ensure public safety, and coordinate emergency responses throughout the Banadir Region.",
+      "href": "/services#security-management",
       "cta": "Read more"
     },
     {
       "id": "dpo-card",
-      "icon": "ShieldCheck",
-      "name": "Data Protection Officer Form",
-      "description": "Application to be certified / recognised as a Data Protection Officer.",
-      "href": "/services#dpo",
+      "icon": "Users",
+      "name": "Community Welfare & Social Support",
+      "description": "Supporting vulnerable groups, coordinating humanitarian services, and promoting local initiatives that strengthen social well-being and community resilience.",
+      "href": "/services#community-welfare",
       "cta": "Read more"
     }
   ],
 
-  "forms": [
+  "services": [
     {
-      "id": "registration",
-      "icon": "FileText",
-      "name": "Register As Data Controller/Processor",
-      "law": "Art. 12 – Data Protection Act 2023 (Somalia)",
-      "description": "Used by data controllers & processors to register their activities with the DPA.",
+      "id": "public-services",
+      "icon": "Building",
+      "name": "Public Service Delivery",
+      "description": "BRA provides key administrative services such as civil registration, family certificates, business permits, construction licenses, and various legal and documentation services that support both residents and local enterprises.",
       "docs": [
-        "Certificate of Incorporation",
-        "Company statutes",
-        "Description of data-processing purpose"
+        "Completed application form",
+        "Valid identification or residency documents",
+        "Any supporting documents required for the specific service"
       ],
-      "files": [
-        {
-          "label": "Data Controller Form",
-          "file": "/docs/forms/Data Controller Form English.pdf"
-        },
-        {
-          "label": "Data Processor Form",
-          "file": "/docs/forms/Data Processor Form English.pdf"
-        }
-      ],
-      "downloadCta": "Download forms"
+      "files": [],
+      "downloadCta": "View requirements"
     },
     {
-      "id": "complaint",
-      "icon": "AlertTriangle",
-      "name": "Submit A Complaint Form",
-      "law": "Art. 38 – Data Protection Act 2023 (Somalia)",
-      "description": "Lets individuals lodge complaints about misuse or mishandling of their personal data.",
+      "id": "urban-development",
+      "icon": "Landmark",
+      "name": "Urban Development & Infrastructure",
+      "description": "The administration leads Mogadishu’s development projects including roads, drainage systems, sanitation operations, and city beautification initiatives aimed at improving quality of life.",
       "docs": [
-        "Copy of national ID / passport",
-        "Proof of relationship with controller"
+        "Project request or proposal",
+        "Environmental or structural details (if applicable)"
       ],
-      "files": [
-        {
-          "label": "Complaint Form",
-          "file": "/docs/forms/Somali COMPLIANT FORM.pdf"
-        }
-      ],
-      "downloadCta": "Download form"
+      "files": [],
+      "downloadCta": "View requirements"
     },
     {
-      "id": "breach",
-      "icon": "ClipboardList",
-      "name": "Report A Data Breach",
-      "law": "Art. 34 – Data Protection Act 2023 (Somalia)",
-      "description": "Mandatory notice to the authority when a personal-data breach occurs.",
+      "id": "security-management",
+      "icon": "Shield",
+      "name": "Security & Safety Management",
+      "description": "BRA collaborates with district authorities and national forces to maintain peace, enhance public safety, manage emergency response, and safeguard communities across all 17 districts.",
       "docs": [
-        "Incident summary",
-        "Mitigation steps taken",
-        "Number of data subjects affected"
+        "Incident or case report (if applicable)",
+        "Personal or organizational identification"
       ],
-      "files": [
-        {
-          "label": "Data Breach Report",
-          "file": "/docs/forms/Data Breach Reg. Form English.pdf"
-        }
-      ],
-      "downloadCta": "Download form"
+      "files": [],
+      "downloadCta": "View requirements"
     },
     {
-      "id": "dpo",
-      "icon": "ShieldCheck",
-      "name": "Register As A Data Protection Officer",
-      "law": "Art. 19 – Data Protection Act 2023 (Somalia)",
-      "description": "Application to be certified / recognised as a Data Protection Officer.",
+      "id": "community-welfare",
+      "icon": "Users",
+      "name": "Community Welfare & Social Support",
+      "description": "Promoting social programs, humanitarian coordination, youth empowerment, women’s inclusion, and local community projects that support vulnerable populations and improve social well-being.",
       "docs": [
-        "Candidate CV",
-        "Proof of relevant training & experience",
-        "Company endorsement letter"
+        "Support request form",
+        "Any available evidence of need"
       ],
-      "files": [
-        {
-          "label": "DPO Registration Form",
-          "file": "/docs/forms/DPO Reg. Form .pdf"
-        }
-      ],
-      "downloadCta": "Download form"
+      "files": [],
+      "downloadCta": "View requirements"
     }
   ],
 
   "items": "@@forms",
   "requiredDocs": "Required Documentation:",
   "uploadLabel": "Upload a completed form",
-  "cta": { "upload": "Upload" },
+  "cta": {
+    "upload": "Upload",
+    "viewMore": "View More"
+  },
 
   "awareness": {
-    "title": "Get Trained on Data Protection",
-    "lawRef": "Art. 45 – Data Protection Training Obligation",
-    "desc": "All data controllers must undergo certified training annually to stay compliant.",
+    "title": "Awareness & Community Engagement",
+    "desc": "BRA provides public awareness programs, civic education, and community engagement initiatives to strengthen transparency, governance, and collaboration between citizens and local institutions.",
+    "docsNote": "Community programs and public events are announced quarterly across all districts.",
     "items": [
-      "Online self-paced courses",
-      "In-person workshops",
-      "Certification exams"
+      "Civic education workshops for residents",
+      "Public awareness campaigns on services and local governance",
+      "Training sessions for district-level staff and community leaders",
+      "Youth and women empowerment programs"
     ],
+    "requiredDocsTitle": "Required Documentation:",
     "docs": [
-      "Proof of course completion",
-      "Exam certificate"
+      "Registration form (if required)",
+      "Basic identification or organizational affiliation"
     ],
-    "docsNote": "Keep these on file for audits.",
-    "email": "training@dpa.so",
-    "viewCalendar": "View training calendar",
-    "calendarHref": "/training-calendar"
+    "contactText": "For community engagement programs, contact: info@bra.so"
   },
 
   "legal": {
-    "title": "Essential Legal References",
-    "purpose": "Download the following to understand your obligations under the Act.",
+    "title": "Legal Notices",
+    "purpose": "Inform citizens about the responsibilities, rights, and service terms when engaging with the Banadir Regional Administration.",
     "links": [
-      { "label": "Full Data Protection Act (PDF)", "href": "/docs/DPA-Act-2023.pdf" },
-      { "label": "Regulation Guidelines",          "href": "/docs/Regulations.pdf" }
-    ]
+      {
+        "label": "Service Guidelines",
+        "href": "/service-guidelines",
+        "description": "Explains how BRA services are provided and what citizens can expect."
+      },
+      {
+        "label": "Administrative Procedures",
+        "href": "/administrative-procedures",
+        "description": "Outlines procedures followed by BRA departments and district offices."
+      },
+      {
+        "label": "Terms & Conditions",
+        "href": "/terms-and-conditions",
+        "description": "Details the usage terms and general policies governing BRA platforms and services."
+      }
+    ],
+    "footerNote": "All legal and administrative guidelines are regularly updated to reflect BRA policies and regional regulations."
   }
 }

@@ -1,57 +1,57 @@
 {
-  "badge": "Your Data, Your Rights",
-  "heading": "Understand and Control Your Personal Data",
-  "intro1": "Learn your rights under Somalia’s Data Protection Act.",
-  "intro2": "The Data Protection Act (No. 005/2023) guarantees everyone key rights to access, correct, or delete their data.",
+  "badge": "Your Administration",
+  "heading": "Understand Your Rights and Public Services in Banadir",
+  "intro1": "Learn how the Banadir Regional Administration supports residents and protects their civic rights.",
+  "intro2": "BRA provides essential services, governance support, and public protections to ensure safety, transparency, and community wellbeing.",
 
   "rights": [
-    { "icon": "Eye",        "label": "Right of Access" },
-    { "icon": "Edit2",      "label": "Right of Rectification" },
-    { "icon": "Trash2",     "label": "Right to Erasure" },
-    { "icon": "Slash",      "label": "Right to Object" },
-    { "icon": "Lock",       "label": "Right to Restrict Processing" },
-    { "icon": "ArrowsRightLeft", "label": "Right to Data Portability" },
-    { "icon": "Cpu",        "label": "Right Not to Be Subject to Automated Decisions" },
-    { "icon": "AlertCircle","label": "Right to Lodge a Complaint" }
+    { "icon": "Eye",        "label": "Right to Access Public Information" },
+    { "icon": "Edit2",      "label": "Right to Correct Personal or Civic Records" },
+    { "icon": "Trash2",     "label": "Right to Request Record Removal (where applicable)" },
+    { "icon": "Slash",      "label": "Right to Object to Misuse of Information" },
+    { "icon": "Lock",       "label": "Right to Secure Handling of Your Data" },
+    { "icon": "ArrowsRightLeft", "label": "Right to Transfer or Request Your Records" },
+    { "icon": "Cpu",        "label": "Right to Transparency in Automated Systems" },
+    { "icon": "AlertCircle","label": "Right to Report Complaints or Misconduct" }
   ],
-  "learnMore": "Discover all your data rights",
+  "learnMore": "Learn more about your civic rights",
 
-  "tipsHeading": "Digital Safety Tips",
-  "tipsIntro": "Protecting your data starts with smart habits.",
+  "tipsHeading": "Public Safety & Digital Protection Tips",
+  "tipsIntro": "Protecting your information starts with responsible habits.",
   "tips": [
-    { "icon": "KeyRound",    "label": "Use strong, unique passwords" },
-    { "icon": "Share2Off",   "label": "Share only what’s necessary online" },
-    { "icon": "CheckCircle2","label": "Always check consent before you share data" },
-    { "icon": "WifiOff",     "label": "Avoid untrusted public Wi‑Fi" }
+    { "icon": "KeyRound",    "label": "Use strong and secure passwords" },
+    { "icon": "Share2Off",   "label": "Avoid sharing unnecessary personal details" },
+    { "icon": "CheckCircle2","label": "Verify official BRA communication sources" },
+    { "icon": "WifiOff",     "label": "Avoid using public Wi-Fi for sensitive tasks" }
   ],
 
   "actions": {
     "badge": "Take Action",
-    "heading": "Manage Your Data Rights Instantly",
+    "heading": "Access BRA Services Easily",
     "items": [
       {
         "icon": "file-text",
-        "label": "File a Complaint",
-        "desc": "Report a concern if you believe your data rights have been violated.",
+        "label": "Submit a Complaint",
+        "desc": "Report issues related to services, misconduct, or administrative concerns.",
         "link": "/complaints"
       },
       {
         "icon": "user-plus",
-        "label": "Register as a Data Controller",
-        "desc": "Begin your legal registration with the DPA as an entity handling data.",
-        "link": "/register-data-controller"
+        "label": "Register a Business or Service",
+        "desc": "Apply for official BRA registration for your business or organization.",
+        "link": "/register-business"
       },
       {
         "icon": "alert-triangle",
-        "label": "Report a Data Breach",
-        "desc": "Notify the authority about a potential or actual breach of personal data.",
-        "link": "/report-breach"
+        "label": "Report Public Safety Issues",
+        "desc": "Notify BRA about safety hazards, illegal activity, or emergency risks.",
+        "link": "/report-incident"
       },
       {
         "icon": "mail",
-        "label": "Request Access or Correction",
-        "desc": "Ask to see, correct, or delete your data under the law.",
-        "link": "/request-access"
+        "label": "Request Official Records",
+        "desc": "Ask to access, correct, or verify your civic or administrative records.",
+        "link": "/request-records"
       }
     ],
     "cta": "Go"

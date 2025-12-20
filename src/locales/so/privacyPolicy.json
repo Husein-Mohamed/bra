@@ -1,98 +1,90 @@
 {
   "hero": {
-    "heading": "Siyaasadda Asturnaanta",
+    "heading": "Xeerka Asturnaanta",
     "subtitle": "Taariikhda Dhaqan-galka: Maarso 20, 2023"
   },
   "toc": {
-    "consent": "1. Oggolaansho",
-    "information": "2. Macluumaadka aan Ururinno",
-    "use": "3. Sida aan Uu Isticmaalno Xogtaada",
-    "cookies": "4. Kukiyada & Raadraaca",
-    "links": "5. Xidhiidhada Bogagga Kale",
+    "consent": "1. Ogolaansho",
+    "information": "2. Macluumaadka Aan Uruurinno",
+    "use": "3. Sida Aan Uu Isticmaalno Macluumaadkaaga",
+    "cookies": "4. Kukiyada & Tiknoolojiyada Raadraaca",
+    "links": "5. Xiriirinta Goobaha/Barnaamijyada Kale",
     "security": "6. Tallaabooyinka Amniga",
-    "optout": "7. Xulashada & Ka-qaadista",
-    "comments": "8. Faallooyinka Isticmaalaha & Saameynta Dadweynaha",
+    "optout": "7. Xulashada & Ka-noqoshada",
+    "comments": "8. Faallooyinka Isticmaalaha & Ka-qaybgalka Dadweynaha",
     "children": "9. Asturnaanta Carruurta",
     "changes": "10. Isbeddelada Siyaasaddan",
-    "contact": "11. Nala Soo Xariir",
-    "rights": "12. Xuquuqda Bixiyaha Xogta",
+    "contact": "11. Nala Soo Xidhiidh",
+    "rights": "12. Xuquuqda Milkiilaha Xogta",
     "retention": "13. Kaydinta & Tirtirka Xogta",
-    "transfers": "14. Qaybinta Saddexaad & Kala-wareejinta Caalamiga",
-    "dpo": "15. DPO & Cabashooyinka"
+    "transfers": "14. Bixiyeyaasha Saddexaad & Wareejinta Caalamiga ah",
+    "dpo": "15. Xogta DPO & Cabashooyinka"
   },
   "intro": [
-    "Bogga <1>dpa.gov.so</1>, oo laga heli karo <3>https://dpa.gov.so</3>, ilaalinta xogtaada shakhsiyeed waa <5>mudnaanta koowaad</5>. Siyaasaddan Asturnaanta waxay sharraxaysaa <7>maxaan ururinno</7>, <9>sida aan u isticmaalno</9>, iyo <11>xuquuqaha</11> aad leedahay.",
-    "Su’aalo? Naga soo qor email: <13>info@dpa.gov.so</13>."
+    "Bogga dpa.gov.so, oo laga heli karo https://dpa.gov.so, asturnaanta iyo ilaalinta xogtaada gaarka ah ayaa ka mid ah mudnaantaheena ugu sarreeya. Siyaasaddan Asturnaanta waxay faahfaahinaysaa noocyada macluumaadka aan uruurino, sida aan u isticmaalno, iyo xuquuqdaada la xiriirta xogtaada gaarka ah.",
+    "Haddii aad qabto wax su’aalo ah ama aad u baahan tahay macluumaad dheeraad ah oo ku saabsan Siyaasaddan Asturnaanta, fadlan nala soo xiriir:\n📧 info@dpa.gov.so"
   ],
-  "consent": "Adigoo isticmaalaya bogga, waxaad <0>ogolaansho</0> siisay Siyaasaddan Asturnaanta oo aad ogoshahay shuruudaheeda.",
+  "consent": "Adigoo isticmaalaya boggayaga, waxaad ogolaaneysaa Siyaasaddan Asturnaanta waana ku raacsan tahay shuruudeeda.",
   "information": [
-    "<0>Macluumaadka aad na siisay:</0> magac, email, taleefan, iyo wixii kale ee aad ku soo gudbiso foomamka.",
-    "<2>Macluumaadka otomaatigga ah:</2> cinwaanka IP, daalacashada, qalabka, iyo xogta isticmaalka.",
-    "Waxaan <4>sii caddeyn doonaa</4> sababta xogta loo baahan yahay ka hor intaanad bixin."
+    "Macluumaadka aad si iskood ah u bixiso: sida magacaaga, cinwaanka email-ka, lambarka taleefanka, iyo wax kasta oo aad ku soo gudbiso foomamka xiriirka ama diiwaangelinta akoonka.",
+    "Macluumaadka si otomaatig ah loo uruuriyo: sida cinwaankaaga IP, nooca biraawsarka, macluumaadka qalabka, goobta, iyo xogta isticmaalka iyada oo loo marayo kukiyada ama teknoolojiyada la midka ah.",
+    "Mar walba waan ku cadayn doonaa markii macluumaadka shaqsiyadeed uu looga baahan yahay iyo sababta loo uruurinayo."
   ],
   "use": [
-    "Si aan u <0>maamulno</0>, u hagaajino, uguna horumarinno bogga",
-    "Si aan u fahamno sida isticmaalayaashu u <2>la falgalaan</2> sifooyinka",
-    "Si aan u habeyno     macluumaadka & isgaarsiinta",
-    "Si aan u abuurno adeegyo ama aalado cusub",
-    "Si aan ugu jawaabno weydiimaha & codsiyada taageerada",
-    "Si aan u dirno ogeysiisyo & warsideyaal (haddii aad <5>ogolatay</5>)"
+    "Si loo maamulo, loo dayactiro, loona horumariyo boggayaga",
+    "Si loo falanqeeyo sida isticmaalayaashu ula falgalaan waxyaabaha iyo muuqaalada",
+    "Si loo shaqsiyeeyo khibradaada loona habeeyo isgaarsiintayada",
+    "Si loo soo saaro adeegyo, aalado, ama shaqeyn cusub",
+    "Si loogu jawaabo su'aalaha loona siiyo taageero",
+    "Si loo diro cusbooneysiin muhiim ah, warsideyaal, iyo macluumaad maamul (haddii aad ogolaatay)"
   ],
   "cookies": [
-    "Waxaan isticmaalnaa kukiyo si aan u <0>xasuusanno doorbidaada</0>, u falanqeyno isticmaalka, una gudbino macluumaad ku habboon.",
-    "Faahfaahin buuxda, fiiri <2>Siyaasadda Kukiyada</2>."
+    "Boggayagu wuxuu isticmaalaa kukiyo si:\n• Xasuusinta doorbidyadaada\n• Fahamka sida bogga loo isticmaalo\n• In laguu soo bandhigo waxyaabo kugu habboon",
+    "Waxaad dooran kartaa inaad aqbasho kukiyada muhiimka ah kaliya ama aad habayso doorbidyada adoo adeegsanaya dejimaha kukiyada. Wixii faahfaahin dheeraad ah, eeg Siyaasaddeena Kukiyada."
   ],
-  "links": "Xidhiidhada dibadda boggeena waxaa laga yaabaa inay muujiyaan; annagu mas'uul kama nihin siyaasadahooda asturnaanta. Eeg siyaasadooda ka hor inta aadan xog bixin.",
+  "links": "Boggayaga waxaa laga yaabaa inay ku jiraan xiriiriyayaal ku tegaya mareego ama barnaamijyo dhinac saddexaad ah. DPA mas'uul kama aha hab-dhaqankooda asturnaanta. Fadlan dib u eeg siyaasadooda ka hor inta aadan wadaagin xogtaada gaarka ah.",
   "security": [
-    "Waxaan xogtaada ku ilaalinaa:",
-    " • Isku xirka sirta ah (HTTPS/TLS)",
-    " • Xadeynta gelitaanka & dhimista xogta",
-    " • Kormeer & cusbooneysiin joogto ah",
-    "Waxaan dadaalnaa ammaanka, TV iyo kombiyuutar kasta ma aha 100 % mid fool-proof ah."
+    "Waxaan isticmaalnaa tallaabooyin farsamo iyo kuwo isku-duuban oo xooggan, oo ay ku jiraan:\n• Adeegayaasha ammaan ah iyo isku xirnaansho sir-gelin leh\n• Xakameynta gelitaanka iyo yareynta xogta\n• Baaritaanno amni oo joogto ah",
+    "Si kastaba ha ahaatee, gudbinta internet-ka ma aha mid 100% ammaan ah."
   ],
   "optout": [
-    "Waxaad ka bixi kartaa iimayllada aan muhiimka ahayn:",
-    " • Guji “unsubscribe” ee iimaylad kasta",
-    " • Maamul doorbidka akoonkaaga",
-    " • Naga soo qor email: <3>info@dpa.gov.so</3>"
+    "Waxaad ka bixi kartaa isgaarsiin aan muhiim ahayn adigoo:\n• Gujinaya \"unsubscribe\" emails-ka\n• Maareynta doorbidyada akoonkaaga (haddii ay khuseyso)\n• Nala soo xiriiraya info@dpa.gov.so"
   ],
   "comments": [
-    "Meelaha faallooyinka la oggol yahay:",
-    " • Waxaad mas'uul ka tahay waxa aad qorto.",
-    " • Ha gelin wax sharci-darro ah ama xuquuqda daabacaada meaning ga.",
-    " • Waxaan tirtiri karnaa faallooyinka xadgudbaya shuruudaheena.",
-    "Markaad soo gudbiso faallo, waxaad DPA siisay liisanka aan gaar ahayn ee isticmaalka iyo qaybinta."
+    "Isticmaalayaasha ayaa mas'uul ka ah waxa ay soo dhajiyaan.",
+    "Ha soo dhigin waxyaabo sharci darro ah ama xuquuq lahaansho leh adigoon haysan ogolaansho.",
+    "DPA waxay tirtiri kartaa waxyaabaha ka baxsan shuruudahan.",
+    "Markaad soo gudbiso waxyaabaha, waxaad DPA siineysaa ruqsad gaar la’aan ah si ay u isticmaasho una wadaagto."
   ],
-  "children": "Adeegyadeenu kuma jihaysan yihiin carruurta ka yar <0>13</0>. Haddii xogtooda si qalad ah loo ururiyo, waxaan si dhaqso ah u tirtireynaa.",
-  "changes": "Siyaasaddan waxaan dib-u-eegnaa mar kasta ama mar kasta oo lagu daro scripts ama adeegyo cusub. Isbeddelada oo dhan waxay ka muuqan doonaan boggan taariikhda la cusbooneysiiyey.",
+  "children": "Adeegyadeenu looma jeedin carruurda da'doodu ka yar tahay 13. Haddii xogtooda la ururiyo, si dhaqso ah ayaan u tirtiri doonaa.",
+  "changes": "Waxaan cusbooneysiin karnaa Siyaasaddan. Isbeddelladu waxay dhaqan galayaan marka la daabaco. Isticmaalka sii socda wuxuu muujinayaa ogolaanshahaaga.",
   "contact": [
-    "Su’aalo ama codsiyo xuquuqeed, nala soo xiriir:",
-    "<0>Hay’adda Ilaalinta Xogta Soomaaliya (DPA)</0>",
-    "📧 <2>info@dpa.gov.so</2>",
-    "🌐 <4>https://dpa.gov.so</4>"
+    "Hay’adda Ilaalinta Xogta Soomaaliya (DPA)",
+    "📧 info@dpa.gov.so",
+    "🌐 https://dpa.gov.so"
   ],
   "rights": [
-    "• Hel nuqul ka mid ah xogtaada",
-    "• Sax xogta aan saxsanayn",
-    "• Codso tirtir (“xuquuqda la ilaawi karo”)",
-    "• U wareeji xogtaada hay’adda kale",
-    "• Ka hor imaansho habka qaarkood",
-    "• La hadal go’aannada kuwaaga ah",
-    "Eeg “11. Nala Soo Xariir” si aad xuquuqahan u isticmaasho."
+    "• Hel xogtaada oo hel nuqul",
+    "• Sax xog aan saxsnayn ama dhameystirnayn",
+    "• Tirtir xogtaada (“xuquuqda ah in la iloobo”)",
+    "• Wareeji xogtaada hay’ad kale",
+    "• Ka soo horjeedo noocyada qaarkood ee habaynta",
+    "• Ka dood samaynta faylalka ama go'aannada otomaatiga ah ee saameeya",
+    "Si aad u adeegato xuquuqdaada, nala soo xiriir (eeg Qaybta 15)."
   ],
   "retention": [
-    "• Iimaylka & taageerada — 2 sano",
-    "• Xogta falanqaynta — 12 bilood",
-    "• Xogta akoonka — ilaa la tirtiro ama 3 sano oo aan firfircooni lahayn",
-    "• Kukiyada — sida ku cad Siyaasadda Kukiyada"
+    "Emails & taageero: 2 sano",
+    "Xogta falanqaynta: 12 bilood",
+    "Xogta akoonka: ilaa la tirtiro ama 3 sano oo aan la isticmaalin",
+    "Kukiyada: sida ku xusan Siyaasadda Kukiyada"
   ],
-  "transfers": "Waxaan xogta la wadaagnaa bixiyeyaasha buuxiya shuruudaha. Kala wareejinta caalamiga ah waxay ku xiran tahay qandaraasyo.",
+  "transfers": "Waxaan la wadaagi karnaa xogta:\n• Bixiyeyaasha falanqaynta (tusaale, Google Analytics)\n• Adeegyada martigelinta iyo daruuraha\n• Bixiyeyaasha lacag-bixinta ama aaladaha foomamka (haddii ay khuseyso)\nBixiyeyaashu waa inay buuxiyaan heerarka ilaalinta xogta. Uwareejinta dibadda Soomaaliya, waxaan isticmaalnaa dammaanado ku habboon sida qodobbada qandaraaska.",
   "dpo": [
-    "<0>Mas’uulka Ilaalinta Xogta</0>",
+    "Sarkaalka Ilaalinta Xogta",
     "Hay’adda Ilaalinta Xogta Soomaaliya (DPA)",
-    "📧 <2>info@dpa.gov.so</2>",
+    "📧 info@dpa.gov.so",
     "📞 Xarunta Wicitaanka: 452",
-    "📮 Wadada Aden Adde, Muqdisho",
-    "Si aad cabasho u gudbiso, na soo qor faahfaahinta iyo cadeymaha."
+    "📮 Cinwaanka Boostada: Xarunta DPA, Wadada Aden Adde Airport, Muqdisho, Soomaaliya",
+    "Si aad dacwad u gudbiso, u soo dir faahfaahinta (oo ay ku jiraan sharaxaadda arrinta iyo wixii caddaymo ah) kanaaladan kor ku xusan."
   ]
 }

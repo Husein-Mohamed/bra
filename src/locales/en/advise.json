@@ -1,14 +1,110 @@
 {
-    "spamLinks": "Spam Links",
-    "identityTheft": "Identity Theft",
-    "spamText": "Spam Text",
-    "keepingPersonalInfo": "Keeping Personal Information",
-    "nuisanceCalls": "Nuisance Calls",
-    "phishingMessages": "Phishing Messages",
-    "otp": "OTP",
-    "handlingBankLines": "Handling Bank Lines",
-    "schoolIDandCertifications": "School ID and Certifications",
-    "publicInfoSecurity": "Public Information Security",
-    "protectingHealthRecords": "Protecting Health Records"
-  }
-  
+  "headerBadge": "How DPA Helps You",
+  "headerTitle": "Empowering You to Protect Your Personal Data & Privacy",
+  "headerSubtitle": "The DPA is here to ensure your rights are respected. Below are common privacy risks and how you can protect yourself.",
+
+  "howToProtect": "How to protect yourself:",
+
+  "spamLinks": "Spam Links on Social Media",
+  "spamLinksRisk": "Malicious links on platforms like Facebook may lead to phishing attacks, malware installation, or data breaches.",
+  "spamLinksTips": [
+    "Avoid clicking on suspicious links or unknown ads",
+    "Enable advanced spam filters in your browser or email",
+    "Keep your devices and antivirus software up to date",
+    "Report harmful links to the platform"
+  ],
+
+  "identityTheft": "Identity Theft",
+  "identityTheftRisk": "Scammers may impersonate you on social media to gain access to your finances or social contacts.",
+  "identityTheftTips": [
+    "Use strong, unique passwords for each account",
+    "Activate two-factor authentication (2FA)",
+    "Do not share personal credentials with anyone",
+    "Report suspicious login attempts immediately"
+  ],
+
+  "spamText": "Spam Text Messages (SMS & Apps)",
+  "spamTextRisk": "Messages on Facebook, WhatsApp, or Messenger may contain malicious links.",
+  "spamTextTips": [
+    "Ignore and block messages from unknown senders",
+    "Avoid clicks on unverified links",
+    "Keep your communication apps updated",
+    "Report spam to the relevant platform"
+  ],
+
+  "keepingPersonalInfo": "Protecting Your Personal Information",
+  "keepingPersonalInfoRisk": "Your bank account, national ID, passport, and other documents are highly sensitive.",
+  "keepingPersonalInfoTips": [
+    "Never share such information publicly or online",
+    "Store physical documents in a secure place",
+    "Use encrypted platforms and strong passwords",
+    "Avoid sending personal data over unsecured channels"
+  ],
+
+  "nuisanceCalls": "Nuisance or Scam Calls",
+  "nuisanceCallsRisk": "Unwanted or scam phone calls can compromise your privacy.",
+  "nuisanceCallsTips": [
+    "Keep your number private and avoid unnecessary sharing",
+    "Use call-blocking tools or apps",
+    "Report persistent or fraudulent calls to your service provider and DPA",
+    "Never disclose sensitive data over a phone call"
+  ],
+
+  "phishingMessages": "Phishing Messages",
+  "phishingMessagesRisk": "Cybercriminals send fake emails or messages pretending to be from trusted sources.",
+  "phishingMessagesTips": [
+    "Don’t click links or open attachments from unknown senders",
+    "Confirm the legitimacy of any message before sharing information",
+    "Use a spam filter and update your email security settings"
+  ],
+
+  "otp": "One-Time Password (OTP) Safety",
+  "otpRisk": "Your OTP is a secure access key.",
+  "otpTips": [
+    "Never share OTPs with anyone — not even friends or family",
+    "Only enter OTPs on trusted, verified platforms",
+    "Be cautious of calls or messages requesting your OTP",
+    "Enable 2FA for all sensitive accounts"
+  ],
+
+  "handlingBankLines": "Privacy in Public Spaces (e.g., Banks or Schools)",
+  "handlingBankLinesRisk": "Be mindful of your surroundings when accessing or discussing private information.",
+  "handlingBankLinesTips": [
+    "Avoid discussing personal or financial matters aloud",
+    "Use online services where possible to reduce exposure",
+    "Shield documents and devices from view in public"
+  ],
+
+  "schoolIDandCerts": "Securing Academic Documents",
+  "schoolIDandCertsRisk": "Your school ID and certifications are part of your identity.",
+  "schoolIDandCertsTips": [
+    "Do not share them online or with unknown parties",
+    "Store hard copies securely",
+    "Keep digital backups in a password-protected system"
+  ],
+
+  "publicInfoSecurity": "Health Information Privacy",
+  "publicInfoSecurityRisk": "Medical records are highly sensitive and legally protected.",
+  "publicInfoSecurityTips": [
+    "Only share with licensed medical professionals or verified institutions",
+    "Avoid posting or transmitting medical data online",
+    "Use secure digital platforms and strong passwords",
+    "Keep physical documents in a locked location"
+  ],
+
+  "protectingHealthRecords": "Health Information Privacy",
+  "protectingHealthRecordsRisk": "Medical records are highly sensitive and legally protected.",
+  "protectingHealthRecordsTips": [
+    "Only share with licensed medical professionals or verified institutions",
+    "Avoid posting or transmitting medical data online",
+    "Use secure digital platforms and strong passwords",
+    "Keep physical documents in a locked location"
+  ],
+
+  "ctaTitle": "Need Assistance?",
+  "ctaDesc": "If your personal data is misused, you receive suspicious communications, or you become a victim of data abuse, report it to the DPA immediately.",
+  "emailLabel": "Email:",
+  "websiteLabel": "Visit:",
+  "fileComplaint": "File a Complaint",
+  "reportBreach": "Report a Breach"
+}

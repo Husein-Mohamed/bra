@@ -1,7 +1,14 @@
 {
-    "knowYourRights": "Aqoon Xuquuqdaada",
-    "titleLine1": "Aqoon",
-    "titleLine2": "Xogtaada Shakhsiyeed",
-    "description": "Magacaaga, Lambarka Telefoonkaaga, Iimaylkaaga, Kaadkaaga Aqoonsi ama Baasaboor, Koontadaaga Bangi, Aqoonsigaaga. Iyo wax kasta oo kale oo shakhsi aqoonsan kara. Ma ogtahay, muwaadin, in tani tahay xogtaada shakhsiyeed? Sidaa darteed, Dowladda Soomaaliya waxay dhistay Xeerka Ilaalinta Xogaha, oo uu saxiixay Madaxweynaha Xasan Sheekh Maxamuud Maarso 20, 2023, kaas oo aasaasay Hay'adda Ilaalinta Xogaha. Xeerka Ilaalinta Xogaha, Xeerka Lambar 005, wuxuu ku qasabaa hay'adaha gaarka ah, hay'adaha dawliga, iyo NGO-da inay ilaaliyaan xogta shakhsiyeed."
-  }
-  
+  "knowYourRights": "Ogow Xuquuqdaada",
+  "titleLine1": "Ogow",
+  "titleLine2": "Xogta Shakhsiga ah",
+  "dataList": [
+    "Magacaaga oo buuxa",
+    "Lambarkaaga taleefanka",
+    "Cinwaankaaga iimaylka",
+    "Lambarka kaarkaaga aqoonsiga ama baasaboorka",
+    "Faahfaahinta koontadaada bangiga",
+    "Warka kale oo kasta oo qofkaaga aqoonsan kara"
+  ],
+  "lawInfo": "20 Maarso 2023, Madaxweyne Xasan Sheekh Maxamuud waxa uu saxiixay Xeerka Dhowrista Xogta (Sharciga No. 005), taasoo aasaastay Hay’adda Dhowrista Xogta kuna amartay dhammaan hay’adaha gaarka loo leeyahay, kuwa dawladda, iyo kuwa aan faa’iido doonka ahayn ee Soomaaliya inay ilaaliyaan xogta shaqsiga ah."
+}

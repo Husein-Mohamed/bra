@@ -11,7 +11,7 @@ function NewsMedia() {
       <Banner
         title={
           <>
-            <span className="text-[#47BDFF]">Our News and Media</span>
+            <span className="text-[#47BDFF]">The Last News</span>
           </>
         }
         subtitle="Discover Our Latest News"

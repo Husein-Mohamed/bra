@@ -1,18 +1,18 @@
 {
-  "badge": "Waxa Aan Sameyno",
-  "mainTitle": "Waxa Aan Sameyno",
+  "badge": "Waxaan Qabanno",
+  "mainTitle": "Waxaan Qabanno",
   "posts": {
     "post1": {
-      "title": "Xeerar",
-      "summary": "Hay’adda Xogta (DPA) ee Soomaaliya waxay maamushaa ilaalinta xogta, waxayna hubisaa in hay’aduhu si sharci ah u maareeyaan macluumaadka gaarka ah."
+      "title": "Xeer-dejinta",
+      "summary": "Hay’adda Dhowrista Xogta (DPA) waxa ay la socotaa oo ay xakameysaa dhowrista xogta si ururradu si masuuliyad leh u maareeyaan xogta shaqsiyeed."
     },
     "post2": {
-      "title": "Ololaha Wacyigelinta",
-      "summary": "DPA waxay sare u qaadaa wacyigelinta iyada oo loo marayo ololayaal waxbarasho, tababaro, iyo wacyigelin dadweyne si kor loogu qaado fahamka ilaalinta xogta."
+      "title": "Ololayaal Wacyigelin",
+      "summary": "Waxaan fulinaa ololayaal, tababaro iyo wacyigelin si dadka iyo ururradu u fahmaan mabaadi’da dhowrista xogta."
     },
     "post3": {
-      "title": "Dhaqan Gelinta iyo La Xisaabtanka",
-      "summary": "DPA waxay xaqiijisaa fulinta xeerarka ilaalinta xogta, iyadoo ilaalineysa daahfurnaan iyo kalsoonida bulshada ee maareynta macluumaadka."
+      "title": "Dabagal & Waafaqid",
+      "summary": "Waxaan dhaqan-gelinaa xeerarka, mas’uuliyad saarista ururrada, anagoo dhiirrigelinayna hufnaan iyo kalsooni ku saabsan sida xogta xasaasiga ah loo maareeyo."
     }
   }
 }

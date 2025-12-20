@@ -1,16 +1,16 @@
 {
   "hero": {
     "heading": "Privacy Policy",
-    "subtitle": "Effective Date: March 20, 2023"
+    "subtitle": "Effective Date: March 20, 2025"
   },
   "toc": {
     "consent": "1. Consent",
     "information": "2. Information We Collect",
     "use": "3. How We Use Your Information",
-    "cookies": "4. Cookies & Tracking",
-    "links": "5. Links to Other Sites",
+    "cookies": "4. Cookies & Tracking Technologies",
+    "links": "5. Links to Other Sites/Apps",
     "security": "6. Security Precautions",
-    "optout": "7. Choice & Opt-Out",
+    "optout": "7. Choice and Opt-Out",
     "comments": "8. User Comments and Public Input",
     "children": "9. Children’s Privacy",
     "changes": "10. Changes to This Policy",
@@ -18,81 +18,73 @@
     "rights": "12. Data-Subject Rights",
     "retention": "13. Data Retention and Deletion",
     "transfers": "14. Third-Party Recipients & International Transfers",
-    "dpo": "15. DPO Contact Details & Complaints"
+    "dpo": "15. Contact "
   },
   "intro": [
-    "At <1>dpa.gov.so</1>, accessible at <3>https://dpa.gov.so</3>, protecting your personal data is a <5>top priority</5>. This Privacy Policy explains <7>what we collect</7>, <9>how we use it</9>, and the <11>rights</11> you have regarding that data.",
-    "Questions? Email us anytime at <13>info@dpa.gov.so</13>."
+    "At bra.gov.so, accessible through the official website of the Banadir Regional Administration (BRA), the privacy and protection of your personal data are fundamental to our mandate of transparent and accountable governance. This Privacy Policy explains what information we collect, how we use it, and the rights you have regarding your personal data.",
+    "If you have questions or require additional information about this Privacy Policy, please contact us at: 📧 info@bra.gov.so"
   ],
-  "consent": "By using our website, you <0>consent</0> to this Privacy Policy and agree to its terms.",
+  "consent": "By using our website or digital services, you acknowledge and consent to this Privacy Policy and agree to its terms.",
   "information": [
-    "<0>Information you provide voluntarily:</0> such as your name, email address, phone number, and any content submitted via forms.",
-    "<2>Information collected automatically:</2> such as your IP address, browser type, device info, and usage data via cookies or similar tech.",
-    "We’ll <4>always</4> tell you why personal data is required before you provide it."
+    "Information you provide voluntarily: including your name, email address, phone number, and messages submitted through forms, applications, or online services.",
+    "Information collected automatically: including your IP address, browser type, device details, approximate location, and usage activity collected through cookies or similar technologies.",
+    "Whenever we request personal information, we will clearly explain why it is needed and how it will be used."
   ],
   "use": [
-    "To <0>operate</0>, maintain & improve the site",
-    "To understand how visitors <2>interact</2> with features",
-    "To personalize content & communication",
-    "To develop new services or tools",
-    "To respond to inquiries & support requests",
-    "To send updates & newsletters (if you <5>opt in</5>)"
+    "To operate, manage, and improve BRA’s digital platforms",
+    "To understand user engagement and enhance service delivery",
+    "To personalize user experience and tailor information we provide",
+    "To develop new digital services, online tools, or platform features",
+    "To respond to inquiries, service requests, or public submissions",
+    "To send updates, notices, or administrative messages when appropriate"
   ],
   "cookies": [
-    "We use cookies to <0>remember preferences</0>, analyze usage, and deliver relevant content.",
-    "For full details, see our separate <2>Cookie Policy</2>."
+    "Our website uses cookies to:\n• Remember user preferences\n• Improve website performance\n• Analyze traffic and usage patterns\n• Deliver relevant and updated content",
+    "You may choose to allow only essential cookies or adjust preferences using your browser or our cookie-settings panel. Please refer to our Cookie Policy for full details."
   ],
-  "links": "External links may appear on our site; we are <0>not responsible</0> for their privacy practices. Review their policies before sharing data.",
+  "links": "Our platform may include links to third-party websites or applications. BRA is not responsible for the content, security, or privacy practices of these external platforms. Users should review their respective privacy policies before providing personal information.",
   "security": [
-    "We secure your data through:",
-    " • Encrypted connections (HTTPS/TLS)",
-    " • Access controls & data minimization",
-    " • Regular monitoring & updates",
-    "No online method is <6>100 %</6> foolproof, but we strive for best-practice protection."
+    "We implement strong administrative, technical, and physical safeguards to protect personal data, including:\n• Secure servers and encrypted communication channels\n• Controlled access and authentication measures\n• Regular monitoring and security assessments",
+    "Despite these measures, no digital transmission or storage system is completely secure."
   ],
   "optout": [
-    "You can opt out of non-essential emails by:",
-    " • Clicking “unsubscribe” in any email",
-    " • Managing preferences in your account",
-    " • Emailing us at <3>info@dpa.gov.so</3>"
+    "You may opt out of non-essential communications by:\n• Clicking the “unsubscribe” option in emails\n• Adjusting communication preferences (if user accounts apply)\n• Contacting BRA at info@bra.gov.so"
   ],
   "comments": [
-    "In areas where comments are enabled:",
-    " • You’re responsible for what you post.",
-    " • No unlawful or copyrighted content without permission.",
-    " • We may remove content that violates our terms.",
-    "By submitting comments, you grant DPA a non-exclusive license to use, reproduce, and distribute your content."
+    "Users are responsible for the content they submit through public forms, comments, or participation channels.",
+    "Do not upload unlawful, harmful, or copyrighted content without permission.",
+    "BRA reserves the right to remove or restrict content that violates these guidelines.",
+    "By submitting content, you grant BRA a non-exclusive right to use, display, or share it where necessary for public service."
   ],
-  "children": "Our services are not directed to children under <0>13</0>. If we learn we’ve collected their data without consent, we delete it promptly.",
-  "changes": "We may update this Privacy Policy occasionally. All changes will be posted here with a revised date; continued use indicates your acceptance.",
+  "children": "Our online services are not intended for children under the age of 13. If we become aware of data collected from a child, we will remove it promptly.",
+  "changes": "We may update this Privacy Policy periodically. Updates take effect once posted on our website. Continued use of BRA digital services indicates acceptance of the revised policy.",
   "contact": [
-    "For inquiries or data rights requests, contact:",
-    "<0>Data Protection Authority of Somalia (DPA)</0>",
-    "📧 <2>info@dpa.gov.so</2>",
-    "🌐 <4>https://dpa.gov.so</4>"
+    "Banadir Regional Administration (BRA)",
+    "📧 Email: info@bra.gov.so",
+    "🌐 Website: https://bra.gov.so"
   ],
   "rights": [
-    "• Access & receive a copy of your data",
-    "• Rectify inaccurate or incomplete data",
-    "• Erase your data (“right to be forgotten”)",
-    "• Port your data to another controller",
-    "• Object to certain processing",
-    "• Challenge profiling or automated decisions",
-    "See “11. Contact Us” to exercise these rights."
+    "Right to access your personal data",
+    "Right to request correction of inaccurate or incomplete information",
+    "Right to request deletion of your data (where applicable)",
+    "Right to data portability",
+    "Right to object to specific types of processing",
+    "Right to challenge automated processing or profiling",
+    "To exercise your rights, please refer to Section 15."
   ],
   "retention": [
-    "• Emails & support — 2 years",
-    "• Analytics data — 12 months",
-    "• Account data — until deletion or 3 years inactivity",
-    "• Cookies — per our Cookie Policy"
+    "Public inquiries & communication logs: 2 years",
+    "Website analytics data: 12 months",
+    "User-account data (if applicable): until deletion or 3 years of inactivity",
+    "Cookies: retained according to cookie-policy duration settings"
   ],
-  "transfers": "We share data only with providers meeting strict standards. International transfers rely on contractual safeguards.",
+  "transfers": "We may share data with:\n• Analytics services (e.g., traffic-analysis tools)\n• Hosting and cloud-infrastructure providers\n• Official government service-integration partners\nAll third parties must comply with data-protection standards. When data is transferred outside Somalia, we apply appropriate legal safeguards.",
   "dpo": [
-    "<0>Data Protection Officer</0>",
-    "Data Protection Authority of Somalia (DPA)",
-    "📧 <2>info@dpa.gov.so</2>",
-    "📞 Call Center: 452",
-    "📮 Aden Adde Airport Road, Mogadishu",
-    "To file a complaint, email us with details and any evidence."
+   
+    "Banadir Regional Administration (BRA)",
+    "📧 Email: info@bra.gov.so",
+    "📞 Phone: +252 61 0000000",
+    "📮 Address: BRA Headquarters, Mogadishu, Somalia",
+    "You can contact any nearest BRA Office"
   ]
 }

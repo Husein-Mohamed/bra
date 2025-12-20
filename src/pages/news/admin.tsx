@@ -5,30 +5,37 @@ import { useRouter } from "next/router";
 import Image from "next/image";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 
 type UploadState = "idle" | "loading" | "done";
 
 export default function AdminPage() {
   const router = useRouter();
+  const editorRef = useRef<HTMLDivElement>(null);
 
-  // ── guard: if not logged in, send back to /news/g
-  useEffect(() => {
-    if (
-      typeof window !== "undefined" &&
-      localStorage.getItem("isAdmin") !== "true"
-    ) {
-      router.replace("/news/g");
-    }
-  }, [router]);
-
-  // ── the rest is your BlogAdmin component…
   const [title, setTitle] = useState("");
   const [content, setContent] = useState("");
   const [imageFile, setImageFile] = useState<File | null>(null);
   const [imagePreview, setImagePreview] = useState<string | null>(null);
   const [saving, setSaving] = useState<UploadState>("idle");
-  const textareaRef = useRef<HTMLTextAreaElement>(null);
 
+  // ── guard: if not logged in or session expired, send back to /news/g
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+
+    const isAdmin = localStorage.getItem("isAdmin");
+    const loginTime = parseInt(localStorage.getItem("adminLoginTime") || "0", 10);
+    const FIVE_HOURS = 5 * 3600 * 1000;
+
+    if (isAdmin !== "true" || Date.now() - loginTime > FIVE_HOURS) {
+      localStorage.removeItem("isAdmin");
+      localStorage.removeItem("adminLoginTime");
+      document.cookie = "isAdmin=; Path=/; Max-Age=0;";
+      router.replace("/news/g");
+    }
+  }, [router]);
+
+  // image preview
   useEffect(() => {
     if (!imageFile) {
       setImagePreview(null);
@@ -38,6 +45,12 @@ export default function AdminPage() {
     setImagePreview(url);
     return () => URL.revokeObjectURL(url);
   }, [imageFile]);
+
+  // live-update content on input
+  const handleEditorInput = () => {
+    if (!editorRef.current) return;
+    setContent(editorRef.current.innerHTML);
+  };
 
   const handleSave = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -53,8 +66,7 @@ export default function AdminPage() {
         setSaving("idle");
         return;
       }
-      const { url } = await upRes.json();
-      coverImage = url;
+      coverImage = (await upRes.json()).url;
     }
 
     await fetch("/api/blogs/create", {
@@ -67,54 +79,39 @@ export default function AdminPage() {
     setTitle("");
     setContent("");
     setImageFile(null);
+    if (editorRef.current) editorRef.current.innerHTML = "";
   };
 
-  const surroundSelection = (before: string, after = before) => {
-    const el = textareaRef.current;
-    if (!el) return;
-    const { selectionStart: start, selectionEnd: end, value: text } = el;
-    const selected = text.slice(start, end);
-    const newText =
-      text.slice(0, start) + before + selected + after + text.slice(end);
-    setContent(newText);
-    setTimeout(() => {
-      el.focus();
-      el.setSelectionRange(
-        start + before.length,
-        start + before.length + selected.length
-      );
-    }, 0);
+  // Inline font-size
+  const wrapSize = (percent: number) => {
+    const sel = window.getSelection()?.toString() || "";
+    if (!sel.trim()) return;
+    document.execCommand(
+      "insertHTML",
+      false,
+      `<span style="font-size:${percent}%;">${sel}</span>`
+    );
+    handleEditorInput();
   };
 
-  const insertHeading2 = () => {
-    const el = textareaRef.current;
-    if (!el) return;
-    const { selectionStart: start, value: text } = el;
-    const lineStart = text.lastIndexOf("\n", start - 1) + 1;
-    const newText =
-      text.slice(0, lineStart) + "## " + text.slice(lineStart);
-    setContent(newText);
-    setTimeout(() => {
-      el.focus();
-      el.setSelectionRange(start + 3, start + 3);
-    }, 0);
-  };
-
+  // Insert link
   const insertLink = () => {
-    const el = textareaRef.current;
-    if (!el) return;
-    const { selectionStart: start, selectionEnd: end, value: text } = el;
-    const selected = text.slice(start, end) || "link text";
     const url = window.prompt("Enter URL", "https://");
     if (!url) return;
-    const markdown = `[${selected}](${url})`;
-    const newText = text.slice(0, start) + markdown + text.slice(end);
-    setContent(newText);
-    setTimeout(() => {
-      el.focus();
-      const cursor = start + markdown.length;
-      el.setSelectionRange(cursor, cursor);
-    }, 0);
+    const text = window.getSelection()?.toString() || "link text";
+    document.execCommand("insertText", false, `[${text}](${url})`);
+    handleEditorInput();
+  };
+
+  // Strip empty spans on blur
+  const handleEditorBlur = () => {
+    if (!editorRef.current) return;
+    const html = editorRef.current.innerHTML;
+    const cleaned = html.replace(
+      /<span style="font-size:\s*\d+%;?">\s*<\/span>/g,
+      ""
+    );
+    setContent(cleaned);
   };
 
   return (
@@ -123,6 +120,7 @@ export default function AdminPage() {
         onSubmit={handleSave}
         className="flex-1 max-w-3xl mx-auto my-10 bg-white border border-gray-200 rounded-2xl shadow-lg p-10 space-y-8 overflow-auto"
       >
+        {/* Logo */}
         <div className="flex justify-center">
           <Image
             src="/images/Logo/DPA LOGO-01.png"
@@ -137,6 +135,7 @@ export default function AdminPage() {
           Blog Editor
         </h1>
 
+        {/* Title */}
         <label className="block">
           <span className="block mb-2 font-medium text-gray-700">Title</span>
           <input
@@ -149,6 +148,7 @@ export default function AdminPage() {
           />
         </label>
 
+        {/* Thumbnail */}
         <label className="block">
           <span className="block mb-2 font-medium text-gray-700">
             Thumbnail Image
@@ -157,11 +157,7 @@ export default function AdminPage() {
             type="file"
             accept="image/*"
             onChange={(e) => setImageFile(e.target.files?.[0] || null)}
-            className="block w-full text-sm text-gray-600
-                       file:mr-4 file:rounded-lg
-                       file:border-0 file:bg-[#47BDFF]
-                       file:px-4 file:py-2 file:text-white
-                       hover:file:bg-[#3aa8e6]"
+            className="block w-full text-sm text-gray-600 file:mr-4 file:rounded-lg file:border-0 file:bg-[#47BDFF] file:px-4 file:py-2 hover:file:bg-[#3aa8e6]"
           />
           {imagePreview && (
             <img
@@ -172,55 +168,74 @@ export default function AdminPage() {
           )}
         </label>
 
+        {/* Markdown Toolbar */}
         <div>
           <span className="block mb-2 font-medium text-gray-700">
             Content
           </span>
-          <div className="flex gap-2 mb-2">
+          <div className="flex flex-wrap items-center gap-2 mb-2">
             <button
               type="button"
-              title="Bold"
-              onClick={() => surroundSelection("**")}
+              onClick={() => {
+                document.execCommand("bold", false);
+                handleEditorInput();
+              }}
               className="rounded border px-2 py-1 text-sm hover:bg-gray-100"
             >
               <b>B</b>
             </button>
             <button
               type="button"
-              title="Italic"
-              onClick={() => surroundSelection("_")}
+              onClick={() => {
+                document.execCommand("italic", false);
+                handleEditorInput();
+              }}
               className="rounded border px-2 py-1 text-sm hover:bg-gray-100"
             >
               <i>I</i>
             </button>
             <button
               type="button"
-              title="H2"
-              onClick={insertHeading2}
+              onClick={() => wrapSize(150)}
+              className="rounded border px-2 py-1 text-sm hover:bg-gray-100"
+            >
+              H1
+            </button>
+            <button
+              type="button"
+              onClick={() => wrapSize(125)}
               className="rounded border px-2 py-1 text-sm hover:bg-gray-100"
             >
               H2
             </button>
             <button
               type="button"
-              title="Link"
+              onClick={() => wrapSize(100)}
+              className="rounded border px-2 py-1 text-sm hover:bg-gray-100"
+            >
+              H3
+            </button>
+            <button
+              type="button"
               onClick={insertLink}
               className="rounded border px-2 py-1 text-sm hover:bg-gray-100"
             >
               🔗
             </button>
           </div>
-          <textarea
-            ref={textareaRef}
-            id="blog-editor"
-            className="h-60 w-full rounded-lg border border-gray-300 p-3 resize-y focus:ring-2 focus:ring-[#47BDFF] outline-none"
-            value={content}
-            onChange={(e) => setContent(e.target.value)}
-            placeholder="Write your blog post in Markdown…"
-            required
+
+          {/* contentEditable */}
+          <div
+            ref={editorRef}
+            contentEditable
+            suppressContentEditableWarning
+            className="h-60 w-full rounded-lg border border-gray-300 p-3 resize-y focus:ring-2 focus:ring-[#47BDFF] outline-none prose prose-a:text-blue-600 prose-a:underline prose-a:hover:text-blue-800"
+            onInput={handleEditorInput}
+            onBlur={handleEditorBlur}
           />
         </div>
 
+        {/* Save */}
         <button
           type="submit"
           className="w-full bg-[#47BDFF] hover:bg-[#3aa8e6] text-white font-semibold py-3 rounded-xl transition disabled:opacity-50"
@@ -228,12 +243,12 @@ export default function AdminPage() {
         >
           {saving === "loading" ? "Saving…" : "Save Post"}
         </button>
-
         {saving === "done" && (
           <p className="text-center text-green-600">Blog saved successfully!</p>
         )}
       </form>
 
+      {/* Preview */}
       <aside className="hidden xl:block w-1/2 border-l border-gray-200 bg-white overflow-auto p-10">
         <h2 className="mb-6 text-2xl font-bold text-[#080c2c]">Preview</h2>
         {imagePreview && (
@@ -247,7 +262,16 @@ export default function AdminPage() {
           {title || "Title preview…"}
         </h3>
         <div className="prose max-w-full">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            rehypePlugins={[rehypeRaw]}
+            skipHtml={false}
+            components={{
+              a: ({ node, ...props }) => (
+                <a {...props} className="text-blue-600 underline hover:text-blue-800" />
+              ),
+            }}
+          >
             {content || "Content preview…"}
           </ReactMarkdown>
         </div>

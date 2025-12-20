@@ -1,0 +1,16 @@
+{
+  "badge": "Our Establishment & Key Milestones",
+  "since": "Since the DPA’s inception",
+  "milestones": {
+    "law": "Law No. 005 enacted",
+    "firstControllers": "First data controllers registered",
+    "campaigns": "Awareness campaigns launched",
+    "partnerships": "Regional partnerships formed"
+  },
+  "referencesTitle": "Legal References & Foundational Documents",
+  "references": {
+    "act": "Data Protection Act – Law No. 005 of 2023",
+    "regulations": "DPA Authority Regulations",
+    "guide": "DPA Implementation Guide"
+  }
+}

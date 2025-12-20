@@ -1,77 +1,94 @@
 {
-  "hero": { "white": "Xuquuqda", "blue": "Muwaadinka" },
-  "subtitle": "Si fiican u fahmo oo u isticmaal xuquuqda xogtaada sida uu qabo Xeer Lr. 005/2023.",
+  "hero": {
+    "title": "Xuquuqda Muwaadiniinta",
+    "slogan": "Xogtaada. Xuquuqdaada. Mas’uuliyaddayada.",
+    "subtitle1": "Waxaan u sheegi﻿naa shakhsiyaadka (data subjects) xuquuqdooda uu sharcigu dhowray sida ku qeexan Xeerka Ilaalinta Xogta Soomaaliya (Sharciga Lr. 005/2023).",
+    "subtitle2": "DPA-du waxay ka go'an tahay in dhammaan muwaadiniintu fahmaan oo ay dhaqangeliyaan xuquuqdooda ku saabsan xogta shakhsiga."
+  },
 
   "rights": [
     {
-      "icon": "Search",
+      "icon": "Eye",
       "title": "Xuquuqda Helitaanka",
-      "desc": "Hel xogtaada shakhsiga ah iyo halka lagu farsameeyo.",
-      "article": "Qodobka 9"
-    },
-    {
-      "icon": "X",
-      "title": "Xuquuqda Diidmada",
-      "desc": "Diid farsamaynta xogta sababo sharci ah.",
-      "article": "Qodobka 9(4)"
-    },
-    {
-      "icon": "Trash2",
-      "title": "Xuquuqda Tirtirka",
-      "desc": "Codso tirtirka xogta xaalado gaar ah.",
-      "article": "Qodobka 9(9)"
-    },
-    {
-      "icon": "ArrowUpRight",
-      "title": "Xuquuqda Wareejinta Xogta",
-      "desc": "Hel ama wareeji xogtaada hab habaysan.",
-      "article": "Qodobka 9(6)"
+      "desc": "Waxaad xaq u leedahay in laguu xaqiijiyo in xogtaada la farsameeyo iyo inaad hesho nuqul ka mid ah xogtaas.",
+      "article": "Aasaaska Sharciga: Qodobka 9, Sharciga 005/2023"
     },
     {
       "icon": "Edit3",
-      "title": "Xuquuqda Xaddidaadda Farsamaynta",
-      "desc": "Hakinta ku‑meel‑gaarka ah ee isticmaalka xogta khilaafyada.",
-      "article": "Qodobka 9(5)"
+      "title": "Xuquuqda Saxidda",
+      "desc": "Haddii xogtaada ay khaldan tahay ama dhammaystirnayn, waxaad codsan kartaa in la saxo.",
+      "article": "Aasaaska Sharciga: Qodobka 9(2), Sharciga 005/2023"
     },
     {
-      "icon": "UserCheck",
-      "title": "Ka‑hortagga Go'aan‑qaadasho Si toos ah",
-      "desc": "Ka ilaali go'aano aan bini'aadam ka qayb‑qaadan.",
-      "article": "Qodobka 9(7)"
+      "icon": "Trash2",
+      "title": "Xuquuqda Tirtirka (in la illoobo)",
+      "desc": "Waxaad codsan kartaa in xogtaada la tirtiro xaalado gaar ah (tusaale, marka aysan muhiim ahayn).",
+      "article": "Aasaaska Sharciga: Qodobka 9(3), Sharciga 005/2023"
     },
     {
-      "icon": "ArrowUpRightCircle",
-      "title": "Xuquuqda Wareejinta Xogta",
-      "desc": "Hel ama wareeji xogtaada hab habaysan.",
-      "article": "Qodobka 9(6)"
+      "icon": "Slash",
+      "title": "Xuquuqda Diidmada",
+      "desc": "Waxaad ka diidi kartaa habaynta xogtaada sabab la xiriirta dan guud ama dan sharciyeed.",
+      "article": "Aasaaska Sharciga: Qodobka 9(4), Sharciga 005/2023"
     },
     {
-      "icon": "FileText",
-      "title": "Xuquuqda Cabashada",
-      "desc": "U gudbi cabashada DPA haddii lagu xad‑gudbo.",
-      "article": "Qodobka 26"
+      "icon": "Lock",
+      "title": "Xuquuqda Xaddidaadda Habaynta",
+      "desc": "Waxaad codsan kartaa in si ku-meel-gaar ah loo hakiyo habaynta xogtaada inta la xallinayo khilaafaadka saxnaanta ama sharcinimada.",
+      "article": "Aasaaska Sharciga: Qodobka 9(5), Sharciga 005/2023"
+    },
+    {
+      "icon": "ArrowsRightLeft",
+      "title": "Xuquuqda La-guurinta Xogta",
+      "desc": "Waxaad heli kartaa xogtaada iyadoo qaab dijitaal ah oo caadi ah ama waxaad codsan kartaa in lagu wareejiyo adeeg bixiye kale.",
+      "article": "Aasaaska Sharciga: Qodobka 9(6), Sharciga 005/2023"
+    },
+    {
+      "icon": "Cpu",
+      "title": "Xuquuqda Ka-hortagga Go’aannada Tooska ah",
+      "desc": "Waxaad ka ilaalisan tahay go’aammo si buuxda otomaatig u ah (oo ay ku jirto barnaamij falanqayn) oo aan qof bini-aadam ahi ku lug lahayn.",
+      "article": "Aasaaska Sharciga: Qodobka 9(7), Sharciga 005/2023"
+    },
+    {
+      "icon": "AlertCircle",
+      "title": "Xuquuqda Cabasho Gudbinta",
+      "desc": "Haddii xuquuqdaada ilaalinta xogta la jebiyo, waxaad si toos ah ugu dacwoon kartaa DPA.",
+      "article": "Aasaaska Sharciga: Qodobka 26, Sharciga 005/2023"
     }
   ],
 
-  "tipsTitle": "Ilaali Asturnaantaada – Talooyin Maalinle ah",
+  "complaintBtn": "Gudbi Cabasho",
+
+  "tipsTitle": "Ilaali Asturnaantaada – Talooyin Maalinle",
   "tips": [
-    "Ka fogow isku‑xirka phishing",
-    "Ha wadaagin OTP‑gaaga",
+    "Ka fogow xiriiriyeyaasha phishing-ka",
+    "Ha wadaagin OTP-gaaga",
     "Ka ilaali aqoonsigaaga (ID)",
-    "Isticmaal 2‑FA",
+    "Isticmaal xaqiijin laba-tallaabo ah",
     "Ka digtoonow wicitaannada khiyaanada ah"
   ],
 
-  "guidesTitle": "Hagayaasha Waxtarka Leh",
-  "publicGuide": "Akhriso – Hagaha Ilaalinta Xogta ee Dadweynaha",
-  "orgGuide": "Akhriso – Hagaha U‑hogaansanaanta Hay'adaha ",
-
-  "assistanceTitle": "Ma u baahan tahay caawimaad xuquuqdaada?",
-  "formsTitle": "Booqo bogga Khayraadka & Foomamka:",
+  "assistanceTitle": "Ma u baahan tahay caawimaad si aad xuquuqdaada u dhaqangeliso?",
+  "formsTitle": "Booqo bogga Resources & Forms:",
   "forms": [
     "Foomka Codsiga Xuquuqda Xogta",
     "Foomka Cabashada"
   ],
-  "complaintBtn": "Gudbi Cabasho",
-  "resourcesLink": "Booqo Khayraadka & Foomamka"
+
+  "resourcesLink": "Booqo Resources & Forms",
+
+  "moreCards": [
+    {
+      "icon": "Briefcase",
+      "title": "Xuquuqda Hay’adaha",
+      "desc": "Baro xuquuqda iyo waajibaadka hay’adaha ee Xeerka Ilaalinta Xogta.",
+      "link": "/fto"
+    },
+    {
+      "icon": "Users",
+      "title": "Xuquuqda Dadweynaha",
+      "desc": "Fahmo sida aad xogtaada shakhsiyeed u ilaalin karto adiga oo bulshada ka tirsan.",
+      "link": "/ftp"
+    }
+  ]
 }

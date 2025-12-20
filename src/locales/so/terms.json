@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "heading": "Shuruudaha & Xaaladaha",
+    "subtitle": "Xeerarka, xuquuqda, iyo waajibaadka isticmaalka website-ka rasmiga ah ee Hayʼadda Ilaalinta Xogta Soomaaliya (DPA)."
+  },
+
+  "tocTitle": "Tusmada",
+  "toc": {
+    "ownership": "1. Milkiyad & Xuquuqda Daabacaadda",
+    "acceptance": "2. Aqbalidda Shuruudaha",
+    "definitions": "3. Qeexitaanno",
+    "externalLinks": "4. Xiriiriyeyaasha Dibadda",
+    "liability": "5. Xaddidaadda Mas’uuliyadda",
+    "responsibilities": "6. Waajibaadka Isticmaalaha",
+    "termination": "7. Joojinta Gelitaanka",
+    "law": "8. Sharciga Lagu Hagayo",
+    "changes": "9. Isbeddelka Shuruudaha",
+    "contact": "Nala Soo Xiriir"
+  },
+
+  "intro": [
+    "Dukumiintigan waa diiwaan elektaroonik ah oo ay soo saartay nidaam kombuyuutar, mana u baahna saxiixyo gacmeed ama dijitaal ah. Waxa lagu daabacay si waafaqsan shuruucda iyo mabaadi’da khuseeya diiwaannada elektarooniga ah, oo ay ku jiraan qodobada khuseeya ee nidaamyada Soomaaliya ee macluumaadka dijitaalka ah iyo ilaalinta xogta.",
+    "Dukumiintigan Shuruudaha & Xaaladaha wuxuu qeexayaa xeerarka, xuquuqda, iyo waajibaadka lagu hagayo gelitaanka iyo isticmaalka website-ka rasmiga ah ee Hay’adda Ilaalinta Xogta Soomaaliya (DPA), oo laga heli karo https://dpa.gov.so (loogu yeerayo “Website-ka”)."
+  ],
+
+  "ownership": "Haddii aan si kale loo sheegin, dhammaan waxyaabaha ku jira Website-kan—sida qoraallada, sawirrada, calaamadaha, astaamaha, xogta la soo dejisan karo, iyo software-ka—waxay yihiin hantida Hay’adda Ilaalinta Xogta Soomaaliya. Wax kasta waxaa daboolaya sharciyada xuquuq-daabacaada iyo lahaanshaha garaadka. Ma nuqulan kartid, ma faafin kartid, ama ma qaybin kartid wax ka mid ah maaddada Website-kan adoon helin ogolaansho qoraal ah oo hore oo ka timaada DPA, marka laga reebo xigashooyin kooban oo ujeeddo waxbarasho ama saxaafadeed, oo u oggolaanaya mabda’a “isticmaalka caddaaladda.”",
+
+  "acceptance": "Adigoo galaya oo isticmaalaya Website-kan, waxaad caddeyneysaa inaad akhriday, fahantay, oo aad ku heshiiyeen Shuruudahan & Xaaladahaan. Haddii aadan ku raacsaneyn qayb ka mid ah shuruudahan, fadlan jooji isticmaalka Website-ka hadda.",
+  
+  "definitions": [
+    "“Isticmaale,” “Adiga,” ama “Aad” macnaheedu waa qof kasta oo galaa ama isticmaala Website-ka.",
+    "“DPA,” “Hay’adda,” “Annaga,” ama “Iyaga” macnaheedu waa Hay’adda Ilaalinta Xogta Soomaaliya.",
+    "“Qayb” ama “Qaybo” waxay tixraacaan Isticmaalaha iyo DPA labadaba, ama midkood kaligiis, sida ku habboon.",
+    "“Xog Shakhsiyeed” waxaa loola jeedaa xog kasta oo qeexaysa qof la garan karo—sida ku cad Xeerka Ilaalinta Xogta Soomaaliya."
+  ],
+
+  "externalLinks": "Website-kani wuxuu yeelan karaa xiriiriyeyaal u gudba mareegooyin ama barnaamijyo saddexaad. Xiriiriyeyaashani waa kuwo macluumaad oo keliya ah. DPA ma xakamayso mana ansixiso mareegooyinkaas, kamana masuul aha saxnimada ama hab-dhaqankooda xogta. Isticmaalka xiriiriyeyaal saddexaad waa khatar adiga kugu xiran.",
+
+  "liability": "Ilaa heerka ugu badan ee uu oggol yahay sharciga, DPA mas’uul kama noqon doonto wax khasaare toos ah, dadban, ganaaxeed, ama mid kasta oo ka dhasha isticmaalka ama gelitaanka Website-kan, oo ay ku jiraan khaladaad, dayac, hakad, ama lumin xog.",
+
+  "responsibilities": [
+    "Isticmaal Website-ka si waafaqsan shuruucda iyo xeerarka khuseeya.",
+    "Ha isku dayin inaad si aan la oggolayn ku gasho qayb ka mid ah Website-ka, server-kiisa, ama shabakaddiisa.",
+    "Ha soo gelin fayrasyo, malware, ama kood waxyeelo leh.",
+    "Ha carqaladayn hawlgalka Website-ka ama gelitaanka isticmaaleyaasha kale.",
+    "Ha adeegsan nidaamyo otomaatik ah (sida bots ama scrapers) si aad xog badan uga gurato Website-ka."
+  ],
+
+  "termination": "Waxaan xaq u leenahay—annaga oo aan ogeysiis bixin—in aan joojino ama hakino gelitaankaaga Website-ka haddii aan u aragno inaad ku xad-gudubtay Shuruudahan, sharciga, ama danaha DPA.",
+
+  "law": "Shuruudahan & Xaaladahaan waxaa xukuuma shuruucda Jamhuuriyadda Federaalka Soomaaliya, khilaaf kasta wuxuu hoos imanayaa maxkamadaha awoodda leh ee Soomaaliya.",
+
+  "changes": "DPA waxa ay xaq u leedahay inay cusboonaysiiso ama dib u eegto Shuruudahan & Xaaladahaan wakhti kasta. Isbeddelladu waxay dhaqan galayaan marka lagu daabaco boggan. Waajibkaaga ayaa ah inaad si joogto ah u eegto boggan.",
+
+  "contact": {
+    "email": "info@dpa.gov.so",
+    "url": "https://dpa.gov.so"
+  }
+}

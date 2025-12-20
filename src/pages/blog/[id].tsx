@@ -1,9 +1,16 @@
+// pages/blog/[id].tsx
+
+"use client";
+
 import fs from "fs";
 import path from "path";
 import Head from "next/head";
 import Link from "next/link";
 import { GetServerSideProps } from "next";
 import { useRouter } from "next/router";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 
 type Blog = {
   title: string;
@@ -29,7 +36,11 @@ export default function BlogPage({ blog }: BlogPageProps) {
       {blog.coverImage && (
         <div className="relative h-60 sm:h-96 w-full">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={blog.coverImage} alt="" className="object-cover w-full h-full" />
+          <img
+            src={blog.coverImage}
+            alt=""
+            className="object-cover w-full h-full"
+          />
           <div className="absolute inset-0 bg-black/40" />
           <h1 className="absolute inset-x-0 bottom-8 px-4 text-center text-3xl sm:text-5xl font-extrabold text-white drop-shadow-lg">
             {blog.title}
@@ -57,10 +68,19 @@ export default function BlogPage({ blog }: BlogPageProps) {
           </div>
         </aside>
 
-        <div className="prose prose-lg max-w-none">
-          {blog.content.split("\n\n").map((p, i) => (
-            <p key={i}>{p}</p>
-          ))}
+        <div className="prose prose-lg max-w-none prose-a:text-blue-600 prose-a:underline prose-a:hover:text-blue-800">
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            rehypePlugins={[rehypeRaw]}
+            skipHtml={false}
+            components={{
+              a: ({ node, ...props }) => (
+                <a {...props} className="text-blue-600 underline hover:text-blue-800" />
+              ),
+            }}
+          >
+            {blog.content}
+          </ReactMarkdown>
         </div>
       </article>
 

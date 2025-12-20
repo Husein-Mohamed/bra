@@ -2,11 +2,14 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 
 type Blog = {
   title: string;
   content: string;
-  coverImage?: string;  // ← NEW  (may be "")
+  coverImage?: string;
   date: string;
 };
 
@@ -49,7 +52,7 @@ export default function Blogs() {
               key={i}
               className="flex flex-col bg-[#f6fafd] border border-gray-300 rounded-2xl shadow p-0 overflow-hidden"
             >
-              {/* thumbnail (if present) */}
+              {/* thumbnail */}
               {b.coverImage && (
                 <img
                   src={b.coverImage}
@@ -66,7 +69,17 @@ export default function Blogs() {
                 <time className="text-sm text-gray-500 mb-4">
                   {new Date(b.date).toLocaleDateString()}
                 </time>
-                <p className="text-gray-800 mb-6 line-clamp-3">{b.content}</p>
+
+                {/* rendered Markdown preview */}
+                <div className="prose prose-a:text-blue-600 prose-a:underline prose-a:hover:text-blue-800 mb-6 line-clamp-3">
+                  <ReactMarkdown
+                    remarkPlugins={[remarkGfm]}
+                    rehypePlugins={[rehypeRaw]}
+                    skipHtml={false}
+                  >
+                    {b.content}
+                  </ReactMarkdown>
+                </div>
 
                 {/* read-more */}
                 <Link

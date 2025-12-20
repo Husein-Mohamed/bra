@@ -8,23 +8,24 @@
     {
       "title": "Mission",
       "subtitle": "Our Mission",
-      "content": "The Data Protection Authority (DPA) is dedicated to fostering a culture of accountability and trust by ensuring that all businesses, private entities, and public institutions govern and process personal data responsibly, transparently, and in full compliance with legal and ethical standards. Our mission extends to empowering individuals with their data rights while advancing innovation in privacy protection."
+      "content": "To safeguard personal data, uphold individuals' privacy rights, and promote a responsible data culture across public and private sectors."
     },
     {
       "title": "Vision",
       "subtitle": "Our Vision",
-      "content": "To be the trusted guardian of data privacy, ensuring the transparency, integrity, and security of Somalis’ personal information in an increasingly digital world."
+      "content": "To be a trusted and effective privacy regulator that strengthens digital confidence, ensures compliance, and supports Somalia’s digital development."
     },
     {
       "title": "Values",
       "subtitle": "Our Core Values",
       "content": [
-        "Transparency and Accountability",
-        "Innovation and Adaptability",
-        "Integrity and Confidentiality",
-        "Data Governance Ethics"
+        "Integrity: We act honestly and ethically in all our work.",
+        "Transparency: We promote openness in decisions and communication.",
+        "Accountability: We uphold our responsibilities and expect others to do the same.",
+        "Innovation: We embrace digital advancement and efficient service delivery.",
+        "Public Trust: We serve with dedication to protect citizen rights."
       ]
     }
   ],
-  "description": "The Somalia Data Protection Authority (DPA) is the national independent authority responsible for protecting personal privacy and monitoring that all organizations are compliant with the Data Protection Act (No.005 which was passed in March 2023). The role of DPA is to implement the Data Protection Act, as well as providing services that facilitate protection of personal data, such as awareness campaigns, registration, trainings, and crafting regulations specific to storing and processing data. All citizens have the right to the privacy of their personal data, and that is a fundamental right. The Data Protection Authority has been entrusted by the Federal Government of Somalia to safeguard that right, and is responsible for ensuring compliance with the Data Protection Act. The Act gives citizens autonomy to decide how their data is processed, used and who it is shared with."
+  "description": "The Somalia Data Protection Authority (DPA) is the independent guardian of Somalis’ privacy, tasked with enforcing the 2023 Data Protection Act. It guides public and private organizations to handle personal data responsibly through awareness campaigns, registrations, trainings, and bespoke regulations. By empowering individuals with clear rights and control, DPA ensures transparency, trust, and security across the nation."
 }

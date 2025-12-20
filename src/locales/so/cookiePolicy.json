@@ -1,52 +1,64 @@
 {
   "hero": {
-    "heading": "Siyaasadda Kukiyada",
-    "subtitle": "Sida Hay’adda Ilaalinta Xogta Soomaaliya (DPA) ay u isticmaasho kukiyada bogga dpa.gov.so"
+    "heading": "Xeerka Kukiyada",
+    "subtitle": "Xeerkan Kukiyada wuxuu sharxayaa sida dpa.gov.so (\"anaga\", \"naga\" ama \"adeenay\") u isticmaasho kukiyada iyo teknooloojiyada la midka ah markaad booqato boggayaga."
   },
+
+  "contents": "Tusmada",
+
   "toc": {
-    "what": "1. Maxay Kukiyadu Yihiin?",
-    "why": "2. Sababta aan u Isticmaalno Kukiyada",
-    "types": "3. Noocyada & Mudada Kaydinta",
-    "legal": "4. Saldhigga Sharciga",
+    "what": "1. Waa Maxay Kukiyada?",
+    "why": "2. Sababta Aan U Isticmaalno Kukiyada",
+    "types": "3. Noocyada & Mudada Xafididda",
+    "legal": "4. Aasaaska Sharciga",
     "third": "5. Bixiyeyaasha Saddexaad",
-    "choices": "6. Doorashooyinka Kukiyadaada",
-    "review": "7. Dib-u-Eegista Siyaasadda & Kormeerka",
-    "contact": "8. Nala Soo Xariir"
+    "choices": "6. Xulashada Kukiyada",
+    "review": "7. Dib-u-eegista Siyaasadda & Kormeerka",
+    "contact": "8. Nala Soo Xidhiidh"
   },
-  "what": "Kukiyadu waa faylal yar yar oo xog ah oo lagu kaydiyo qalabkaaga markaad booqato bogga internetka. Waxay ka caawiyaan bogagga inay si habsami leh u shaqeeyaan, khibradda isticmaalaha u wanaajiyaan, iyo inay taageeraan falanqaynta.",
+
+  "what": "Kukiyadu waa faylal xog yar yar oo lagu kaydiyo qalabkaaga (kombuyuutar, tablet, ama taleefan casri ah) markaad booqato bog internet. Waxay ka caawiyaan boggaga inay <1>si hufan u shaqeeyaan</1>, wanaajiyaan <3>khibrada isticmaalaha</3>, isla markaana taageeraan falanqaynta iyo wacyigelinta.",
+
   "why": {
     "list": [
-      "Hubinta shaqeynta aasaasiga ah & ammaanka (kukiyada muhiimka ah)",
-      "Xasuusashada qalabkaaga & doorbidkaaga",
-      "Hagaajinta waxqabadka bogga & adeegsiga",
-      "Falanqaynta qaababka taraafikada & dhaqanka isticmaalayaasha",
-      "Taageeridda faafinta macluumaadka & warbixin bixinta"
+      "Hubi shaqeynta aasaasiga ah iyo amniga bogga (kukiyada muhiimka ah)",
+      "Aqoonsi qalabkaaga iyo doorbidyadaada",
+      "Xooji waxqabadka iyo fududaanta bogga",
+      "Falanqee dhaqanka isticmaalaha iyo qaababka taraafikada",
+      "Taageer baahinta, warbixinta, iyo ka-qaybgalka bulshada"
     ],
-    "note": "Kukiyadu qaarkood waxay farsameyn karaan xog shakhsiyeed (tusaale, cinwaanka IP-ga) iyadoo la raacayo Siyaasadda Asturnaanta."
+    "note": "Kukiyadu qaar ayaa ururin kara xog shakhsi (tusaale, cinwaanka IP ama nooca biraawsarka), kuwaas oo hoos yimaada <0>Siyaasadda Asturnaanta</0>."
   },
+
   "types": {
-    "header": ["Nooca Kukiyada", "Ujeeddo", "Mudada Kaydinta"],
+    "header": ["Nooca Kukiyada", "Ujeeddo", "Mudada Xafididda"],
     "rows": [
-      ["Muhiim", "Shaqeynta aasaasiga ah & ammaanka", "Kalfadhiga / ≤ 30 maalmood"],
-      ["Adeegeed", "Xasuusashada doorbidka (tusaale, luqadda)", "≤ 6 bilood"],
-      ["Falanqayn", "Hagaajinta waxqabadka & adeegyada", "≤ 13 bilood"],
-      ["Saddexaad", "Warbaahinta lagu dhex geliyay / adeegyada dibadda", "Sida ku xusan siyaasadda bixiyaha"]
+      ["Kukiyada Muhiimka ah", "Lagama maarmaan u ah shaqeynta aasaasiga ah iyo amniga bogga.", "Kalfadhi kaliya ama ≤ 30 maalmood"],
+      ["Kukiyada Hawlgalka", "Xasuusi doorbidyada (tusaale, luuqad, dejimaha muuqaalka).", "≤ 6 bilood"],
+      ["Kukiyada Falanqaynta", "Falanqee isticmaalka si loo hagaajiyo adeegyada.", "≤ 13 bilood"],
+      ["Kukiyada Saddexaad", "Ay dejisaan adeegyo dibadda ah (tusaale, warbaahin lagu dhex-galiyay).", "Sida ku cad shuruudaha bixiyaha"]
     ]
   },
+
   "legal": [
-    "Kukiyada muhiimka ah: waxaa lagu howlgeliyaa dano sharci ah si loo hubiyo bog ammaan ah.",
-    "Kukiyada adeegsiga & falanqaynta: waxaa la isticmaalaa kaliya adiga oo si cad u ogolaaday banner-ka."
+    "Kukiyada muhiimka ah waxaa loo adeegsadaa iyadoo lagu saleeyo **dan sax ah** si bogga uu u ahaado mid ammaan ah uuna si habsami leh u shaqeeyo.",
+    "Kukiyada falanqaynta iyo kuwa hawlgalka waxaa la adeegsadaa kaliya adigoo bixiyey **ogolaansho cad** oo lagu soo ururiyey banner-ka Dejinta Kukiyada.",
+    "Waad joojin kartaa ama waad beddeli kartaa ogolaanshahaaga wakhti kasta."
   ],
-  "third": "Waqtigan waxaan la shaqeynaa **Google Analytics** si aan u falanqeyno taraafikada (*Google Siyaasadda Asturnaanta*). Bixiyeyaasha cusub waxay lagu dari doonaa cusbooneysiinta mustaqbalka ee siyaasaddan.",
+
+  "third": "Waxaan la shaqeynaa bixiyeyaal saddexaad si aan u wanaajinno khibrada isticmaalaha. Kuwaas waxaa ka mid ah: **Google Analytics** (falanqaynta taraafikada iyo kormeerka waxqabadka – eeg **Siyaasadda Asturnaanta Google**). Bixiyeyaal kale ayaa lagu dari karaa noocyada dambe ee siyaasaddan marka aalado cusub la hirgeliyo.",
+
   "choices": {
     "list": [
-      "Ogolow dhammaan kukiyada",
-      "Ogolow kaliya kukiyada lagama maarmaanka ah",
-      "Habee doorbidka qayb kasta"
+      "Oggolow Dhammaan Kukiyada",
+      "Oggolow Kukiyada Muhiimka ah Kaliya",
+      "Habee doorbidyada qayb kasta"
     ],
-    "note": "Waxaad doorbidka u habeyn kartaa wakhti kasta adigoo gujinaya “Dejinta Kukiyada” ee hooska bogga."
+    "note": "Waxaad cusboonaysiin kartaa doorbidyadaada wakhti kasta adigoo gujinaya link-ga “Dejinta Kukiyada” ee hoose ee bogga."
   },
-  "review": "Siyaasaddan waxaan dib-u-eegnaa sannad kasta ama markasta oo scripts ama adeegyo cusub lagu daro, annagoo hubinayna hufnaan iyo isla xisaabtan.",
+
+  "review": "Waxaan ka go'an tahay hufnaan iyo isla xisaabtan. Xeerkan Kukiyada waxaa dib loo eegaa sanad kasta ama marka scripts saddexaad, astaamo, ama adeegyo cusub lagu daro bogga.",
+
   "contact": {
     "email": "info@dpa.gov.so",
     "url": "https://dpa.gov.so"

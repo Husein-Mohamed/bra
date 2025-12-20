@@ -1,14 +1,25 @@
+// src/components/WhatWeDo.tsx
 "use client";
 
+import Image from "next/image";
+import Link from "next/link";
 import { useTranslation } from "react-i18next";
-import { Badge } from "./ui/badge";
+import { Badge } from "@/components/ui/badge";
 
+/* ---------- Brand colours ---------- */
+const BRAND = {
+  navy:   "#080c2c",
+  blue:   "#47BDFF",
+  indigo: "#003366",
+};
+
+/* ---------- Post meta ---------- */
 const posts = [
   {
     id: "post-1",
     titleKey: "posts.post1.title",
     summaryKey: "posts.post1.summary",
-    image: "/images/Enforcement and Compliance-01.png"
+    image: "/images/Regulation-01.png",
   },
   {
     id: "post-2",
@@ -20,55 +31,67 @@ const posts = [
     id: "post-3",
     titleKey: "posts.post3.title",
     summaryKey: "posts.post3.summary",
-    image: "/images/Regulation-01.png",
+    image: "/images/Enforcement and Compliance-01.png",
   },
 ];
 
-function WhoWeAre() {
-  const { t } = useTranslation("whoWeAre"); // Use namespace "whoWeAre"
+export default function WhatWeDo() {
+  const { t } = useTranslation("whoWeAre");
 
   return (
-    <section className="mil-Bg w-full py-20 lg:py-20">
-      <div className="flex flex-col gap-16 lg:px-16">
-        <div className="flex flex-col space-y-4 p-8">
-          <div>
-            <Badge variant="outline" className="text-zinc-700 font-medium">
-              // {t("badge")}
-            </Badge>
-          </div>
-          <h2 className="mb-3 text-pretty text-3xl font-semibold md:mb-4 md:text-4xl lg:mb-6 lg:max-w-3xl lg:text-5xl">
+    <section
+      className="w-full py-20 lg:py-24"
+      style={{ backgroundColor: BRAND.navy }}          /* deep-navy backdrop */
+    >
+      <div className="mx-auto max-w-7xl px-4 lg:px-8">
+        {/* ---------- Header ---------- */}
+        <header className="mb-16 flex flex-col gap-4 text-center text-white">
+          <Badge variant="outline" className="mx-auto border-white text-white">
+            {t("badge")}
+          </Badge>
+
+          <h2 className="text-3xl font-semibold md:text-4xl lg:text-5xl">
             {t("mainTitle")}
           </h2>
-        </div>
+        </header>
 
-        <div className="grid grid-cols-1 lg:grid-cols-3 lg:gap-8 gap-6 p-8">
+        {/* ---------- Card grid ---------- */}
+        <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
           {posts.map((post) => (
-            <a
+            <Link
               key={post.id}
-              className="flex flex-col overflow-clip rounded-xl border border-gray-300"
+              href="#"
+              className="group flex flex-col overflow-hidden rounded-2xl border border-white/10 bg-white/5 backdrop-blur transition hover:-translate-y-1 hover:shadow-xl"
             >
-              <div>
-                <img
+              <div className="relative h-48 w-full sm:h-56 lg:h-48">
+                <Image
                   src={post.image}
                   alt={t(post.titleKey)}
-                  className="aspect-[16/9] h-full w-full object-cover object-center"
+                  fill
+                  sizes="(max-width: 1024px) 100vw, 33vw"
+                  className="object-cover object-center transition group-hover:scale-105"
+                  priority
                 />
+                {/* subtle overlay for readability */}
+                <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
               </div>
-              <div className="px-6 py-8 md:px-8 md:py-10 lg:px-10 lg:py-12">
-                <h3 className="mb-3 text-lg font-semibold md:mb-4 md:text-xl lg:mb-6">
-                  {t(post.titleKey)}
-                </h3>
-                <div className="mil-divider-sm mt-[10px] mb-[30px]" />
-                <p className="mb-3 text-muted-foreground md:mb-4 lg:mb-6">
+
+              <div className="flex flex-1 flex-col gap-6 px-6 py-8 text-white">
+                <div>
+                  <h3 className="text-xl font-semibold group-hover:text-[color:var(--brand-blue)]">
+                    {t(post.titleKey)}
+                  </h3>
+                  <div className="mt-3 h-0.5 w-16 rounded-full bg-[color:var(--brand-blue)] opacity-0 transition group-hover:opacity-100" />
+                </div>
+
+                <p className="text-sm leading-relaxed text-white/80">
                   {t(post.summaryKey)}
                 </p>
               </div>
-            </a>
+            </Link>
           ))}
         </div>
       </div>
     </section>
   );
 }
-
-export default WhoWeAre;

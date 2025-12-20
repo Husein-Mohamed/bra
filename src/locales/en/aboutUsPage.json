@@ -1,18 +1,18 @@
 {
   "pill": {
-    "text": "// About us",
+    "text": "",
     "href": "#",
     "variant": "default",
     "size": "md"
   },
   "heading": {
-    "title": "Data Protection",
-    "highlight": "Authority of Somalia"
+    "title": "Banadir",
+    "highlight": "Regional Administrtion"
   },
-  "description": "Data Protection Authority of Somalia is the national independent authority responsible for protecting personal privacy and monitoring that all organizations are compliant with the Data Protection Act (No.005 enacted on March 18, 2023).",
+  "description": "The Banadir Regional Administration (BRA) is the governing authority responsible for Mogadishu and its surrounding districts. Established to provide leadership, public services, safety, and development, BRA works across multiple sectors including urban planning, health, security, environment, and community affairs..",
   "disclosure": {
     "mission": {
-      "title": "Mission",
+      "title": "BRA Mission",
       "content": "DPA’s mission is to ensure that all businesses, private entities, and public institutions govern and process personal data in a responsible, transparent and lawful manner."
     },
     "vision": {

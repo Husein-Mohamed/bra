@@ -12,12 +12,17 @@ export default function SecretLogin() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+
     if (
       user === process.env.NEXT_PUBLIC_ADMIN_USER &&
       pass === process.env.NEXT_PUBLIC_ADMIN_PASS
     ) {
-      // mark as logged-in
+      // mark as logged-in in both localStorage and cookie (5h = 18000s)
+      const now = Date.now();
       localStorage.setItem("isAdmin", "true");
+      localStorage.setItem("adminLoginTime", now.toString());
+      document.cookie = `isAdmin=true; Path=/; Max-Age=${5 * 3600};`;
+
       router.push("/news/admin");
     } else {
       setError("Invalid credentials");
@@ -59,6 +64,7 @@ export default function SecretLogin() {
             value={user}
             onChange={(e) => setUser(e.target.value)}
             placeholder="Username"
+            required
           />
         </label>
 
@@ -70,6 +76,7 @@ export default function SecretLogin() {
             value={pass}
             onChange={(e) => setPass(e.target.value)}
             placeholder="••••••••"
+            required
           />
         </label>
 

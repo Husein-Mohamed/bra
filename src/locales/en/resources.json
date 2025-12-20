@@ -1,68 +1,99 @@
 {
   "title": "Resources & Forms",
-  "subtitle": "Access the official tools, templates, and forms from the Somali Data Protection Authority (DPA).",
+  "subtitle": "Access the official tools, templates & forms from the Somali Data Protection Authority (DPA).",
   "downloadBtn": "Download",
-  "registrationLicensing": {
-    "title": "Registration & Licensing Forms"
-  },
-  "authorizationNotification": {
-    "title": "Authorization & Notification Forms"
-  },
-  "incidentsComplaints": {
-    "title": "Incident & Complaint Forms"
-  },
-  "dataRightsAndTools": {
-    "title": "Data Rights & Risk Management Tools"
-  },
-  "guidance": {
-    "title": "Guidance Documents"
-  },
+
+  "registrationLicensing": { "title": "Registration & Licensing Forms" },
+  "incidentsComplaints": { "title": "Incident & Complaint Forms" },
+  "dataRightsAndTools": { "title": "Data Rights & Risk Management Tools" },
+  "guidance": { "title": "Guidance Documents" },
+  "designDefault": { "title": "Data Protection by Design & Default" },
+  "breachNotification": { "title": "Data Breach & Notifications" },
+  "complaintsZcards": { "title": "Complaints & Quick Reference" },
 
   "registrationForm": {
     "title": "Data Controller/Processor Registration Form",
     "desc": "For organizations to register with the DPA.",
     "hint": ""
   },
-
-  "authNotifForm1": {
-    "title": "Prior Authorization Request Form",
-    "desc": "Required before processing high-risk personal data.",
-    "hint": ""
-  },
-
-  "authNotifForm2": {
-    "title": "Cross-Border Data Transfer Application Form",
-    "desc": "To seek DPA approval for international data flows.",
-    "hint": ""
-  },
-
-  "riskTools": {
-    "title": "Record of Processing Activities (ROPA) Template",
-    "desc": "Required log of all personal data processing.",
-    "hint": "Format: XLSX"
-  },
+  "registrationControllerBtn": "Download Controller Form",
+  "registrationProcessorBtn": "Download Processor Form",
 
   "rightsRequestForm": {
     "title": "Data Subject Rights Request Form",
-    "desc": "Used by individuals to access, correct, or delete their data.",
+    "desc": "Individuals can request access, correction, or deletion of their data.",
     "hint": ""
   },
-
   "dpiaTemplate": {
     "title": "DPIA (Data Protection Impact Assessment) Template",
-    "desc": "Tool for identifying and mitigating privacy risks.",
+    "desc": "Identify & mitigate privacy risks.",
+    "hint": ""
+  },
+  "riskTools": {
+    "title": "Record of Processing Activities (ROPA) Template",
+    "desc": "Log of all personal data processing activities.",
+    "hint": "Format: XLSX"
+  },
+  "orgComplianceGuide": {
+    "title": "Compliance Guide for Organizations",
+    "desc": "Checklist & practical tips for legal compliance.",
+    "hint": ""
+  },
+  "publicGuide": {
+    "title": "Data Protection Guide for the Public",
+    "desc": "Understand your privacy rights.",
     "hint": ""
   },
 
-  "orgComplianceGuide": {
-    "title": "Compliance Guide for Organizations",
-    "desc": "Checklist and practical tips for institutional compliance.",
-    "hint": "For Controllers & Processors"
+  "guidanceNoteRegistration": {
+    "title": "Guidance Note on Registration of Data Controllers & Data Processors",
+    "desc": "Step-by-step instructions for organizations on how to register as data controllers or processors with the DPA.",
+    "hint": "PDF • 12 pages"
+  },
+  "dpaGuidance": {
+    "title": "DPA Guidance",
+    "desc": "Official DPA policies, strategic objectives, and operational guidelines for data protection enforcement.",
+    "hint": "PDF • 24 pages"
+  },
+  "adrForDataProtection": {
+    "title": "Alternative Dispute Resolution (ADR) for Data Protection",
+    "desc": "Model framework and templates for mediating and arbitrating data protection disputes outside of court.",
+    "hint": "PDF • 16 pages"
+  },
+  "dpaImplementation": {
+    "title": "DPA Implementation Guide",
+    "desc": "Tools, checklists and case studies to help operationalize DPA regulations across sectors.",
+    "hint": "PDF • 30 pages"
+  },
+  "dataProtectionAct": {
+    "title": "The Data Protection Act (003/2023)",
+    "desc": "Full legislative text of Somalia’s Data Protection Act, including definitions, rights, and enforcement mechanisms.",
+    "hint": "PDF • 48 pages"
   },
 
-  "publicGuide": {
-    "title": "Data Protection Guide for the Public",
-    "desc": "Practical guide to understanding your privacy rights.",
+  "designDefaultDoc": {
+    "title": "Data Protection by Design & Default",
+    "desc": "Core principles and statutory requirements.",
+    "hint": ""
+  },
+  "breachNotificationDoc": {
+    "title": "Data Breach Report & Notification",
+    "desc": "Form for reporting and notifying data breaches.",
+    "hint": ""
+  },
+  "complaintFormDoc": {
+    "title": "Data Subject Complaint Form",
+    "desc": "Submit a complaint about your data rights.",
+    "hint": ""
+  },
+  "zcardSubjects": {
+    "title": "Data-Subjects Rights & Complaints (Z-Card)",
+    "desc": "Quick reference to your rights & procedures.",
+    "hint": ""
+  },
+  "zcardControllers": {
+    "title": "Data-Controllers 360° Compliance (Z-Card)",
+    "desc": "Snapshot of controllers’ obligations.",
     "hint": ""
   }
 }

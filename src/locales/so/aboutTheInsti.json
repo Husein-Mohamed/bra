@@ -1,30 +1,31 @@
 {
-  "badge": "Nagu saabsan Hay’adda",
+  "badge": "Ku Saabsan Hay’adda",
   "heading": {
-    "line1": "Ilaalinta Xogta",
-    "line2": "Hay’adda Soomaaliya"
+    "line1": "Hay’adda Ilaalinta",
+    "line2": "Xogta Soomaaliya"
   },
   "items": [
     {
       "title": "Himilada",
-      "subtitle": "Himiladeena",
-      "content": "Hay’adda Ilaalinta Xogta (DPA) waxay u heellan tahay dhiirrigelinta dhaqan xisaabtan iyo kalsooni annagoo hubinayna in dhammaan ganacsiyada, hay’adaha gaarka loo leeyahay, iyo hay’adaha dowladda ay xogta shaqsiyeed u maamulaan si masuuliyad leh, hufan, oo waafaqsan heerarka sharciga iyo anshaxa. Himiladeennu sidoo kale waxay awood siineysaa shakhsiyaadka xuquuqdooda xogta iyada oo la horumarinayo hal-abuurka ilaalinta asturnaanta."
+      "subtitle": "Himiladeenna",
+      "content": "Inaan ilaalinno xogta shakhsiyeed, difaacno xuquuqda asturnaanta ee shakhsiyaadka, una kobcinno dhaqanka masuuliyadda xogta waaxyaha dadweynaha iyo kuwa gaarka loo leeyahay."
     },
     {
-      "title": "Muuqaalka",
-      "subtitle": "Himiladeena Mustaqbalka",
-      "content": "In aan noqono ilaaliyaha lagu kalsoon yahay ee asturnaanta xogta, annagoo hubinayna hufnaanta, daacadnimada, iyo amniga macluumaadka shaqsiyeed ee Soomaalida dunida dijitaalka ah ee sii kordheysa."
+      "title": "Aragtida",
+      "subtitle": "Aragtideenna",
+      "content": "Inaan noqono hay’ad asturnaanta lagu kalsoon yahay oo wax ku ool ah, oo xoojisa kalsoonida dhijitaalka, xaqiijisa u hoggaansanaanta, isla markaana taageerta horumarinta dhijitaalka ah ee Soomaaliya."
     },
     {
-      "title": "Qiyamka",
-      "subtitle": "Qiyamkeena Aasaasiga ah",
+      "title": "Qiimayaasha",
+      "subtitle": "Qiimayaasheena Muhiimka ah",
       "content": [
-        "Hufnaan iyo Xisaabtan",
-        "Hal-abuurnimo iyo La-qabsasho",
-        "Daacadnimo iyo Qarsoodi",
-        "Anshaxa Maareynta Xogta"
+        "Daacadnimo: Waxaan ku shaqaynaa si daacad ah oo akhlaaq leh dhammaan hawlaheenna.",
+        "Hufnaan: Waxaan dhiirri-gelinnaa furfurnaanta go’aannada iyo isgaarsiinta.",
+        "Mas’uuliyad: Waxaan ka dhabaynnaa waajibaadkeena waxaana ka filaynaa kuwa kale inay sidaas oo kale sameeyaan.",
+        "Hal-abuur: Waxaan ku qaabilnaa horumarinta dhijitaalka iyo adeeg-bixinta hufan.",
+        "Kalsoonida Dadweynaha: Waxaan ugu adeegnaa si heellan si aan u ilaalinno xuquuqda muwaadiniinta."
       ]
     }
   ],
-  "description": "Hay’adda Ilaalinta Xogta ee Soomaaliya (DPA) waa hay’ad madax-bannaan oo heer qaran ah, mas’uul ka ah ilaalinta asturnaanta xogta shaqsiyeed iyo kormeerka in dhammaan ururradu u hoggaansamaan Xeerka Ilaalinta Xogta Dadweynaha (Lr.005 ee la ansixiyay Maarso 2023). Doorka DPA waa fulinta Xeerka Ilaalinta Xogta iyo bixinta adeegyo ka caawiya ilaalinta xogta, sida wacyigelin, diiwaangelin, tababaro, iyo dejinta xeerar ku saabsan kaydinta iyo farsamaynta xogta. Dhammaan muwaadiniintu waxay xaq u leeyihiin asturnaanta xogtooda, taasoo ah xaq aasaasi ah. Hay’adda Ilaalinta Xogta waxaa Dowladda Federaalka Soomaaliya siisay masuuliyadda ilaalinta xaqaas, waxayna mas’uul ka tahay hubinta waafaqsanaanta Xeerka Ilaalinta Xogta. Xeerku waxa uu muwaadiniinta siinayaa xorriyad ay ku go’aansadaan sida xogtooda loo farsameeyo, loo isticmaalo, iyo cidda lala wadaago."
+  "description": "Hay’adda Ilaalinta Xogta Soomaaliya (DPA) waa ilaaliyaha madaxbannaan ee asturnaanta muwaadiniinta Soomaaliyeed, waxaana loo xil-saaray fulinta Xeerka Ilaalinta Xogta 2023. Waxay hagtaa hay’adaha dadweynaha iyo kuwa gaarka loo leeyahay si ay si masuul ah u maareeyaan xogta shakhsiyeed iyadoo loo marayo wacyigelin, diiwaangelin, tababarro, iyo xeerar gaar ah. Iyadoo awood-siineysa shakhsiyaadka xuquuq cad iyo kantarool, DPA waxay xaqiijisaa hufnaan, kalsooni, iyo amni guud ahaan dalka."
 }

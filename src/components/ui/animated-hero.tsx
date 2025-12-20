@@ -10,24 +10,24 @@ function AnimatedHero() {
   const languages = useMemo(
     () => [
       {
-        lines: ["Your Data", "Your Rights"],
-        subtitle: "Our Responsibility",
+        lines: ["NABBAD", "NADAAFAD"],
+        subtitle: "CAASIMADDA SOOMAALIYA",
         description:
-          "Safeguarding your privacy with integrity, empowering you to take control of your personal information, and ensuring it is protected every step of the way.",
+          "Ku soo Dhowow Caasimadda dalka Soomaaliya.",
       },
       {
-        lines: ["Xogtaada", "Xuquuqdaada"],
-        subtitle: "Mas'uuliyadeena",
+        lines: ["Waan Dhismeynaa", "Waan dhaqaaqeynaa"],
+        subtitle: "MAGAALO MADAXDA DALKA",
         description:
-          "Ilaalinta asturnaantaada si daacad ah, kugu xoojinaysa inaad maamusho macluumaadkaaga shakhsiyeed, iyo hubinta in si kasta loo ilaaliyo.",
+          " inaad maamusho macluumaadkaaga shakhsiyeed, iyo hubinta in si kasta loo ilaaliyo.",
       },
-       //To disable Arabic, just comment out this block:
-      {
-        lines: ["بياناتك", "حقوقك"],
-        subtitle: "مسؤوليتنا",
-        description:
-          "حماية خصوصيتك بنزاهة، وتمكينك من التحكم في معلوماتك الشخصية، وضمان حمايتها في كل خطوة.",
-      },
+      //  //To disable Arabic, just comment out this block:
+      // {
+      //   lines: ["بياناتك", "حقوقك"],
+      //   subtitle: "مسؤوليتنا",
+      //   description:
+      //     "حماية خصوصيتك بنزاهة، وتمكينك من التحكم في معلوماتك الشخصية، وضمان حمايتها في كل خطوة.",
+      // },
       
     ],
     []
@@ -80,7 +80,7 @@ function AnimatedHero() {
                 </motion.span>
               ))}
             </span>
-            <span className="block mt-2 font-semibold text-[#47BDFF]">
+            <span className="block mt-2 font-semibold text-red-700 text-extra-bold">
               {subtitle}
             </span>
           </h1>

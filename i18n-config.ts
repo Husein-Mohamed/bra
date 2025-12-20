@@ -92,6 +92,9 @@ import soDataRights from "@/locales/so/dataRights.json";
 
 import enEGovernance from "@/locales/en/eGovernance.json";
 import soEGovernance from "@/locales/so/eGovernance.json";
+// NEW ─────────────────────────────────────────────────────────
+import enTerms from "@/locales/en/terms.json";
+import soTerms from "@/locales/so/terms.json";
 
 import enDataCollectionHealth from "@/locales/en/dataCollectionHealth.json";
 import soDataCollectionHealth from "@/locales/so/dataCollectionHealth.json";
@@ -101,7 +104,8 @@ import soLawfulProcessing from "@/locales/so/lawfulProcessing.json";
 
 import enTelecomDataProtection from "@/locales/en/telecomDataProtection.json";
 import soTelecomDataProtection from "@/locales/so/telecomDataProtection.json";
-
+import enMilestones  from "@/locales/en/milestones.json";
+import soMilestones  from "@/locales/so/milestones.json";
 import enEducationDataProtection from "@/locales/en/educationDataProtection.json";
 import soEducationDataProtection from "@/locales/so/educationDataProtection.json";
 
@@ -122,7 +126,8 @@ import soAboutAi from "@/locales/so/aboutAi.json";
 
 import enLatestNews from "@/locales/en/latestNews.json";
 import soLatestNews from "@/locales/so/latestNews.json";
-
+import enWhy from "@/locales/en/whyDataProtection.json";
+import soWhy from "@/locales/so/whyDataProtection.json";
 import enComplianceChecklist from "@/locales/en/complianceChecklist.json";
 import soComplianceChecklist from "@/locales/so/complianceChecklist.json";
 
@@ -185,6 +190,8 @@ i18n
       "crossBorder",
       "cocRegistration",
       "yourData",
+       "milestones",
+       "whyDataProtection",
       "cookiePolicy",
       "dataBreach",
       "dataTransfer",
@@ -203,6 +210,7 @@ i18n
       "services",
       "aboutAi",
       "latestNews",
+        "terms"  ,
       "footer",
       "partners"
     ],
@@ -265,6 +273,9 @@ i18n.addResourceBundle("so", "accessPortability", soAccessPortability, true, tru
 
 i18n.addResourceBundle("en", "accountabilityObligation", enAccountability, true, true);
 i18n.addResourceBundle("so", "accountabilityObligation", soAccountability, true, true);
+i18n.addResourceBundle("en", "whyDataProtection", enWhy, true, true);
+i18n.addResourceBundle("so", "whyDataProtection", soWhy, true, true);
+
 
 i18n.addResourceBundle("en", "bankingCompliance", enBankingCompliance, true, true);
 i18n.addResourceBundle("so", "bankingCompliance", soBankingCompliance, true, true);
@@ -290,6 +301,11 @@ i18n.addResourceBundle("so", "directMarketing", soDirectMarketing, true, true);
 
 i18n.addResourceBundle("en", "dataProtectionBasics", enDataProtectionBasics, true, true);
 i18n.addResourceBundle("so", "dataProtectionBasics", soDataProtectionBasics, true, true);
+/* …existing addResourceBundle lines … */
+
+// NEW ─────────────────────────────────────────────────────────
+i18n.addResourceBundle("en", "terms", enTerms, true, true);
+i18n.addResourceBundle("so", "terms", soTerms, true, true);
 
 i18n.addResourceBundle("en", "dpiaPrivacy", enDpiaPrivacy, true, true);
 i18n.addResourceBundle("so", "dpiaPrivacy", soDpiaPrivacy, true, true);
@@ -323,7 +339,8 @@ i18n.addResourceBundle("so", "aboutPage", soAboutPage, true, true);
 
 i18n.addResourceBundle("en", "features", enFeatures, true, true);
 i18n.addResourceBundle("so", "features", soFeatures, true, true);
-
+i18n.addResourceBundle("en", "milestones", enMilestones, true, true);
+i18n.addResourceBundle("so", "milestones", soMilestones, true, true); 
 i18n.addResourceBundle("en", "services", enServices, true, true);
 i18n.addResourceBundle("so", "services", soServices, true, true);
 

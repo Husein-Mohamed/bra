@@ -16,10 +16,6 @@ import {
   Share2Off,
   CheckCircle2,
   WifiOff,
-  FileText,
-  UserPlus,
-  AlertTriangle,
-  Mail,
 } from "lucide-react";
 
 const ICONS = {
@@ -35,13 +31,6 @@ const ICONS = {
   Share2Off,
   CheckCircle2,
   WifiOff,
-};
-
-const ACTION_ICONS = {
-  "file-text": FileText,
-  "user-plus": UserPlus,
-  "alert-triangle": AlertTriangle,
-  mail: Mail,
 };
 
 function pickIcon<M extends Record<string, React.ComponentType<any>>>(
@@ -76,33 +65,18 @@ export default function YourData() {
     { returnObjects: true }
   );
 
-  // ---- Take Action cards ----
-  const actionsBlock = t<{
-    badge: string;
-    heading: string;
-    items: Array<{
-      icon: string;
-      label: string;
-      desc: string;
-      link: string;
-    }>;
-    cta: string;
-  }>("actions", { returnObjects: true });
-
-  const { badge: badgeActions, heading: headingActions, items: actions, cta: actionCta } = actionsBlock;
-
   return (
-    <section className="bg-white dark:bg-[#080C2C] text-[#010B2B] dark:text-gray-200">
+    <section className="bg-white bg-[#080C2C] text-[#010B2B] dark:text-gray-200">
 
       {/* Hero */}
-      <div className="bg-[#080c2c] text-white py-16 text-center">
-        <span className="block text-sm uppercase opacity-80">{badgeHero}</span>
+      <div className="bg-red-900 text-white py-16 text-center">
+        <span className="block text-sm uppercase font-bold opacity-80">{badgeHero}</span>
         <h2 className="mt-2 text-3xl md:text-4xl font-extrabold">{headingHero}</h2>
         <p className="mt-4 text-lg opacity-90">{intro1}</p>
         <p className="opacity-80">{intro2}</p>
       </div>
 
-      {/* Rights grid */}
+      {/* Rights grid
       <div className="container mx-auto px-4 pt-16 pb-10">
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-6">
           {rights.map(({ icon, label }) => {
@@ -130,40 +104,10 @@ export default function YourData() {
             {learnMore}
           </Link>
         </div>
-      </div>
-
-      {/* Take Action cards */}
-      <div className="container mx-auto px-4 py-12">
-        <div className="text-center mb-8">
-          <span className="block text-sm uppercase opacity-80">{badgeActions}</span>
-          <h3 className="mt-2 text-3xl font-extrabold">{headingActions}</h3>
-        </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-          {actions.map(({ icon, label, desc, link }) => {
-            const AIcon = pickIcon(ACTION_ICONS, icon, FileText);
-            return (
-              <Link
-                key={label}
-                href={link}
-                className="flex flex-col items-center gap-4 p-6 rounded-2xl bg-white dark:bg-[#0f173b]
-                           border border-gray-200 dark:border-[#1E2552] shadow-sm hover:shadow-md transition"
-              >
-                <span className="w-12 h-12 flex items-center justify-center rounded-full bg-[#E8F1FF] dark:bg-[#13204a]">
-                  <AIcon className="w-5 h-5 text-blue-500" />
-                </span>
-                <h4 className="text-lg font-semibold text-center">{label}</h4>
-                <p className="text-center text-sm text-gray-600 dark:text-gray-300">{desc}</p>
-                <span className="mt-auto inline-block px-4 py-2 text-sm font-semibold text-white bg-[#003366] rounded-full hover:bg-[#00254d] transition">
-                  {actionCta}
-                </span>
-              </Link>
-            );
-          })}
-        </div>
-      </div>
+      </div> */}
 
       {/* Digital safety tips */}
-      <div className="bg-gradient-to-b from-[#F9FBFF] to-[#E6EEFF] dark:from-[#111a40] dark:to-[#0e1538] py-20">
+      {/* <div className="bg-gradient-to-b from-[#F9FBFF] to-[#E6EEFF] dark:from-[#111a40] dark:to-[#0e1538] py-20">
         <div className="container mx-auto px-4">
           <div className="max-w-2xl mx-auto text-center mb-14">
             <h3 className="text-3xl md:text-4xl font-extrabold text-[#010B2B] dark:text-white">
@@ -190,7 +134,7 @@ export default function YourData() {
             })}
           </div>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }
