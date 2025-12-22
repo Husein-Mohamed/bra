@@ -37,7 +37,7 @@ export default function LatestNewsDemo() {
           </div>
           <Link href="/news" passHref>
             <Button
-              variant="solid"
+              variant="default"
               className="bg-[#003366] text-white hover:bg-[#00254d] transition"
             >
               {t("seeMore")}

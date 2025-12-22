@@ -27,16 +27,16 @@ const BentoGrid = ({
 
 const BentoCard = ({
   name,
-  className,
-  background,
+  className = "",
+  background = null,
   Icon,
   description,
   href,
   cta,
 }: {
   name: string;
-  className: string;
-  background: ReactNode;
+  className?: string;
+  background?: ReactNode;
   Icon: any;
   description: string;
   href: string;

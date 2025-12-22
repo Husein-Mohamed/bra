@@ -1,9 +1,14 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState, forwardRef, useImperativeHandle } from "react";
 import { motion } from "framer-motion";
 
-const BackgroundSlider = () => {
+type SliderHandle = {
+  slideNext: () => void;
+  slidePrev: () => void;
+};
+
+const BackgroundSlider = forwardRef<SliderHandle>((_props, ref) => {
   const videoRef = useRef<HTMLVideoElement | null>(null);
 
   // Define multiple segments you want to play in order
@@ -17,6 +22,31 @@ const BackgroundSlider = () => {
   ];
 
   const [currentSegment, setCurrentSegment] = useState(0);
+
+  useImperativeHandle(ref, () => ({
+    slideNext: () => {
+      setCurrentSegment((prev) => {
+        const next = (prev + 1) % segments.length;
+        const video = videoRef.current;
+        if (video) {
+          video.currentTime = segments[next].start;
+          video.play();
+        }
+        return next;
+      });
+    },
+    slidePrev: () => {
+      setCurrentSegment((prev) => {
+        const next = (prev - 1 + segments.length) % segments.length;
+        const video = videoRef.current;
+        if (video) {
+          video.currentTime = segments[next].start;
+          video.play();
+        }
+        return next;
+      });
+    },
+  }));
 
   useEffect(() => {
     const video = videoRef.current;
@@ -70,6 +100,6 @@ const BackgroundSlider = () => {
       </div>
     </div>
   );
-};
+});
 
 export default BackgroundSlider;

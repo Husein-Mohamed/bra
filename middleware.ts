@@ -8,7 +8,7 @@ export const config = {
 
 export function middleware(req: NextRequest) {
   const isAdmin = req.cookies.get("isAdmin");
-  if (isAdmin !== "true") {
+  if (isAdmin && isAdmin.value !== "true") {
     // server‐side bounce before /news/admin is rendered
     return NextResponse.redirect(new URL("/news/g", req.url));
   }

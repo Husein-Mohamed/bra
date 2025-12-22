@@ -9,11 +9,11 @@ import {
   Trash2,
   Slash,
   Lock,
-  ArrowsRightLeft,
+  ArrowRightLeft,
   Cpu,
   AlertCircle,
   KeyRound,
-  Share2Off,
+  Share2,
   CheckCircle2,
   WifiOff,
 } from "lucide-react";
@@ -24,11 +24,11 @@ const ICONS = {
   Trash2,
   Slash,
   Lock,
-  ArrowsRightLeft,
+  ArrowRightLeft,
   Cpu,
   AlertCircle,
   KeyRound,
-  Share2Off,
+  Share2,
   CheckCircle2,
   WifiOff,
 };
@@ -51,19 +51,19 @@ export default function YourData() {
   const intro2 = t("intro2");
 
   // ---- Rights grid ----
-  const rights = t<{ icon: keyof typeof ICONS; label: string }[]>(
-    "rights",
-    { returnObjects: true }
-  );
+  const rights = (t("rights", { returnObjects: true }) as {
+    icon: keyof typeof ICONS;
+    label: string;
+  }[]) || [];
   const learnMore = t("learnMore");
 
   // ---- Digital safety tips ----
   const tipsHeading = t("tipsHeading");
   const tipsIntro = t("tipsIntro");
-  const tips = t<{ icon: keyof typeof ICONS; label: string }[]>(
-    "tips",
-    { returnObjects: true }
-  );
+  const tips = (t("tips", { returnObjects: true }) as {
+    icon: keyof typeof ICONS;
+    label: string;
+  }[]) || [];
 
   return (
     <section className="bg-white bg-[#080C2C] text-[#010B2B] dark:text-gray-200">

@@ -18,7 +18,7 @@ interface Partner {
 
 export default function Partners() {
   const { t } = useTranslation("partners");
-  const partners = t<Partner[]>("partners", { returnObjects: true }) || [];
+  const partners = (t("partners", { returnObjects: true }) as Partner[]) || [];
 
   if (!Array.isArray(partners) || partners.length === 0) return null;
 
