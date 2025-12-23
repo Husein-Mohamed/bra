@@ -326,7 +326,7 @@ export default function Footer() {
           {/* Logo + Social + Subscribe (Right Side) */}
           <div className="flex flex-col items-start lg:items-end text-right">
             <img
-              src="/images/Logo/BRALOGO.PNG"
+              src="/images/Logo/BRALOGO.png"
               alt="BRA Logo"
               className="max-w-[210px] sm:max-w-[150px] xs:max-w-[150px]"
             />

@@ -3,31 +3,31 @@
     {
       "id": 1,
       "name": "SSF",
-      "src": "/images/partners/SSF.JPG",
+      "src": "/images/partners/SSF.jpg",
       "blurb": "Somali Data Protection Authority (DPA) joins the Network of African Data Protection Authorities (NADPA) to advance data protection through regional collaboration and shared standards."
     },
     {
       "id": 2,
       "name": "UNDP",
-      "src": "/images/partners/ISTANBUL.JPG",
+      "src": "/images/partners/Istanbul.jpg",
       "blurb": "Somali DPA and Nigeria’s Data Protection Commission (NDPC) sign an MoU to foster bilateral collaboration and promote best‑practice data protection."
     },
     {
       "id": 3,
       "name": "IOM",
-      "src": "/images/partners/IOM.PNG",
+      "src": "/images/partners/IOM.png",
       "blurb": "Somali DPA partners with Kenya’s Office of the Data Protection Commissioner (ODPC) to strengthen cross‑border cooperation on privacy and security."
     },
     {
       "id": 3,
       "name": "Kenya ODPC",
-      "src": "/images/partners/UNH.PNG",
+      "src": "/images/partners/unh.png",
       "blurb": "Somali DPA partners with Kenya’s Office of the Data Protection Commissioner (ODPC) to strengthen cross‑border cooperation on privacy and security."
     },
     {
       "id": 3,
       "name": "Kenya ODPC",
-      "src": "/images/partners/UNH.PNG",
+      "src": "/images/partners/unh.png",
       "blurb": "Somali DPA partners with Kenya’s Office of the Data Protection Commissioner (ODPC) to strengthen cross‑border cooperation on privacy and security."
     }
   ]

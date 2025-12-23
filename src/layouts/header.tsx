@@ -71,7 +71,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex-shrink-0">
             <img
-              src="/images/Logo/BRALOGO.PNG"
+              src="/images/Logo/BRALOGO.png"
               alt="BRA Logo"
               className={isSo ? "w-10 md:w-15" : "w-10 md:w-15 xl:w-20 mr-40 pl-4"}
               loading="lazy"
